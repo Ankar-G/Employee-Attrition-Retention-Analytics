@@ -302,7 +302,7 @@ hr-attrition-analytics/
 ![Attrition Drivers & Employee Risk](https://github.com/Ankar-G/Employee-Attrition-Retention-Analytics/blob/main/Dashbaords%20Screenshots/Screenshot%202026-09-29%20120554.png)
 
 ### Retention & HR Insights
-![Retention & HR Insights](https://github.com/Ankar-G/Employee-Attrition-Retention-Analytics/blob/main/Dashbaords%20Screenshots/Screenshot%202026-09-29%20120611.png)
+![Retention & HR Insights](https://github.com/Ankar-G/Employee-Attrition-Retention-Analytics/blob/main/Dashbaords%20Screenshots/Screenshot%202026-09-29%20123627.png)
 
 ## 📌 GitHub Image Path Setup
 
