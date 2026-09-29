@@ -1,0 +1,3001 @@
+Employee_ID,Overtime_Hours,Absence_Days,Late_Days,Remote_Work_Days,Travel_Frequency,Attrition_Flag,Attrition_Date,Attrition_Reason
+EMP0001,27,7,5,10,No Travel,No,NULL,Not Applicable
+EMP0002,37,4,5,49,Frequent,No,NULL,Not Applicable
+EMP0003,64,10,5,0,Rare,No,NULL,Not Applicable
+EMP0004,32,6,10,0,No Travel,No,NULL,Not Applicable
+EMP0005,62,6,4,50,Frequent,No,NULL,Not Applicable
+EMP0006,46,3,7,27,No Travel,No,NULL,Not Applicable
+EMP0007,36,12,5,2,No Travel,No,NULL,Not Applicable
+EMP0008,60,2,5,35,No Travel,Yes,2025-12-22,Health/Family Reasons
+EMP0009,50,8,8,52,Rare,No,NULL,Not Applicable
+EMP0010,43,3,5,43,Frequent,No,NULL,Not Applicable
+EMP0011,51,4,7,33,Rare,Yes,2025-09-29,Job Dissatisfaction
+EMP0012,23,3,4,9,Frequent,No,NULL,Not Applicable
+EMP0013,35,7,5,42,Rare,No,NULL,Not Applicable
+EMP0014,32,9,3,42,No Travel,No,NULL,Not Applicable
+EMP0015,65,9,4,17,Frequent,No,NULL,Not Applicable
+EMP0016,30,3,7,66,No Travel,No,NULL,Not Applicable
+EMP0017,17,6,6,43,Rare,No,NULL,Not Applicable
+EMP0018,62,8,9,46,Rare,Yes,2024-10-17,Job Dissatisfaction
+EMP0019,68,9,3,61,No Travel,No,NULL,Not Applicable
+EMP0020,60,10,2,23,Rare,No,NULL,Not Applicable
+EMP0021,49,4,6,15,Rare,No,NULL,Not Applicable
+EMP0022,27,8,11,12,Rare,No,NULL,Not Applicable
+EMP0023,40,6,6,19,No Travel,No,NULL,Not Applicable
+EMP0024,46,3,7,15,No Travel,No,NULL,Not Applicable
+EMP0025,61,10,8,0,No Travel,No,NULL,Not Applicable
+EMP0026,58,9,7,82,No Travel,No,NULL,Not Applicable
+EMP0027,56,9,5,16,Frequent,Yes,2025-12-16,Work-Life Balance
+EMP0028,33,7,9,70,Rare,No,NULL,Not Applicable
+EMP0029,46,9,6,61,No Travel,No,NULL,Not Applicable
+EMP0030,43,10,8,44,Rare,No,NULL,Not Applicable
+EMP0031,31,4,7,8,No Travel,No,NULL,Not Applicable
+EMP0032,72,9,9,86,No Travel,No,NULL,Not Applicable
+EMP0033,55,4,5,0,Rare,No,NULL,Not Applicable
+EMP0034,55,5,7,63,Frequent,No,NULL,Not Applicable
+EMP0035,7,9,5,37,Frequent,No,NULL,Not Applicable
+EMP0036,29,1,4,64,No Travel,No,NULL,Not Applicable
+EMP0037,51,6,2,39,No Travel,No,NULL,Not Applicable
+EMP0038,65,6,4,17,Frequent,No,NULL,Not Applicable
+EMP0039,43,11,11,82,Rare,Yes,2025-12-29,Health/Family Reasons
+EMP0040,47,7,10,64,No Travel,No,NULL,Not Applicable
+EMP0041,45,6,6,58,No Travel,No,NULL,Not Applicable
+EMP0042,24,2,7,56,Frequent,No,NULL,Not Applicable
+EMP0043,27,10,4,0,Frequent,No,NULL,Not Applicable
+EMP0044,34,3,5,26,Frequent,No,NULL,Not Applicable
+EMP0045,32,4,6,10,No Travel,No,NULL,Not Applicable
+EMP0046,11,7,6,9,Rare,No,NULL,Not Applicable
+EMP0047,53,8,9,46,Frequent,No,NULL,Not Applicable
+EMP0048,36,5,4,22,No Travel,No,NULL,Not Applicable
+EMP0049,26,7,11,18,Frequent,No,NULL,Not Applicable
+EMP0050,69,10,5,65,Rare,No,NULL,Not Applicable
+EMP0051,29,9,4,77,Rare,No,NULL,Not Applicable
+EMP0052,53,5,4,70,No Travel,No,NULL,Not Applicable
+EMP0053,33,4,11,40,Rare,No,NULL,Not Applicable
+EMP0054,40,8,7,0,Frequent,No,NULL,Not Applicable
+EMP0055,47,5,8,0,No Travel,No,NULL,Not Applicable
+EMP0056,37,12,5,15,No Travel,No,NULL,Not Applicable
+EMP0057,48,8,8,52,Rare,No,NULL,Not Applicable
+EMP0058,55,10,4,76,Rare,No,NULL,Not Applicable
+EMP0059,63,3,8,38,No Travel,Yes,2025-09-10,Manager Relationship
+EMP0060,52,5,8,78,No Travel,No,NULL,Not Applicable
+EMP0061,43,6,10,38,Rare,No,NULL,Not Applicable
+EMP0062,45,4,6,26,Frequent,Yes,2025-12-07,Work-Life Balance
+EMP0063,52,5,7,87,Rare,No,NULL,Not Applicable
+EMP0064,27,7,4,26,No Travel,No,NULL,Not Applicable
+EMP0065,35,7,3,13,Frequent,No,NULL,Not Applicable
+EMP0066,45,12,5,46,No Travel,No,NULL,Not Applicable
+EMP0067,45,6,8,53,Rare,No,NULL,Not Applicable
+EMP0068,62,6,7,5,Frequent,No,NULL,Not Applicable
+EMP0069,32,8,9,71,No Travel,No,NULL,Not Applicable
+EMP0070,38,7,1,28,Frequent,No,NULL,Not Applicable
+EMP0071,38,2,10,70,Rare,No,NULL,Not Applicable
+EMP0072,16,3,7,50,Frequent,No,NULL,Not Applicable
+EMP0073,29,6,3,0,No Travel,No,NULL,Not Applicable
+EMP0074,35,8,3,55,No Travel,No,NULL,Not Applicable
+EMP0075,19,6,4,66,Rare,No,NULL,Not Applicable
+EMP0076,33,10,6,19,Frequent,No,NULL,Not Applicable
+EMP0077,50,8,4,38,No Travel,No,NULL,Not Applicable
+EMP0078,46,5,4,19,Rare,No,NULL,Not Applicable
+EMP0079,57,4,3,78,No Travel,No,NULL,Not Applicable
+EMP0080,50,4,5,13,Rare,No,NULL,Not Applicable
+EMP0081,69,6,8,0,No Travel,No,NULL,Not Applicable
+EMP0082,56,10,7,44,Rare,No,NULL,Not Applicable
+EMP0083,39,5,1,52,Rare,No,NULL,Not Applicable
+EMP0084,40,9,9,62,Rare,No,NULL,Not Applicable
+EMP0085,40,12,10,69,No Travel,No,NULL,Not Applicable
+EMP0086,60,10,8,55,Frequent,No,NULL,Not Applicable
+EMP0087,61,8,5,0,Rare,No,NULL,Not Applicable
+EMP0088,55,7,6,50,Frequent,No,NULL,Not Applicable
+EMP0089,48,5,4,47,Rare,No,NULL,Not Applicable
+EMP0090,30,7,6,89,Frequent,No,NULL,Not Applicable
+EMP0091,21,5,5,79,Rare,No,NULL,Not Applicable
+EMP0092,26,4,6,33,Rare,No,NULL,Not Applicable
+EMP0093,26,7,5,23,Frequent,No,NULL,Not Applicable
+EMP0094,12,7,7,38,Rare,Yes,2020-03-07,Better Opportunity
+EMP0095,46,10,9,74,Frequent,No,NULL,Not Applicable
+EMP0096,48,6,8,50,Frequent,No,NULL,Not Applicable
+EMP0097,58,6,5,53,Frequent,Yes,2025-12-29,Work-Life Balance
+EMP0098,48,9,7,68,Rare,Yes,2023-12-16,Better Opportunity
+EMP0099,64,6,8,38,No Travel,Yes,2025-11-16,Job Dissatisfaction
+EMP0100,63,6,4,25,Rare,No,NULL,Not Applicable
+EMP0101,6,9,4,65,Rare,No,NULL,Not Applicable
+EMP0102,50,7,6,17,No Travel,No,NULL,Not Applicable
+EMP0103,11,4,6,88,No Travel,No,NULL,Not Applicable
+EMP0104,39,5,7,26,No Travel,No,NULL,Not Applicable
+EMP0105,41,7,1,26,Rare,No,NULL,Not Applicable
+EMP0106,38,6,7,36,No Travel,No,NULL,Not Applicable
+EMP0107,50,10,5,8,No Travel,Yes,2025-04-01,Work-Life Balance
+EMP0108,38,3,8,63,No Travel,No,NULL,Not Applicable
+EMP0109,61,8,4,84,No Travel,No,NULL,Not Applicable
+EMP0110,23,7,4,14,Rare,Yes,2023-04-13,Personal Reasons
+EMP0111,44,8,8,32,Frequent,No,NULL,Not Applicable
+EMP0112,59,4,5,63,Rare,Yes,2025-07-03,Work-Life Balance
+EMP0113,43,3,7,19,Rare,No,NULL,Not Applicable
+EMP0114,28,2,4,90,No Travel,No,NULL,Not Applicable
+EMP0115,38,11,7,65,No Travel,No,NULL,Not Applicable
+EMP0116,56,10,10,43,Rare,Yes,2022-11-21,Work-Life Balance
+EMP0117,60,8,5,6,Rare,No,NULL,Not Applicable
+EMP0118,36,6,6,14,No Travel,No,NULL,Not Applicable
+EMP0119,48,5,9,37,Rare,No,NULL,Not Applicable
+EMP0120,52,5,5,44,Rare,No,NULL,Not Applicable
+EMP0121,44,6,6,35,Frequent,No,NULL,Not Applicable
+EMP0122,49,10,2,22,No Travel,No,NULL,Not Applicable
+EMP0123,58,7,4,47,Rare,Yes,2025-11-09,Manager Relationship
+EMP0124,52,3,8,21,Rare,No,NULL,Not Applicable
+EMP0125,52,8,4,45,No Travel,Yes,2025-11-29,Job Dissatisfaction
+EMP0126,43,3,4,20,Rare,No,NULL,Not Applicable
+EMP0127,54,4,4,32,No Travel,Yes,2025-12-19,Relocation
+EMP0128,63,4,4,37,Rare,No,NULL,Not Applicable
+EMP0129,34,8,5,77,No Travel,Yes,2025-05-05,Job Dissatisfaction
+EMP0130,29,8,6,32,Rare,No,NULL,Not Applicable
+EMP0131,47,7,9,48,Rare,No,NULL,Not Applicable
+EMP0132,21,9,3,0,Frequent,No,NULL,Not Applicable
+EMP0133,41,5,8,29,Frequent,No,NULL,Not Applicable
+EMP0134,54,6,4,24,Rare,No,NULL,Not Applicable
+EMP0135,34,6,9,39,No Travel,No,NULL,Not Applicable
+EMP0136,28,15,5,74,No Travel,No,NULL,Not Applicable
+EMP0137,37,11,8,23,Frequent,No,NULL,Not Applicable
+EMP0138,63,5,3,62,No Travel,Yes,2025-12-31,Work-Life Balance
+EMP0139,31,12,6,66,Rare,No,NULL,Not Applicable
+EMP0140,42,4,4,85,No Travel,No,NULL,Not Applicable
+EMP0141,47,8,9,65,Rare,Yes,2024-11-14,Manager Relationship
+EMP0142,55,7,3,49,Rare,No,NULL,Not Applicable
+EMP0143,11,9,2,0,Frequent,No,NULL,Not Applicable
+EMP0144,51,11,6,46,No Travel,No,NULL,Not Applicable
+EMP0145,40,1,6,50,No Travel,No,NULL,Not Applicable
+EMP0146,41,10,3,27,Rare,No,NULL,Not Applicable
+EMP0147,36,5,2,49,Frequent,Yes,2025-01-13,Better Opportunity
+EMP0148,27,8,6,67,Rare,No,NULL,Not Applicable
+EMP0149,28,4,3,56,Frequent,No,NULL,Not Applicable
+EMP0150,54,7,4,65,No Travel,No,NULL,Not Applicable
+EMP0151,62,6,10,49,Rare,No,NULL,Not Applicable
+EMP0152,42,4,2,11,No Travel,No,NULL,Not Applicable
+EMP0153,48,5,5,89,No Travel,Yes,2023-03-01,Manager Relationship
+EMP0154,59,9,9,55,No Travel,Yes,2025-07-29,Better Opportunity
+EMP0155,61,9,5,21,Frequent,No,NULL,Not Applicable
+EMP0156,51,6,5,5,Rare,No,NULL,Not Applicable
+EMP0157,54,6,6,46,Frequent,No,NULL,Not Applicable
+EMP0158,54,6,4,45,Rare,No,NULL,Not Applicable
+EMP0159,26,4,3,2,Rare,No,NULL,Not Applicable
+EMP0160,48,7,6,33,Frequent,No,NULL,Not Applicable
+EMP0161,3,6,4,49,Frequent,No,NULL,Not Applicable
+EMP0162,9,6,7,9,Rare,No,NULL,Not Applicable
+EMP0163,52,6,4,39,Frequent,No,NULL,Not Applicable
+EMP0164,41,6,6,56,Rare,Yes,2022-09-18,Work-Life Balance
+EMP0165,42,4,3,69,No Travel,No,NULL,Not Applicable
+EMP0166,39,8,4,32,Frequent,Yes,2022-04-28,Work-Life Balance
+EMP0167,62,3,5,24,Rare,Yes,2025-09-17,Work-Life Balance
+EMP0168,73,11,2,44,No Travel,No,NULL,Not Applicable
+EMP0169,36,6,9,10,Rare,No,NULL,Not Applicable
+EMP0170,50,4,11,14,No Travel,No,NULL,Not Applicable
+EMP0171,11,4,5,55,Frequent,No,NULL,Not Applicable
+EMP0172,42,10,5,33,Rare,No,NULL,Not Applicable
+EMP0173,31,4,4,63,No Travel,No,NULL,Not Applicable
+EMP0174,12,4,8,16,Frequent,No,NULL,Not Applicable
+EMP0175,44,5,5,53,No Travel,No,NULL,Not Applicable
+EMP0176,48,8,4,69,No Travel,No,NULL,Not Applicable
+EMP0177,22,1,4,11,Frequent,No,NULL,Not Applicable
+EMP0178,43,9,6,8,No Travel,No,NULL,Not Applicable
+EMP0179,64,10,7,32,Frequent,No,NULL,Not Applicable
+EMP0180,48,16,1,9,Rare,No,NULL,Not Applicable
+EMP0181,17,7,7,45,Frequent,No,NULL,Not Applicable
+EMP0182,55,8,9,13,No Travel,No,NULL,Not Applicable
+EMP0183,49,10,4,67,No Travel,No,NULL,Not Applicable
+EMP0184,55,4,6,50,Rare,Yes,2025-12-22,Work-Life Balance
+EMP0185,46,5,7,43,Rare,Yes,2025-04-20,Job Dissatisfaction
+EMP0186,55,2,4,27,Rare,Yes,2025-12-30,Work-Life Balance
+EMP0187,42,3,9,76,Frequent,No,NULL,Not Applicable
+EMP0188,13,7,3,41,Frequent,No,NULL,Not Applicable
+EMP0189,58,8,9,5,Frequent,No,NULL,Not Applicable
+EMP0190,55,10,8,67,Rare,No,NULL,Not Applicable
+EMP0191,62,8,7,4,No Travel,No,NULL,Not Applicable
+EMP0192,63,5,9,56,Rare,No,NULL,Not Applicable
+EMP0193,53,2,3,75,No Travel,No,NULL,Not Applicable
+EMP0194,30,4,7,50,Frequent,Yes,2025-07-06,Health/Family Reasons
+EMP0195,38,13,5,80,Rare,Yes,2025-01-02,Work-Life Balance
+EMP0196,51,9,6,83,Frequent,No,NULL,Not Applicable
+EMP0197,50,13,4,34,Rare,Yes,2024-03-12,Health/Family Reasons
+EMP0198,52,9,4,0,Rare,No,NULL,Not Applicable
+EMP0199,58,11,10,65,Rare,No,NULL,Not Applicable
+EMP0200,22,2,6,15,Rare,Yes,2014-09-09,Work-Life Balance
+EMP0201,30,5,7,53,No Travel,No,NULL,Not Applicable
+EMP0202,23,1,5,62,Frequent,No,NULL,Not Applicable
+EMP0203,29,7,3,24,Rare,No,NULL,Not Applicable
+EMP0204,37,5,7,72,Rare,No,NULL,Not Applicable
+EMP0205,22,5,11,55,Frequent,No,NULL,Not Applicable
+EMP0206,49,9,11,47,No Travel,No,NULL,Not Applicable
+EMP0207,54,5,8,41,No Travel,No,NULL,Not Applicable
+EMP0208,51,6,6,10,Frequent,No,NULL,Not Applicable
+EMP0209,54,4,11,62,Rare,Yes,2025-06-03,Better Opportunity
+EMP0210,50,5,4,76,No Travel,No,NULL,Not Applicable
+EMP0211,43,9,7,0,No Travel,No,NULL,Not Applicable
+EMP0212,32,7,8,32,Rare,No,NULL,Not Applicable
+EMP0213,31,10,6,48,Rare,Yes,2019-03-02,Job Dissatisfaction
+EMP0214,56,12,8,39,Rare,No,NULL,Not Applicable
+EMP0215,59,11,7,7,No Travel,No,NULL,Not Applicable
+EMP0216,48,14,6,25,No Travel,No,NULL,Not Applicable
+EMP0217,42,7,10,82,No Travel,Yes,2023-09-17,Work-Life Balance
+EMP0218,54,6,3,33,Rare,No,NULL,Not Applicable
+EMP0219,53,6,5,26,Frequent,Yes,2025-03-17,Career Growth
+EMP0220,58,6,6,25,Frequent,No,NULL,Not Applicable
+EMP0221,67,7,2,39,Rare,No,NULL,Not Applicable
+EMP0222,37,10,5,80,Rare,No,NULL,Not Applicable
+EMP0223,53,3,6,20,Frequent,No,NULL,Not Applicable
+EMP0224,38,9,6,9,Frequent,No,NULL,Not Applicable
+EMP0225,64,4,7,28,Frequent,No,NULL,Not Applicable
+EMP0226,32,5,8,0,Rare,No,NULL,Not Applicable
+EMP0227,33,4,10,50,Rare,No,NULL,Not Applicable
+EMP0228,53,4,4,51,No Travel,No,NULL,Not Applicable
+EMP0229,31,5,6,58,Frequent,No,NULL,Not Applicable
+EMP0230,33,8,3,52,Rare,No,NULL,Not Applicable
+EMP0231,45,9,4,102,No Travel,No,NULL,Not Applicable
+EMP0232,48,4,3,65,No Travel,No,NULL,Not Applicable
+EMP0233,45,4,3,27,Rare,No,NULL,Not Applicable
+EMP0234,64,6,7,54,Rare,No,NULL,Not Applicable
+EMP0235,57,9,4,0,Frequent,Yes,2025-12-16,Better Opportunity
+EMP0236,46,6,14,43,Rare,Yes,2025-10-25,Work-Life Balance
+EMP0237,8,3,9,25,Frequent,No,NULL,Not Applicable
+EMP0238,66,5,9,35,No Travel,No,NULL,Not Applicable
+EMP0239,48,3,9,47,Rare,No,NULL,Not Applicable
+EMP0240,56,6,5,26,Rare,No,NULL,Not Applicable
+EMP0241,25,7,2,38,Frequent,No,NULL,Not Applicable
+EMP0242,42,4,7,43,No Travel,No,NULL,Not Applicable
+EMP0243,27,6,11,53,Frequent,No,NULL,Not Applicable
+EMP0244,56,4,7,86,No Travel,Yes,2025-11-14,Relocation
+EMP0245,54,10,12,37,No Travel,No,NULL,Not Applicable
+EMP0246,52,8,6,28,Rare,No,NULL,Not Applicable
+EMP0247,44,10,4,51,Rare,No,NULL,Not Applicable
+EMP0248,37,3,6,22,No Travel,No,NULL,Not Applicable
+EMP0249,28,7,9,12,Frequent,No,NULL,Not Applicable
+EMP0250,37,6,7,41,No Travel,No,NULL,Not Applicable
+EMP0251,8,2,9,41,Rare,No,NULL,Not Applicable
+EMP0252,39,6,9,0,Frequent,No,NULL,Not Applicable
+EMP0253,59,4,7,62,Frequent,No,NULL,Not Applicable
+EMP0254,44,6,5,65,No Travel,No,NULL,Not Applicable
+EMP0255,54,5,4,68,No Travel,No,NULL,Not Applicable
+EMP0256,33,6,5,6,No Travel,No,NULL,Not Applicable
+EMP0257,54,4,6,67,Rare,No,NULL,Not Applicable
+EMP0258,58,6,6,52,Rare,No,NULL,Not Applicable
+EMP0259,26,7,1,67,No Travel,No,NULL,Not Applicable
+EMP0260,58,7,7,47,No Travel,No,NULL,Not Applicable
+EMP0261,49,7,2,45,No Travel,No,NULL,Not Applicable
+EMP0262,32,4,7,9,Rare,No,NULL,Not Applicable
+EMP0263,50,3,10,38,Frequent,Yes,2025-12-19,Career Growth
+EMP0264,37,5,12,73,Rare,No,NULL,Not Applicable
+EMP0265,58,9,10,0,Rare,No,NULL,Not Applicable
+EMP0266,47,7,5,55,Rare,No,NULL,Not Applicable
+EMP0267,50,6,5,19,Frequent,No,NULL,Not Applicable
+EMP0268,36,6,6,47,Frequent,No,NULL,Not Applicable
+EMP0269,6,8,5,79,Rare,No,NULL,Not Applicable
+EMP0270,58,8,5,33,No Travel,Yes,2025-12-03,Job Dissatisfaction
+EMP0271,8,5,5,70,Frequent,No,NULL,Not Applicable
+EMP0272,42,6,8,30,No Travel,No,NULL,Not Applicable
+EMP0273,34,5,6,86,Rare,No,NULL,Not Applicable
+EMP0274,23,6,3,21,No Travel,No,NULL,Not Applicable
+EMP0275,38,6,3,2,Rare,No,NULL,Not Applicable
+EMP0276,33,6,6,49,Frequent,Yes,2024-07-04,Work-Life Balance
+EMP0277,41,18,2,49,Frequent,No,NULL,Not Applicable
+EMP0278,59,6,8,46,Rare,No,NULL,Not Applicable
+EMP0279,55,1,4,19,Rare,No,NULL,Not Applicable
+EMP0280,65,8,4,15,No Travel,No,NULL,Not Applicable
+EMP0281,36,6,12,42,No Travel,No,NULL,Not Applicable
+EMP0282,57,5,7,54,No Travel,No,NULL,Not Applicable
+EMP0283,54,5,4,89,Frequent,Yes,2025-02-08,Career Growth
+EMP0284,55,10,13,66,No Travel,No,NULL,Not Applicable
+EMP0285,56,5,6,49,No Travel,No,NULL,Not Applicable
+EMP0286,43,8,2,54,Rare,No,NULL,Not Applicable
+EMP0287,43,11,5,56,Rare,No,NULL,Not Applicable
+EMP0288,37,2,1,28,Frequent,No,NULL,Not Applicable
+EMP0289,57,12,10,20,Rare,Yes,2025-12-22,Work-Life Balance
+EMP0290,42,11,1,51,No Travel,Yes,2025-12-14,Relocation
+EMP0291,40,7,7,87,No Travel,Yes,2023-07-12,Work-Life Balance
+EMP0292,24,6,6,56,No Travel,No,NULL,Not Applicable
+EMP0293,43,7,6,0,No Travel,No,NULL,Not Applicable
+EMP0294,43,5,4,50,Rare,No,NULL,Not Applicable
+EMP0295,40,8,4,31,No Travel,No,NULL,Not Applicable
+EMP0296,12,6,9,5,Rare,Yes,2025-11-06,Career Growth
+EMP0297,41,6,5,62,No Travel,No,NULL,Not Applicable
+EMP0298,39,5,3,47,No Travel,No,NULL,Not Applicable
+EMP0299,45,10,4,41,No Travel,No,NULL,Not Applicable
+EMP0300,41,8,5,53,No Travel,No,NULL,Not Applicable
+EMP0301,27,8,6,35,Rare,No,NULL,Not Applicable
+EMP0302,58,7,9,59,No Travel,No,NULL,Not Applicable
+EMP0303,65,4,7,61,No Travel,No,NULL,Not Applicable
+EMP0304,8,11,3,86,Rare,No,NULL,Not Applicable
+EMP0305,40,6,5,2,Frequent,No,NULL,Not Applicable
+EMP0306,36,10,1,52,Rare,No,NULL,Not Applicable
+EMP0307,41,6,8,20,Frequent,No,NULL,Not Applicable
+EMP0308,68,3,6,55,Rare,Yes,2025-10-07,Relocation
+EMP0309,41,12,6,81,No Travel,No,NULL,Not Applicable
+EMP0310,53,6,4,18,Rare,No,NULL,Not Applicable
+EMP0311,24,5,4,12,Rare,Yes,2018-01-12,Manager Relationship
+EMP0312,19,9,5,19,Rare,No,NULL,Not Applicable
+EMP0313,42,3,9,49,Rare,No,NULL,Not Applicable
+EMP0314,49,4,9,42,Frequent,No,NULL,Not Applicable
+EMP0315,48,7,8,21,No Travel,No,NULL,Not Applicable
+EMP0316,61,7,4,35,Frequent,No,NULL,Not Applicable
+EMP0317,28,10,6,34,Frequent,No,NULL,Not Applicable
+EMP0318,56,6,4,0,No Travel,Yes,2025-11-04,Career Growth
+EMP0319,65,3,6,40,No Travel,No,NULL,Not Applicable
+EMP0320,61,7,8,0,Rare,Yes,2023-11-02,Better Opportunity
+EMP0321,50,9,8,30,Rare,No,NULL,Not Applicable
+EMP0322,47,4,3,28,No Travel,No,NULL,Not Applicable
+EMP0323,36,7,7,45,Frequent,Yes,2018-06-04,Career Growth
+EMP0324,27,6,12,45,Rare,No,NULL,Not Applicable
+EMP0325,42,6,8,23,No Travel,No,NULL,Not Applicable
+EMP0326,25,5,5,39,Rare,No,NULL,Not Applicable
+EMP0327,50,4,5,39,No Travel,No,NULL,Not Applicable
+EMP0328,26,9,6,61,Rare,No,NULL,Not Applicable
+EMP0329,51,10,9,35,Frequent,Yes,2024-10-23,Personal Reasons
+EMP0330,57,7,4,15,Frequent,No,NULL,Not Applicable
+EMP0331,21,4,5,49,Frequent,No,NULL,Not Applicable
+EMP0332,59,7,8,73,No Travel,No,NULL,Not Applicable
+EMP0333,57,7,5,25,No Travel,Yes,2025-11-19,Relocation
+EMP0334,67,11,8,0,Rare,Yes,2025-03-10,Relocation
+EMP0335,31,8,6,60,Frequent,No,NULL,Not Applicable
+EMP0336,42,3,4,34,No Travel,No,NULL,Not Applicable
+EMP0337,49,6,2,21,Rare,No,NULL,Not Applicable
+EMP0338,32,6,12,37,Frequent,No,NULL,Not Applicable
+EMP0339,56,5,7,53,Rare,No,NULL,Not Applicable
+EMP0340,50,7,7,0,No Travel,No,NULL,Not Applicable
+EMP0341,33,5,6,39,No Travel,No,NULL,Not Applicable
+EMP0342,30,8,4,21,No Travel,No,NULL,Not Applicable
+EMP0343,50,2,4,41,Rare,No,NULL,Not Applicable
+EMP0344,51,6,8,12,No Travel,No,NULL,Not Applicable
+EMP0345,52,10,6,33,No Travel,No,NULL,Not Applicable
+EMP0346,30,7,11,35,No Travel,No,NULL,Not Applicable
+EMP0347,33,8,4,14,Rare,No,NULL,Not Applicable
+EMP0348,43,0,3,68,Rare,No,NULL,Not Applicable
+EMP0349,33,8,6,16,Rare,No,NULL,Not Applicable
+EMP0350,53,7,7,45,No Travel,No,NULL,Not Applicable
+EMP0351,55,5,9,42,No Travel,No,NULL,Not Applicable
+EMP0352,52,8,7,84,No Travel,No,NULL,Not Applicable
+EMP0353,54,7,3,53,Frequent,Yes,2025-04-09,Relocation
+EMP0354,61,8,10,67,Rare,No,NULL,Not Applicable
+EMP0355,46,6,10,56,Frequent,Yes,2024-05-28,Job Dissatisfaction
+EMP0356,44,2,8,71,Rare,No,NULL,Not Applicable
+EMP0357,44,6,7,49,Rare,No,NULL,Not Applicable
+EMP0358,42,8,5,0,Rare,No,NULL,Not Applicable
+EMP0359,46,2,4,79,Rare,No,NULL,Not Applicable
+EMP0360,41,11,3,19,No Travel,No,NULL,Not Applicable
+EMP0361,48,12,6,0,Rare,Yes,2025-12-09,Compensation
+EMP0362,43,7,2,36,Rare,No,NULL,Not Applicable
+EMP0363,46,8,7,64,Rare,No,NULL,Not Applicable
+EMP0364,38,0,3,80,Frequent,No,NULL,Not Applicable
+EMP0365,55,7,3,12,No Travel,No,NULL,Not Applicable
+EMP0366,57,9,8,26,Rare,No,NULL,Not Applicable
+EMP0367,44,7,15,34,No Travel,No,NULL,Not Applicable
+EMP0368,35,6,5,56,Rare,Yes,2023-07-17,Work-Life Balance
+EMP0369,46,7,3,41,Frequent,No,NULL,Not Applicable
+EMP0370,45,4,2,0,Rare,No,NULL,Not Applicable
+EMP0371,19,10,5,30,Frequent,No,NULL,Not Applicable
+EMP0372,53,7,7,65,Rare,Yes,2025-05-14,Work-Life Balance
+EMP0373,30,3,3,4,Rare,No,NULL,Not Applicable
+EMP0374,62,8,5,39,Frequent,No,NULL,Not Applicable
+EMP0375,36,3,8,34,Frequent,No,NULL,Not Applicable
+EMP0376,55,9,3,58,Rare,No,NULL,Not Applicable
+EMP0377,51,4,6,26,Rare,No,NULL,Not Applicable
+EMP0378,17,4,5,53,Frequent,No,NULL,Not Applicable
+EMP0379,32,8,9,15,Rare,No,NULL,Not Applicable
+EMP0380,13,4,7,23,Rare,No,NULL,Not Applicable
+EMP0381,45,9,7,66,Rare,No,NULL,Not Applicable
+EMP0382,19,4,6,16,Frequent,No,NULL,Not Applicable
+EMP0383,25,14,5,20,Rare,No,NULL,Not Applicable
+EMP0384,45,6,2,30,Frequent,No,NULL,Not Applicable
+EMP0385,40,11,7,33,Frequent,Yes,2025-11-22,Work-Life Balance
+EMP0386,29,7,2,0,No Travel,No,NULL,Not Applicable
+EMP0387,59,7,9,38,No Travel,No,NULL,Not Applicable
+EMP0388,26,5,7,22,Rare,Yes,2024-11-19,Job Dissatisfaction
+EMP0389,60,10,6,38,Rare,No,NULL,Not Applicable
+EMP0390,50,6,9,11,Rare,No,NULL,Not Applicable
+EMP0391,58,5,6,42,Rare,No,NULL,Not Applicable
+EMP0392,34,3,3,81,No Travel,No,NULL,Not Applicable
+EMP0393,13,5,6,0,Frequent,No,NULL,Not Applicable
+EMP0394,40,8,7,0,Frequent,No,NULL,Not Applicable
+EMP0395,30,10,6,66,No Travel,No,NULL,Not Applicable
+EMP0396,20,7,12,61,Rare,No,NULL,Not Applicable
+EMP0397,54,5,3,44,No Travel,No,NULL,Not Applicable
+EMP0398,56,4,7,73,Frequent,No,NULL,Not Applicable
+EMP0399,35,6,3,0,No Travel,No,NULL,Not Applicable
+EMP0400,34,7,5,15,Rare,No,NULL,Not Applicable
+EMP0401,60,11,3,33,Frequent,No,NULL,Not Applicable
+EMP0402,35,7,5,29,No Travel,No,NULL,Not Applicable
+EMP0403,50,11,8,16,Rare,Yes,2023-01-02,Career Growth
+EMP0404,30,4,3,64,Rare,No,NULL,Not Applicable
+EMP0405,25,6,3,20,Frequent,No,NULL,Not Applicable
+EMP0406,39,6,9,0,No Travel,No,NULL,Not Applicable
+EMP0407,35,5,5,54,Rare,No,NULL,Not Applicable
+EMP0408,60,10,13,29,No Travel,Yes,2025-11-18,Work-Life Balance
+EMP0409,34,9,8,31,No Travel,No,NULL,Not Applicable
+EMP0410,67,17,5,7,Rare,Yes,2025-09-30,Health/Family Reasons
+EMP0411,36,2,8,0,Rare,No,NULL,Not Applicable
+EMP0412,66,8,6,9,Rare,No,NULL,Not Applicable
+EMP0413,40,10,1,48,Rare,No,NULL,Not Applicable
+EMP0414,61,3,3,0,Rare,No,NULL,Not Applicable
+EMP0415,54,7,4,19,No Travel,No,NULL,Not Applicable
+EMP0416,63,6,9,91,No Travel,No,NULL,Not Applicable
+EMP0417,38,6,10,54,Rare,No,NULL,Not Applicable
+EMP0418,32,3,2,8,No Travel,No,NULL,Not Applicable
+EMP0419,59,9,4,45,Rare,Yes,2025-12-14,Work-Life Balance
+EMP0420,21,7,4,36,Frequent,No,NULL,Not Applicable
+EMP0421,22,3,4,3,Rare,No,NULL,Not Applicable
+EMP0422,48,7,3,80,Rare,No,NULL,Not Applicable
+EMP0423,40,5,5,60,Rare,No,NULL,Not Applicable
+EMP0424,40,7,10,38,Rare,No,NULL,Not Applicable
+EMP0425,62,8,3,28,No Travel,No,NULL,Not Applicable
+EMP0426,44,8,6,58,No Travel,No,NULL,Not Applicable
+EMP0427,52,5,2,76,Frequent,Yes,2025-12-11,Career Growth
+EMP0428,35,5,2,0,Frequent,No,NULL,Not Applicable
+EMP0429,26,7,7,58,Frequent,No,NULL,Not Applicable
+EMP0430,39,7,3,58,No Travel,No,NULL,Not Applicable
+EMP0431,42,5,7,61,No Travel,No,NULL,Not Applicable
+EMP0432,38,7,4,42,Rare,No,NULL,Not Applicable
+EMP0433,13,8,5,12,Rare,No,NULL,Not Applicable
+EMP0434,55,4,6,0,Rare,No,NULL,Not Applicable
+EMP0435,43,8,3,84,No Travel,No,NULL,Not Applicable
+EMP0436,52,5,2,37,No Travel,No,NULL,Not Applicable
+EMP0437,57,4,6,49,No Travel,No,NULL,Not Applicable
+EMP0438,60,12,6,10,No Travel,No,NULL,Not Applicable
+EMP0439,48,7,7,0,Rare,No,NULL,Not Applicable
+EMP0440,59,11,5,38,Rare,No,NULL,Not Applicable
+EMP0441,50,6,5,0,Frequent,Yes,2025-09-29,Work-Life Balance
+EMP0442,49,3,10,57,Rare,No,NULL,Not Applicable
+EMP0443,50,6,6,18,Frequent,Yes,2025-12-23,Manager Relationship
+EMP0444,53,5,6,84,Frequent,Yes,2025-04-21,Job Dissatisfaction
+EMP0445,20,8,4,38,Frequent,No,NULL,Not Applicable
+EMP0446,67,12,9,10,No Travel,Yes,2025-11-23,Work-Life Balance
+EMP0447,30,7,3,85,No Travel,No,NULL,Not Applicable
+EMP0448,37,10,6,71,No Travel,No,NULL,Not Applicable
+EMP0449,57,4,1,43,Frequent,No,NULL,Not Applicable
+EMP0450,44,10,9,16,Rare,No,NULL,Not Applicable
+EMP0451,34,4,4,69,No Travel,No,NULL,Not Applicable
+EMP0452,47,7,6,29,Rare,No,NULL,Not Applicable
+EMP0453,62,5,4,0,No Travel,No,NULL,Not Applicable
+EMP0454,64,5,5,79,Rare,No,NULL,Not Applicable
+EMP0455,13,3,4,69,Frequent,No,NULL,Not Applicable
+EMP0456,28,4,1,98,No Travel,Yes,2022-01-02,Relocation
+EMP0457,23,8,6,27,Frequent,No,NULL,Not Applicable
+EMP0458,18,6,5,69,No Travel,No,NULL,Not Applicable
+EMP0459,63,2,6,35,Rare,No,NULL,Not Applicable
+EMP0460,32,4,2,59,Frequent,No,NULL,Not Applicable
+EMP0461,53,10,5,88,Rare,No,NULL,Not Applicable
+EMP0462,39,5,5,80,Rare,No,NULL,Not Applicable
+EMP0463,47,10,6,30,Rare,No,NULL,Not Applicable
+EMP0464,77,8,5,47,No Travel,No,NULL,Not Applicable
+EMP0465,39,6,4,65,Rare,No,NULL,Not Applicable
+EMP0466,36,6,5,39,Rare,No,NULL,Not Applicable
+EMP0467,38,4,6,0,Rare,Yes,2025-07-27,Better Opportunity
+EMP0468,62,6,9,38,No Travel,No,NULL,Not Applicable
+EMP0469,48,8,7,37,No Travel,No,NULL,Not Applicable
+EMP0470,12,7,2,54,Frequent,No,NULL,Not Applicable
+EMP0471,52,10,11,58,Frequent,Yes,2024-12-06,Work-Life Balance
+EMP0472,47,5,5,14,Frequent,No,NULL,Not Applicable
+EMP0473,46,8,8,62,No Travel,Yes,2025-10-05,Job Dissatisfaction
+EMP0474,40,9,4,81,Rare,Yes,2025-03-22,Job Dissatisfaction
+EMP0475,37,7,2,44,Rare,No,NULL,Not Applicable
+EMP0476,42,5,4,21,Rare,No,NULL,Not Applicable
+EMP0477,36,12,8,24,No Travel,No,NULL,Not Applicable
+EMP0478,24,7,6,17,Frequent,No,NULL,Not Applicable
+EMP0479,21,10,6,24,Frequent,No,NULL,Not Applicable
+EMP0480,40,8,3,87,Frequent,No,NULL,Not Applicable
+EMP0481,56,6,5,40,Frequent,Yes,2025-10-19,Work-Life Balance
+EMP0482,25,4,3,50,Rare,No,NULL,Not Applicable
+EMP0483,41,8,8,52,Rare,No,NULL,Not Applicable
+EMP0484,47,9,8,33,Frequent,No,NULL,Not Applicable
+EMP0485,28,8,1,54,No Travel,No,NULL,Not Applicable
+EMP0486,29,10,9,25,Frequent,No,NULL,Not Applicable
+EMP0487,25,7,2,30,Frequent,No,NULL,Not Applicable
+EMP0488,25,11,3,69,Rare,No,NULL,Not Applicable
+EMP0489,61,11,6,76,Rare,Yes,2025-12-10,Personal Reasons
+EMP0490,40,10,4,37,Rare,Yes,2025-02-14,Health/Family Reasons
+EMP0491,48,7,5,26,No Travel,No,NULL,Not Applicable
+EMP0492,56,6,4,17,Rare,No,NULL,Not Applicable
+EMP0493,23,3,7,0,Rare,No,NULL,Not Applicable
+EMP0494,32,5,3,19,Frequent,No,NULL,Not Applicable
+EMP0495,50,6,10,62,No Travel,No,NULL,Not Applicable
+EMP0496,38,6,1,6,No Travel,No,NULL,Not Applicable
+EMP0497,34,11,4,28,Rare,No,NULL,Not Applicable
+EMP0498,24,6,7,2,Frequent,No,NULL,Not Applicable
+EMP0499,28,9,7,37,Frequent,No,NULL,Not Applicable
+EMP0500,20,2,5,125,No Travel,Yes,2025-10-24,Compensation
+EMP0501,41,11,9,31,Rare,No,NULL,Not Applicable
+EMP0502,37,4,6,13,No Travel,No,NULL,Not Applicable
+EMP0503,57,6,5,5,No Travel,Yes,2025-12-15,Work-Life Balance
+EMP0504,33,6,5,53,Rare,No,NULL,Not Applicable
+EMP0505,33,5,4,47,Frequent,No,NULL,Not Applicable
+EMP0506,45,5,9,27,No Travel,Yes,2025-09-26,Job Dissatisfaction
+EMP0507,37,5,3,46,Rare,No,NULL,Not Applicable
+EMP0508,41,9,11,28,Rare,No,NULL,Not Applicable
+EMP0509,32,12,10,94,Rare,No,NULL,Not Applicable
+EMP0510,48,10,5,64,Rare,Yes,2025-04-20,Work-Life Balance
+EMP0511,12,5,3,51,Frequent,No,NULL,Not Applicable
+EMP0512,31,7,6,0,Rare,No,NULL,Not Applicable
+EMP0513,13,3,2,38,Frequent,No,NULL,Not Applicable
+EMP0514,14,3,9,31,Frequent,Yes,2016-03-12,Better Opportunity
+EMP0515,31,9,11,35,No Travel,No,NULL,Not Applicable
+EMP0516,37,5,1,79,Rare,No,NULL,Not Applicable
+EMP0517,36,7,5,18,Rare,No,NULL,Not Applicable
+EMP0518,52,9,5,0,Rare,No,NULL,Not Applicable
+EMP0519,45,11,2,54,Rare,No,NULL,Not Applicable
+EMP0520,36,7,6,11,No Travel,No,NULL,Not Applicable
+EMP0521,53,7,2,0,No Travel,No,NULL,Not Applicable
+EMP0522,26,4,7,53,Rare,No,NULL,Not Applicable
+EMP0523,57,8,9,37,Rare,No,NULL,Not Applicable
+EMP0524,39,5,3,29,No Travel,No,NULL,Not Applicable
+EMP0525,50,13,4,84,No Travel,No,NULL,Not Applicable
+EMP0526,61,7,3,60,Frequent,No,NULL,Not Applicable
+EMP0527,47,8,3,38,No Travel,No,NULL,Not Applicable
+EMP0528,66,4,8,25,Rare,Yes,2025-10-09,Work-Life Balance
+EMP0529,32,5,5,26,No Travel,No,NULL,Not Applicable
+EMP0530,50,6,10,34,Frequent,No,NULL,Not Applicable
+EMP0531,59,9,3,24,No Travel,No,NULL,Not Applicable
+EMP0532,65,5,3,23,No Travel,No,NULL,Not Applicable
+EMP0533,51,6,6,50,No Travel,No,NULL,Not Applicable
+EMP0534,56,8,10,41,Frequent,Yes,2025-08-16,Work-Life Balance
+EMP0535,32,13,11,96,No Travel,No,NULL,Not Applicable
+EMP0536,35,5,4,63,No Travel,Yes,2025-12-17,Work-Life Balance
+EMP0537,51,5,2,57,Rare,No,NULL,Not Applicable
+EMP0538,51,5,5,50,No Travel,No,NULL,Not Applicable
+EMP0539,60,1,5,51,Rare,Yes,2025-10-05,Relocation
+EMP0540,36,5,6,40,No Travel,No,NULL,Not Applicable
+EMP0541,25,4,4,90,Frequent,No,NULL,Not Applicable
+EMP0542,53,7,5,79,No Travel,No,NULL,Not Applicable
+EMP0543,20,8,5,24,Rare,No,NULL,Not Applicable
+EMP0544,70,8,2,48,No Travel,No,NULL,Not Applicable
+EMP0545,56,1,8,37,Rare,Yes,2025-09-18,Manager Relationship
+EMP0546,57,7,7,9,Rare,No,NULL,Not Applicable
+EMP0547,35,3,9,35,Frequent,No,NULL,Not Applicable
+EMP0548,5,3,6,18,Rare,No,NULL,Not Applicable
+EMP0549,53,7,9,23,Rare,Yes,2025-12-31,Better Opportunity
+EMP0550,21,4,6,11,Frequent,No,NULL,Not Applicable
+EMP0551,20,2,5,39,Frequent,Yes,2020-03-29,Better Opportunity
+EMP0552,37,7,9,103,No Travel,No,NULL,Not Applicable
+EMP0553,54,3,6,34,No Travel,No,NULL,Not Applicable
+EMP0554,46,6,2,0,No Travel,No,NULL,Not Applicable
+EMP0555,52,4,4,59,Frequent,No,NULL,Not Applicable
+EMP0556,36,5,4,45,Rare,No,NULL,Not Applicable
+EMP0557,40,5,8,40,Frequent,No,NULL,Not Applicable
+EMP0558,24,0,5,77,Rare,No,NULL,Not Applicable
+EMP0559,46,7,7,75,No Travel,No,NULL,Not Applicable
+EMP0560,49,2,4,73,Rare,Yes,2022-10-22,Career Growth
+EMP0561,35,4,2,59,No Travel,No,NULL,Not Applicable
+EMP0562,34,9,1,38,Rare,No,NULL,Not Applicable
+EMP0563,37,3,9,19,Frequent,No,NULL,Not Applicable
+EMP0564,58,8,5,24,No Travel,No,NULL,Not Applicable
+EMP0565,9,3,3,22,Frequent,No,NULL,Not Applicable
+EMP0566,34,9,4,13,Rare,No,NULL,Not Applicable
+EMP0567,21,5,7,0,Frequent,No,NULL,Not Applicable
+EMP0568,50,6,5,36,No Travel,No,NULL,Not Applicable
+EMP0569,35,6,10,40,Frequent,No,NULL,Not Applicable
+EMP0570,45,8,2,53,Rare,Yes,2025-12-23,Work-Life Balance
+EMP0571,35,10,1,23,Frequent,No,NULL,Not Applicable
+EMP0572,49,8,7,40,No Travel,Yes,2025-04-20,Better Opportunity
+EMP0573,71,5,4,43,Frequent,Yes,2025-11-03,Work-Life Balance
+EMP0574,40,4,4,26,No Travel,No,NULL,Not Applicable
+EMP0575,47,5,9,34,No Travel,No,NULL,Not Applicable
+EMP0576,38,7,3,71,No Travel,No,NULL,Not Applicable
+EMP0577,36,2,6,0,Rare,No,NULL,Not Applicable
+EMP0578,64,4,3,10,No Travel,No,NULL,Not Applicable
+EMP0579,38,5,7,3,Rare,No,NULL,Not Applicable
+EMP0580,53,6,4,23,No Travel,No,NULL,Not Applicable
+EMP0581,44,6,5,75,No Travel,No,NULL,Not Applicable
+EMP0582,30,11,5,45,No Travel,No,NULL,Not Applicable
+EMP0583,51,11,6,87,Rare,Yes,2024-01-18,Work-Life Balance
+EMP0584,30,6,6,46,No Travel,No,NULL,Not Applicable
+EMP0585,25,5,5,32,Frequent,No,NULL,Not Applicable
+EMP0586,35,6,3,50,Rare,Yes,2024-07-10,Compensation
+EMP0587,50,3,7,43,Rare,No,NULL,Not Applicable
+EMP0588,31,7,3,61,Rare,No,NULL,Not Applicable
+EMP0589,37,9,6,30,No Travel,No,NULL,Not Applicable
+EMP0590,49,3,14,47,Rare,No,NULL,Not Applicable
+EMP0591,32,7,8,21,No Travel,No,NULL,Not Applicable
+EMP0592,60,2,5,11,Frequent,No,NULL,Not Applicable
+EMP0593,24,8,4,50,No Travel,No,NULL,Not Applicable
+EMP0594,43,8,4,83,Rare,Yes,2024-06-29,Career Growth
+EMP0595,59,6,4,67,No Travel,No,NULL,Not Applicable
+EMP0596,13,11,8,64,Rare,No,NULL,Not Applicable
+EMP0597,27,4,2,51,Frequent,No,NULL,Not Applicable
+EMP0598,28,2,5,51,Frequent,No,NULL,Not Applicable
+EMP0599,10,4,3,53,No Travel,No,NULL,Not Applicable
+EMP0600,37,4,5,48,Rare,No,NULL,Not Applicable
+EMP0601,61,8,7,19,Frequent,No,NULL,Not Applicable
+EMP0602,64,7,8,15,Rare,Yes,2025-11-27,Job Dissatisfaction
+EMP0603,43,5,12,36,No Travel,No,NULL,Not Applicable
+EMP0604,46,2,6,42,No Travel,No,NULL,Not Applicable
+EMP0605,22,6,6,33,Rare,No,NULL,Not Applicable
+EMP0606,45,5,8,21,Rare,No,NULL,Not Applicable
+EMP0607,58,3,8,10,No Travel,No,NULL,Not Applicable
+EMP0608,58,9,2,45,No Travel,Yes,2025-12-20,Work-Life Balance
+EMP0609,38,6,4,0,Rare,No,NULL,Not Applicable
+EMP0610,54,7,9,39,Rare,No,NULL,Not Applicable
+EMP0611,41,6,10,90,Rare,Yes,2017-06-30,Work-Life Balance
+EMP0612,58,12,5,8,No Travel,No,NULL,Not Applicable
+EMP0613,37,7,5,41,No Travel,No,NULL,Not Applicable
+EMP0614,32,6,6,15,Frequent,No,NULL,Not Applicable
+EMP0615,45,11,5,49,Frequent,Yes,2025-05-16,Work-Life Balance
+EMP0616,33,3,6,1,Rare,No,NULL,Not Applicable
+EMP0617,44,6,9,2,Rare,No,NULL,Not Applicable
+EMP0618,47,3,5,29,No Travel,No,NULL,Not Applicable
+EMP0619,64,9,5,43,Frequent,No,NULL,Not Applicable
+EMP0620,8,7,4,66,Rare,No,NULL,Not Applicable
+EMP0621,45,5,7,65,Rare,No,NULL,Not Applicable
+EMP0622,58,5,7,16,Rare,No,NULL,Not Applicable
+EMP0623,41,4,1,65,Rare,Yes,2024-09-21,Work-Life Balance
+EMP0624,36,8,6,78,Frequent,No,NULL,Not Applicable
+EMP0625,29,9,7,22,Rare,No,NULL,Not Applicable
+EMP0626,59,10,10,50,Rare,Yes,2025-03-27,Work-Life Balance
+EMP0627,23,4,3,41,Rare,No,NULL,Not Applicable
+EMP0628,38,6,6,66,No Travel,No,NULL,Not Applicable
+EMP0629,43,3,4,52,Frequent,No,NULL,Not Applicable
+EMP0630,49,8,3,42,Rare,No,NULL,Not Applicable
+EMP0631,67,8,6,8,No Travel,No,NULL,Not Applicable
+EMP0632,17,2,11,46,Frequent,No,NULL,Not Applicable
+EMP0633,49,5,8,27,Rare,Yes,2024-10-16,Job Dissatisfaction
+EMP0634,35,10,5,48,Frequent,No,NULL,Not Applicable
+EMP0635,54,3,6,51,No Travel,No,NULL,Not Applicable
+EMP0636,47,14,7,63,Frequent,No,NULL,Not Applicable
+EMP0637,21,7,6,0,Rare,No,NULL,Not Applicable
+EMP0638,62,12,5,16,Rare,Yes,2025-09-18,Work-Life Balance
+EMP0639,38,7,10,53,Rare,No,NULL,Not Applicable
+EMP0640,48,2,4,54,No Travel,No,NULL,Not Applicable
+EMP0641,59,7,5,12,No Travel,No,NULL,Not Applicable
+EMP0642,55,6,4,13,Rare,No,NULL,Not Applicable
+EMP0643,34,8,7,36,Rare,No,NULL,Not Applicable
+EMP0644,64,10,2,42,Rare,No,NULL,Not Applicable
+EMP0645,62,4,10,35,Frequent,Yes,2025-08-22,Job Dissatisfaction
+EMP0646,38,8,4,14,Rare,No,NULL,Not Applicable
+EMP0647,58,10,6,69,No Travel,No,NULL,Not Applicable
+EMP0648,53,10,4,85,No Travel,No,NULL,Not Applicable
+EMP0649,55,5,7,0,Rare,Yes,2025-12-13,Personal Reasons
+EMP0650,24,9,3,72,No Travel,No,NULL,Not Applicable
+EMP0651,56,8,3,14,Frequent,Yes,2025-12-01,Personal Reasons
+EMP0652,54,10,2,0,No Travel,No,NULL,Not Applicable
+EMP0653,59,6,7,1,Rare,No,NULL,Not Applicable
+EMP0654,51,4,5,42,No Travel,No,NULL,Not Applicable
+EMP0655,70,10,9,4,Rare,Yes,2025-12-18,Work-Life Balance
+EMP0656,52,9,7,29,Rare,Yes,2025-04-25,Work-Life Balance
+EMP0657,42,9,7,0,No Travel,Yes,2025-09-21,Personal Reasons
+EMP0658,47,7,3,21,Rare,No,NULL,Not Applicable
+EMP0659,21,7,5,6,Rare,No,NULL,Not Applicable
+EMP0660,58,13,6,17,Frequent,Yes,2025-11-24,Better Opportunity
+EMP0661,41,6,7,76,Rare,No,NULL,Not Applicable
+EMP0662,28,1,13,34,No Travel,No,NULL,Not Applicable
+EMP0663,26,5,5,7,Frequent,Yes,2022-03-18,Work-Life Balance
+EMP0664,46,5,5,41,No Travel,No,NULL,Not Applicable
+EMP0665,61,5,6,36,Frequent,No,NULL,Not Applicable
+EMP0666,48,8,3,38,No Travel,No,NULL,Not Applicable
+EMP0667,48,7,6,17,Rare,No,NULL,Not Applicable
+EMP0668,55,8,5,50,Frequent,No,NULL,Not Applicable
+EMP0669,41,9,5,30,Frequent,No,NULL,Not Applicable
+EMP0670,56,7,11,30,Frequent,Yes,2025-03-11,Job Dissatisfaction
+EMP0671,44,9,7,36,No Travel,No,NULL,Not Applicable
+EMP0672,46,8,4,38,Frequent,No,NULL,Not Applicable
+EMP0673,53,6,6,39,No Travel,No,NULL,Not Applicable
+EMP0674,47,2,5,8,Rare,No,NULL,Not Applicable
+EMP0675,33,5,8,0,Rare,No,NULL,Not Applicable
+EMP0676,23,6,3,46,Frequent,No,NULL,Not Applicable
+EMP0677,52,5,8,6,Rare,No,NULL,Not Applicable
+EMP0678,54,6,6,57,Rare,No,NULL,Not Applicable
+EMP0679,49,8,4,95,Rare,No,NULL,Not Applicable
+EMP0680,58,11,6,20,Rare,No,NULL,Not Applicable
+EMP0681,29,1,2,99,Frequent,No,NULL,Not Applicable
+EMP0682,48,7,5,60,No Travel,Yes,2025-11-16,Work-Life Balance
+EMP0683,49,7,7,66,No Travel,Yes,2024-05-12,Work-Life Balance
+EMP0684,43,7,6,44,No Travel,No,NULL,Not Applicable
+EMP0685,39,5,6,44,Frequent,No,NULL,Not Applicable
+EMP0686,56,12,2,4,Rare,No,NULL,Not Applicable
+EMP0687,49,14,5,54,Frequent,Yes,2023-08-07,Work-Life Balance
+EMP0688,6,6,5,23,No Travel,No,NULL,Not Applicable
+EMP0689,30,10,8,21,Rare,No,NULL,Not Applicable
+EMP0690,55,3,6,73,Rare,No,NULL,Not Applicable
+EMP0691,70,3,5,49,Rare,No,NULL,Not Applicable
+EMP0692,50,9,4,0,No Travel,No,NULL,Not Applicable
+EMP0693,54,7,8,79,No Travel,No,NULL,Not Applicable
+EMP0694,42,7,9,49,Rare,Yes,2024-03-29,Work-Life Balance
+EMP0695,39,7,5,54,Rare,Yes,2024-10-20,Career Growth
+EMP0696,47,10,2,47,No Travel,No,NULL,Not Applicable
+EMP0697,59,8,8,0,No Travel,No,NULL,Not Applicable
+EMP0698,58,5,7,21,Rare,No,NULL,Not Applicable
+EMP0699,50,12,5,21,Rare,Yes,2025-10-13,Job Dissatisfaction
+EMP0700,38,5,6,51,No Travel,Yes,2025-10-23,Work-Life Balance
+EMP0701,30,9,5,39,Rare,No,NULL,Not Applicable
+EMP0702,49,4,7,20,No Travel,No,NULL,Not Applicable
+EMP0703,37,7,4,79,No Travel,No,NULL,Not Applicable
+EMP0704,49,8,7,24,No Travel,Yes,2025-06-21,Work-Life Balance
+EMP0705,41,7,5,39,Rare,No,NULL,Not Applicable
+EMP0706,79,8,8,54,No Travel,Yes,2025-12-29,Work-Life Balance
+EMP0707,48,5,8,44,No Travel,No,NULL,Not Applicable
+EMP0708,32,7,7,51,No Travel,No,NULL,Not Applicable
+EMP0709,46,8,2,70,Frequent,No,NULL,Not Applicable
+EMP0710,25,2,6,14,Rare,No,NULL,Not Applicable
+EMP0711,36,6,2,54,Frequent,No,NULL,Not Applicable
+EMP0712,30,5,6,4,Rare,No,NULL,Not Applicable
+EMP0713,5,3,3,65,Frequent,No,NULL,Not Applicable
+EMP0714,32,2,0,12,No Travel,No,NULL,Not Applicable
+EMP0715,26,3,2,33,Frequent,No,NULL,Not Applicable
+EMP0716,45,1,5,110,Rare,No,NULL,Not Applicable
+EMP0717,41,8,3,67,No Travel,No,NULL,Not Applicable
+EMP0718,41,3,4,41,No Travel,No,NULL,Not Applicable
+EMP0719,22,8,8,28,Rare,Yes,2025-12-28,Career Growth
+EMP0720,44,7,3,34,Rare,Yes,2025-11-23,Manager Relationship
+EMP0721,43,5,3,56,No Travel,No,NULL,Not Applicable
+EMP0722,39,3,5,37,Frequent,Yes,2024-02-10,Better Opportunity
+EMP0723,22,3,6,64,Rare,No,NULL,Not Applicable
+EMP0724,55,5,4,0,Frequent,No,NULL,Not Applicable
+EMP0725,40,9,6,69,Rare,No,NULL,Not Applicable
+EMP0726,32,9,10,72,No Travel,No,NULL,Not Applicable
+EMP0727,8,2,7,80,Rare,No,NULL,Not Applicable
+EMP0728,45,4,8,33,Rare,No,NULL,Not Applicable
+EMP0729,34,8,6,0,No Travel,No,NULL,Not Applicable
+EMP0730,33,3,6,84,Rare,No,NULL,Not Applicable
+EMP0731,29,3,5,17,Rare,Yes,2025-02-22,Manager Relationship
+EMP0732,25,6,3,54,Frequent,No,NULL,Not Applicable
+EMP0733,52,6,4,52,Rare,No,NULL,Not Applicable
+EMP0734,42,6,6,34,Frequent,No,NULL,Not Applicable
+EMP0735,51,4,4,58,No Travel,No,NULL,Not Applicable
+EMP0736,8,1,4,7,Frequent,Yes,2021-04-23,Better Opportunity
+EMP0737,42,4,7,48,No Travel,No,NULL,Not Applicable
+EMP0738,31,4,2,34,Rare,Yes,2023-11-23,Work-Life Balance
+EMP0739,31,10,6,21,No Travel,Yes,2018-06-02,Work-Life Balance
+EMP0740,56,11,9,27,Frequent,No,NULL,Not Applicable
+EMP0741,47,7,4,58,Rare,No,NULL,Not Applicable
+EMP0742,57,5,7,91,No Travel,Yes,2025-12-26,Compensation
+EMP0743,23,5,4,13,Rare,No,NULL,Not Applicable
+EMP0744,43,9,10,35,No Travel,No,NULL,Not Applicable
+EMP0745,68,6,8,59,No Travel,No,NULL,Not Applicable
+EMP0746,46,3,0,80,Rare,No,NULL,Not Applicable
+EMP0747,45,5,6,41,Frequent,No,NULL,Not Applicable
+EMP0748,30,8,4,39,Frequent,No,NULL,Not Applicable
+EMP0749,57,6,2,34,No Travel,No,NULL,Not Applicable
+EMP0750,65,5,6,78,No Travel,No,NULL,Not Applicable
+EMP0751,58,10,6,86,No Travel,No,NULL,Not Applicable
+EMP0752,46,10,4,23,Frequent,Yes,2025-08-28,Better Opportunity
+EMP0753,49,5,3,62,No Travel,No,NULL,Not Applicable
+EMP0754,35,4,9,12,Frequent,No,NULL,Not Applicable
+EMP0755,40,5,4,0,Frequent,No,NULL,Not Applicable
+EMP0756,38,5,3,65,No Travel,No,NULL,Not Applicable
+EMP0757,43,5,5,40,Frequent,Yes,2025-05-27,Job Dissatisfaction
+EMP0758,50,7,7,0,Frequent,Yes,2024-11-21,Relocation
+EMP0759,23,3,5,65,Frequent,No,NULL,Not Applicable
+EMP0760,58,6,3,42,Rare,Yes,2024-04-01,Job Dissatisfaction
+EMP0761,14,6,6,28,Frequent,No,NULL,Not Applicable
+EMP0762,59,4,2,89,No Travel,No,NULL,Not Applicable
+EMP0763,56,8,4,36,Rare,Yes,2025-11-27,Relocation
+EMP0764,58,4,5,79,Rare,No,NULL,Not Applicable
+EMP0765,53,8,3,8,No Travel,No,NULL,Not Applicable
+EMP0766,34,9,7,25,No Travel,No,NULL,Not Applicable
+EMP0767,42,12,6,49,Rare,Yes,2025-02-17,Better Opportunity
+EMP0768,59,7,9,67,No Travel,Yes,2025-12-27,Relocation
+EMP0769,41,8,4,73,Rare,No,NULL,Not Applicable
+EMP0770,43,13,4,35,No Travel,No,NULL,Not Applicable
+EMP0771,24,9,5,61,No Travel,No,NULL,Not Applicable
+EMP0772,11,6,6,80,Rare,No,NULL,Not Applicable
+EMP0773,34,4,6,46,Frequent,No,NULL,Not Applicable
+EMP0774,44,4,7,36,Frequent,No,NULL,Not Applicable
+EMP0775,33,6,5,70,No Travel,No,NULL,Not Applicable
+EMP0776,40,13,3,3,Rare,No,NULL,Not Applicable
+EMP0777,38,4,4,10,Frequent,No,NULL,Not Applicable
+EMP0778,46,3,5,28,No Travel,Yes,2025-12-09,Better Opportunity
+EMP0779,40,7,7,56,Frequent,No,NULL,Not Applicable
+EMP0780,5,7,5,27,No Travel,Yes,2021-10-30,Work-Life Balance
+EMP0781,69,6,6,39,No Travel,No,NULL,Not Applicable
+EMP0782,30,6,6,19,No Travel,No,NULL,Not Applicable
+EMP0783,31,5,4,55,Frequent,No,NULL,Not Applicable
+EMP0784,54,3,6,47,Rare,Yes,2025-12-22,Better Opportunity
+EMP0785,43,7,3,36,Rare,No,NULL,Not Applicable
+EMP0786,28,6,10,47,Rare,No,NULL,Not Applicable
+EMP0787,9,5,3,32,Rare,No,NULL,Not Applicable
+EMP0788,50,9,1,57,Rare,Yes,2025-11-25,Job Dissatisfaction
+EMP0789,31,7,8,28,No Travel,No,NULL,Not Applicable
+EMP0790,33,6,6,64,No Travel,No,NULL,Not Applicable
+EMP0791,57,11,7,44,No Travel,No,NULL,Not Applicable
+EMP0792,49,14,4,28,No Travel,No,NULL,Not Applicable
+EMP0793,44,7,6,26,Rare,No,NULL,Not Applicable
+EMP0794,49,6,4,32,Rare,No,NULL,Not Applicable
+EMP0795,38,7,4,51,No Travel,No,NULL,Not Applicable
+EMP0796,41,5,2,38,Rare,No,NULL,Not Applicable
+EMP0797,36,3,5,64,No Travel,No,NULL,Not Applicable
+EMP0798,32,4,3,39,No Travel,No,NULL,Not Applicable
+EMP0799,45,9,0,1,No Travel,No,NULL,Not Applicable
+EMP0800,53,15,5,2,Rare,Yes,2025-07-26,Work-Life Balance
+EMP0801,48,7,5,47,Rare,Yes,2025-06-05,Work-Life Balance
+EMP0802,47,3,6,30,Frequent,No,NULL,Not Applicable
+EMP0803,69,10,8,7,No Travel,No,NULL,Not Applicable
+EMP0804,50,5,5,8,No Travel,No,NULL,Not Applicable
+EMP0805,51,12,9,70,Frequent,No,NULL,Not Applicable
+EMP0806,61,11,4,58,Rare,No,NULL,Not Applicable
+EMP0807,36,5,5,19,Frequent,No,NULL,Not Applicable
+EMP0808,38,2,4,54,Frequent,No,NULL,Not Applicable
+EMP0809,29,8,4,93,Rare,No,NULL,Not Applicable
+EMP0810,37,5,2,37,No Travel,No,NULL,Not Applicable
+EMP0811,45,4,6,33,No Travel,No,NULL,Not Applicable
+EMP0812,55,2,9,72,Rare,No,NULL,Not Applicable
+EMP0813,49,15,7,35,No Travel,No,NULL,Not Applicable
+EMP0814,55,11,6,41,No Travel,Yes,2025-09-14,Work-Life Balance
+EMP0815,40,10,8,71,Frequent,Yes,2024-03-19,Personal Reasons
+EMP0816,55,4,7,63,Rare,No,NULL,Not Applicable
+EMP0817,49,7,5,19,No Travel,Yes,2025-12-02,Health/Family Reasons
+EMP0818,57,4,6,87,Rare,No,NULL,Not Applicable
+EMP0819,39,5,4,63,No Travel,No,NULL,Not Applicable
+EMP0820,29,6,4,34,Rare,No,NULL,Not Applicable
+EMP0821,35,7,5,52,No Travel,No,NULL,Not Applicable
+EMP0822,50,3,3,54,No Travel,Yes,2023-05-15,Personal Reasons
+EMP0823,34,5,1,70,Rare,No,NULL,Not Applicable
+EMP0824,64,4,8,10,Rare,No,NULL,Not Applicable
+EMP0825,42,8,6,54,No Travel,No,NULL,Not Applicable
+EMP0826,51,12,7,60,Rare,No,NULL,Not Applicable
+EMP0827,60,6,4,12,Frequent,No,NULL,Not Applicable
+EMP0828,58,10,6,57,No Travel,No,NULL,Not Applicable
+EMP0829,22,5,11,12,Frequent,No,NULL,Not Applicable
+EMP0830,33,8,5,44,Frequent,No,NULL,Not Applicable
+EMP0831,41,7,7,21,Rare,No,NULL,Not Applicable
+EMP0832,52,11,4,48,Rare,No,NULL,Not Applicable
+EMP0833,48,7,6,26,Frequent,No,NULL,Not Applicable
+EMP0834,48,5,9,8,Rare,No,NULL,Not Applicable
+EMP0835,68,13,4,28,No Travel,No,NULL,Not Applicable
+EMP0836,46,7,6,56,Frequent,No,NULL,Not Applicable
+EMP0837,32,7,5,2,No Travel,No,NULL,Not Applicable
+EMP0838,55,5,5,27,No Travel,Yes,2025-10-12,Better Opportunity
+EMP0839,36,10,6,32,Frequent,No,NULL,Not Applicable
+EMP0840,59,7,10,75,Rare,Yes,2025-10-22,Work-Life Balance
+EMP0841,40,15,3,61,Rare,No,NULL,Not Applicable
+EMP0842,34,4,3,0,Rare,No,NULL,Not Applicable
+EMP0843,45,11,6,73,Rare,No,NULL,Not Applicable
+EMP0844,45,9,6,58,Frequent,No,NULL,Not Applicable
+EMP0845,14,5,1,71,Rare,No,NULL,Not Applicable
+EMP0846,45,8,9,31,Rare,No,NULL,Not Applicable
+EMP0847,35,11,5,25,Frequent,No,NULL,Not Applicable
+EMP0848,39,5,3,13,Frequent,No,NULL,Not Applicable
+EMP0849,57,5,6,57,Rare,Yes,2025-07-26,Career Growth
+EMP0850,47,6,6,28,Rare,No,NULL,Not Applicable
+EMP0851,55,4,1,41,Rare,No,NULL,Not Applicable
+EMP0852,70,3,5,54,No Travel,Yes,2025-11-11,Relocation
+EMP0853,50,2,10,55,Rare,Yes,2025-09-11,Personal Reasons
+EMP0854,52,3,9,0,Frequent,Yes,2024-05-03,Personal Reasons
+EMP0855,41,2,3,31,No Travel,No,NULL,Not Applicable
+EMP0856,52,13,8,42,Frequent,No,NULL,Not Applicable
+EMP0857,36,8,5,7,No Travel,No,NULL,Not Applicable
+EMP0858,44,6,5,0,No Travel,No,NULL,Not Applicable
+EMP0859,23,5,2,0,Rare,No,NULL,Not Applicable
+EMP0860,61,8,5,76,Rare,No,NULL,Not Applicable
+EMP0861,33,6,9,9,Rare,No,NULL,Not Applicable
+EMP0862,65,3,7,24,No Travel,No,NULL,Not Applicable
+EMP0863,37,8,10,24,No Travel,Yes,2021-07-28,Work-Life Balance
+EMP0864,35,6,2,49,No Travel,No,NULL,Not Applicable
+EMP0865,29,9,8,39,Frequent,No,NULL,Not Applicable
+EMP0866,55,3,7,17,No Travel,No,NULL,Not Applicable
+EMP0867,39,6,4,0,No Travel,No,NULL,Not Applicable
+EMP0868,54,6,2,1,No Travel,No,NULL,Not Applicable
+EMP0869,34,7,7,70,No Travel,No,NULL,Not Applicable
+EMP0870,45,7,8,53,Frequent,No,NULL,Not Applicable
+EMP0871,51,8,8,41,Rare,No,NULL,Not Applicable
+EMP0872,55,7,4,75,No Travel,No,NULL,Not Applicable
+EMP0873,45,8,4,6,Rare,No,NULL,Not Applicable
+EMP0874,46,5,7,44,Rare,No,NULL,Not Applicable
+EMP0875,8,5,6,41,Rare,No,NULL,Not Applicable
+EMP0876,47,7,10,4,Rare,No,NULL,Not Applicable
+EMP0877,50,9,5,11,No Travel,No,NULL,Not Applicable
+EMP0878,14,4,5,6,No Travel,No,NULL,Not Applicable
+EMP0879,60,6,9,31,No Travel,No,NULL,Not Applicable
+EMP0880,37,10,5,26,Frequent,Yes,2025-09-04,Compensation
+EMP0881,26,5,7,36,Rare,No,NULL,Not Applicable
+EMP0882,26,7,9,15,No Travel,No,NULL,Not Applicable
+EMP0883,31,6,3,12,No Travel,No,NULL,Not Applicable
+EMP0884,43,3,8,35,Frequent,No,NULL,Not Applicable
+EMP0885,14,4,2,50,Frequent,No,NULL,Not Applicable
+EMP0886,45,6,2,39,Frequent,No,NULL,Not Applicable
+EMP0887,8,7,5,0,No Travel,No,NULL,Not Applicable
+EMP0888,29,11,5,35,Frequent,No,NULL,Not Applicable
+EMP0889,21,5,9,57,Frequent,No,NULL,Not Applicable
+EMP0890,42,3,7,9,No Travel,No,NULL,Not Applicable
+EMP0891,64,5,5,57,Frequent,No,NULL,Not Applicable
+EMP0892,38,14,3,2,Rare,No,NULL,Not Applicable
+EMP0893,42,5,2,43,Frequent,No,NULL,Not Applicable
+EMP0894,35,8,1,49,Frequent,Yes,2025-09-01,Work-Life Balance
+EMP0895,23,12,1,64,Rare,No,NULL,Not Applicable
+EMP0896,48,4,2,10,Frequent,No,NULL,Not Applicable
+EMP0897,50,7,7,33,Rare,No,NULL,Not Applicable
+EMP0898,40,9,9,68,Frequent,No,NULL,Not Applicable
+EMP0899,54,4,6,54,No Travel,Yes,2025-12-25,Personal Reasons
+EMP0900,55,12,5,58,Rare,No,NULL,Not Applicable
+EMP0901,57,7,9,40,Frequent,No,NULL,Not Applicable
+EMP0902,36,3,4,59,Rare,No,NULL,Not Applicable
+EMP0903,37,7,2,60,No Travel,No,NULL,Not Applicable
+EMP0904,36,7,7,29,Rare,No,NULL,Not Applicable
+EMP0905,42,10,6,0,Rare,No,NULL,Not Applicable
+EMP0906,33,4,6,0,Rare,No,NULL,Not Applicable
+EMP0907,29,4,13,34,Rare,Yes,2024-11-11,Manager Relationship
+EMP0908,28,6,4,22,Frequent,No,NULL,Not Applicable
+EMP0909,48,6,5,70,No Travel,No,NULL,Not Applicable
+EMP0910,24,5,7,30,Frequent,No,NULL,Not Applicable
+EMP0911,41,7,3,10,No Travel,No,NULL,Not Applicable
+EMP0912,44,5,1,0,No Travel,No,NULL,Not Applicable
+EMP0913,22,2,4,31,No Travel,Yes,2022-09-13,Personal Reasons
+EMP0914,53,7,10,45,No Travel,No,NULL,Not Applicable
+EMP0915,43,8,8,7,No Travel,No,NULL,Not Applicable
+EMP0916,64,3,10,8,Frequent,Yes,2025-07-31,Better Opportunity
+EMP0917,38,6,10,57,No Travel,No,NULL,Not Applicable
+EMP0918,51,8,4,31,Rare,No,NULL,Not Applicable
+EMP0919,40,2,12,50,Frequent,Yes,2024-11-09,Job Dissatisfaction
+EMP0920,45,8,2,62,Rare,No,NULL,Not Applicable
+EMP0921,64,4,6,34,Rare,Yes,2025-02-15,Career Growth
+EMP0922,23,4,5,52,Frequent,No,NULL,Not Applicable
+EMP0923,54,8,10,32,Rare,Yes,2025-11-19,Job Dissatisfaction
+EMP0924,23,3,3,48,No Travel,Yes,2025-10-28,Better Opportunity
+EMP0925,47,8,7,69,No Travel,No,NULL,Not Applicable
+EMP0926,53,7,4,57,No Travel,No,NULL,Not Applicable
+EMP0927,40,9,5,38,No Travel,Yes,2023-03-25,Job Dissatisfaction
+EMP0928,31,4,5,6,No Travel,Yes,2022-01-18,Better Opportunity
+EMP0929,61,4,6,47,Frequent,Yes,2025-03-16,Personal Reasons
+EMP0930,23,5,6,5,Frequent,No,NULL,Not Applicable
+EMP0931,52,8,4,39,No Travel,No,NULL,Not Applicable
+EMP0932,39,5,5,29,Rare,No,NULL,Not Applicable
+EMP0933,50,4,3,44,No Travel,No,NULL,Not Applicable
+EMP0934,62,6,4,18,Rare,Yes,2025-12-29,Work-Life Balance
+EMP0935,35,7,6,11,No Travel,No,NULL,Not Applicable
+EMP0936,53,8,5,58,Rare,No,NULL,Not Applicable
+EMP0937,52,4,10,10,Frequent,No,NULL,Not Applicable
+EMP0938,31,7,5,51,Rare,No,NULL,Not Applicable
+EMP0939,60,4,0,26,No Travel,No,NULL,Not Applicable
+EMP0940,56,7,2,92,Rare,No,NULL,Not Applicable
+EMP0941,63,4,9,86,No Travel,No,NULL,Not Applicable
+EMP0942,62,5,4,6,No Travel,Yes,2025-04-02,Work-Life Balance
+EMP0943,49,10,2,48,Rare,No,NULL,Not Applicable
+EMP0944,39,7,7,44,Rare,No,NULL,Not Applicable
+EMP0945,58,9,11,49,Rare,No,NULL,Not Applicable
+EMP0946,29,6,5,55,Frequent,No,NULL,Not Applicable
+EMP0947,47,4,6,22,Rare,No,NULL,Not Applicable
+EMP0948,37,7,2,0,No Travel,Yes,2024-08-13,Health/Family Reasons
+EMP0949,21,4,7,17,Frequent,No,NULL,Not Applicable
+EMP0950,56,11,7,30,Rare,No,NULL,Not Applicable
+EMP0951,34,3,3,87,No Travel,No,NULL,Not Applicable
+EMP0952,14,7,4,42,Rare,No,NULL,Not Applicable
+EMP0953,25,1,8,65,No Travel,No,NULL,Not Applicable
+EMP0954,35,5,7,45,No Travel,No,NULL,Not Applicable
+EMP0955,51,7,7,45,Rare,Yes,2025-12-02,Better Opportunity
+EMP0956,37,8,5,18,Frequent,No,NULL,Not Applicable
+EMP0957,9,7,5,33,No Travel,No,NULL,Not Applicable
+EMP0958,26,9,4,65,Frequent,No,NULL,Not Applicable
+EMP0959,56,8,6,26,Frequent,No,NULL,Not Applicable
+EMP0960,41,8,3,38,No Travel,No,NULL,Not Applicable
+EMP0961,43,9,3,73,No Travel,No,NULL,Not Applicable
+EMP0962,48,6,5,12,No Travel,No,NULL,Not Applicable
+EMP0963,31,6,11,44,Frequent,No,NULL,Not Applicable
+EMP0964,57,6,2,67,Rare,No,NULL,Not Applicable
+EMP0965,56,9,4,0,No Travel,No,NULL,Not Applicable
+EMP0966,49,7,3,76,No Travel,No,NULL,Not Applicable
+EMP0967,42,3,3,4,No Travel,No,NULL,Not Applicable
+EMP0968,52,5,8,86,No Travel,Yes,2025-09-20,Work-Life Balance
+EMP0969,38,2,5,53,No Travel,No,NULL,Not Applicable
+EMP0970,47,5,6,51,Frequent,No,NULL,Not Applicable
+EMP0971,14,4,6,29,Frequent,No,NULL,Not Applicable
+EMP0972,63,6,1,52,Rare,No,NULL,Not Applicable
+EMP0973,35,4,6,51,Rare,No,NULL,Not Applicable
+EMP0974,58,6,5,4,No Travel,No,NULL,Not Applicable
+EMP0975,55,11,6,26,Rare,No,NULL,Not Applicable
+EMP0976,64,4,4,53,No Travel,No,NULL,Not Applicable
+EMP0977,59,9,6,47,Frequent,No,NULL,Not Applicable
+EMP0978,54,8,6,34,Rare,Yes,2025-10-31,Health/Family Reasons
+EMP0979,49,6,4,58,No Travel,No,NULL,Not Applicable
+EMP0980,43,7,3,69,No Travel,Yes,2018-02-17,Work-Life Balance
+EMP0981,53,3,4,8,Rare,No,NULL,Not Applicable
+EMP0982,49,7,8,24,No Travel,No,NULL,Not Applicable
+EMP0983,42,8,3,19,No Travel,No,NULL,Not Applicable
+EMP0984,52,7,10,49,Frequent,Yes,2025-12-30,Better Opportunity
+EMP0985,46,5,9,84,No Travel,No,NULL,Not Applicable
+EMP0986,58,5,6,2,No Travel,No,NULL,Not Applicable
+EMP0987,56,6,4,27,Frequent,No,NULL,Not Applicable
+EMP0988,43,12,7,38,No Travel,No,NULL,Not Applicable
+EMP0989,15,10,10,41,No Travel,No,NULL,Not Applicable
+EMP0990,11,5,8,48,No Travel,No,NULL,Not Applicable
+EMP0991,14,6,3,55,No Travel,No,NULL,Not Applicable
+EMP0992,33,5,9,20,No Travel,No,NULL,Not Applicable
+EMP0993,50,7,5,74,No Travel,No,NULL,Not Applicable
+EMP0994,63,4,3,68,Rare,Yes,2023-06-01,Job Dissatisfaction
+EMP0995,41,4,9,19,No Travel,No,NULL,Not Applicable
+EMP0996,48,8,2,19,Frequent,No,NULL,Not Applicable
+EMP0997,50,12,3,16,Frequent,No,NULL,Not Applicable
+EMP0998,35,9,4,49,Rare,Yes,2024-11-08,Work-Life Balance
+EMP0999,61,14,3,41,No Travel,No,NULL,Not Applicable
+EMP1000,56,5,4,38,No Travel,Yes,2025-07-24,Work-Life Balance
+EMP1001,23,13,4,53,Rare,No,NULL,Not Applicable
+EMP1002,47,4,5,17,No Travel,No,NULL,Not Applicable
+EMP1003,28,2,5,58,No Travel,No,NULL,Not Applicable
+EMP1004,56,11,7,71,Rare,No,NULL,Not Applicable
+EMP1005,53,9,6,18,Frequent,No,NULL,Not Applicable
+EMP1006,75,7,7,25,Rare,No,NULL,Not Applicable
+EMP1007,51,4,9,18,Frequent,No,NULL,Not Applicable
+EMP1008,38,3,6,33,Frequent,No,NULL,Not Applicable
+EMP1009,57,6,3,23,Rare,No,NULL,Not Applicable
+EMP1010,32,8,3,1,Frequent,No,NULL,Not Applicable
+EMP1011,61,8,2,29,No Travel,No,NULL,Not Applicable
+EMP1012,52,3,6,31,No Travel,No,NULL,Not Applicable
+EMP1013,29,5,6,0,Rare,No,NULL,Not Applicable
+EMP1014,67,7,1,20,Rare,No,NULL,Not Applicable
+EMP1015,41,4,6,22,Frequent,No,NULL,Not Applicable
+EMP1016,49,10,8,111,No Travel,Yes,2025-06-10,Personal Reasons
+EMP1017,70,9,2,34,No Travel,Yes,2025-05-27,Job Dissatisfaction
+EMP1018,43,5,3,26,No Travel,No,NULL,Not Applicable
+EMP1019,59,8,8,65,No Travel,No,NULL,Not Applicable
+EMP1020,37,5,7,13,No Travel,No,NULL,Not Applicable
+EMP1021,64,7,7,0,No Travel,No,NULL,Not Applicable
+EMP1022,40,6,6,1,No Travel,No,NULL,Not Applicable
+EMP1023,67,10,4,11,Rare,No,NULL,Not Applicable
+EMP1024,29,3,5,79,No Travel,No,NULL,Not Applicable
+EMP1025,26,9,5,30,No Travel,Yes,2024-10-03,Personal Reasons
+EMP1026,29,6,7,23,No Travel,Yes,2025-01-08,Work-Life Balance
+EMP1027,49,5,8,8,Rare,No,NULL,Not Applicable
+EMP1028,34,12,6,43,Frequent,No,NULL,Not Applicable
+EMP1029,38,15,5,0,No Travel,Yes,2025-11-27,Work-Life Balance
+EMP1030,32,11,5,14,Frequent,No,NULL,Not Applicable
+EMP1031,29,3,3,60,No Travel,No,NULL,Not Applicable
+EMP1032,52,6,9,15,Rare,Yes,2025-02-15,Health/Family Reasons
+EMP1033,31,7,9,94,Rare,No,NULL,Not Applicable
+EMP1034,37,3,4,19,No Travel,Yes,2023-10-22,Relocation
+EMP1035,65,6,3,33,Frequent,No,NULL,Not Applicable
+EMP1036,39,6,9,30,No Travel,Yes,2021-12-14,Career Growth
+EMP1037,56,6,10,26,No Travel,No,NULL,Not Applicable
+EMP1038,23,9,8,32,No Travel,No,NULL,Not Applicable
+EMP1039,40,7,6,26,No Travel,No,NULL,Not Applicable
+EMP1040,36,3,3,62,No Travel,No,NULL,Not Applicable
+EMP1041,49,9,7,67,Rare,No,NULL,Not Applicable
+EMP1042,29,11,2,0,Frequent,No,NULL,Not Applicable
+EMP1043,58,9,6,4,No Travel,Yes,2024-12-05,Job Dissatisfaction
+EMP1044,15,1,2,0,Rare,No,NULL,Not Applicable
+EMP1045,51,6,10,64,No Travel,No,NULL,Not Applicable
+EMP1046,48,4,9,4,Rare,Yes,2025-10-30,Job Dissatisfaction
+EMP1047,59,4,4,87,Rare,No,NULL,Not Applicable
+EMP1048,62,5,10,20,Rare,No,NULL,Not Applicable
+EMP1049,43,3,8,9,No Travel,No,NULL,Not Applicable
+EMP1050,42,7,10,50,Rare,Yes,2025-02-28,Work-Life Balance
+EMP1051,28,5,6,11,Frequent,No,NULL,Not Applicable
+EMP1052,29,5,7,65,No Travel,No,NULL,Not Applicable
+EMP1053,37,8,9,54,Rare,No,NULL,Not Applicable
+EMP1054,42,7,7,53,Rare,No,NULL,Not Applicable
+EMP1055,37,11,6,16,Rare,Yes,2023-07-20,Work-Life Balance
+EMP1056,26,4,3,20,Rare,No,NULL,Not Applicable
+EMP1057,62,7,6,17,No Travel,No,NULL,Not Applicable
+EMP1058,8,5,8,106,Frequent,No,NULL,Not Applicable
+EMP1059,49,8,6,74,Rare,Yes,2025-07-19,Personal Reasons
+EMP1060,51,10,6,8,Rare,No,NULL,Not Applicable
+EMP1061,10,5,6,44,Rare,No,NULL,Not Applicable
+EMP1062,33,9,7,14,Rare,No,NULL,Not Applicable
+EMP1063,65,10,4,55,Frequent,Yes,2025-07-18,Career Growth
+EMP1064,51,7,5,31,No Travel,No,NULL,Not Applicable
+EMP1065,55,4,1,67,No Travel,No,NULL,Not Applicable
+EMP1066,39,8,4,19,No Travel,No,NULL,Not Applicable
+EMP1067,52,7,7,7,Frequent,No,NULL,Not Applicable
+EMP1068,33,7,7,41,No Travel,No,NULL,Not Applicable
+EMP1069,23,7,4,45,Frequent,Yes,2025-04-16,Manager Relationship
+EMP1070,62,3,4,5,Rare,No,NULL,Not Applicable
+EMP1071,49,8,7,20,No Travel,No,NULL,Not Applicable
+EMP1072,36,5,3,13,Rare,No,NULL,Not Applicable
+EMP1073,61,9,5,30,Rare,No,NULL,Not Applicable
+EMP1074,61,13,4,46,Rare,No,NULL,Not Applicable
+EMP1075,54,8,1,39,No Travel,No,NULL,Not Applicable
+EMP1076,37,4,6,30,Frequent,No,NULL,Not Applicable
+EMP1077,43,6,3,68,No Travel,Yes,2024-11-17,Work-Life Balance
+EMP1078,51,10,6,52,Rare,No,NULL,Not Applicable
+EMP1079,56,6,3,1,Rare,No,NULL,Not Applicable
+EMP1080,37,2,5,65,Rare,No,NULL,Not Applicable
+EMP1081,48,6,4,66,Frequent,No,NULL,Not Applicable
+EMP1082,53,5,2,9,Rare,Yes,2025-12-26,Relocation
+EMP1083,30,4,3,18,No Travel,No,NULL,Not Applicable
+EMP1084,56,8,5,27,No Travel,No,NULL,Not Applicable
+EMP1085,48,8,5,29,Rare,No,NULL,Not Applicable
+EMP1086,21,3,10,7,Rare,Yes,2025-09-30,Health/Family Reasons
+EMP1087,53,9,8,24,Frequent,No,NULL,Not Applicable
+EMP1088,53,3,8,7,No Travel,No,NULL,Not Applicable
+EMP1089,58,9,4,66,No Travel,No,NULL,Not Applicable
+EMP1090,52,14,4,29,No Travel,No,NULL,Not Applicable
+EMP1091,52,4,9,124,No Travel,No,NULL,Not Applicable
+EMP1092,30,4,8,42,Frequent,Yes,2024-07-21,Manager Relationship
+EMP1093,23,10,3,67,Frequent,No,NULL,Not Applicable
+EMP1094,40,4,6,38,Rare,No,NULL,Not Applicable
+EMP1095,61,7,4,49,No Travel,Yes,2025-12-27,Work-Life Balance
+EMP1096,51,8,5,24,Rare,No,NULL,Not Applicable
+EMP1097,36,7,7,30,No Travel,No,NULL,Not Applicable
+EMP1098,56,8,5,56,Rare,No,NULL,Not Applicable
+EMP1099,40,4,6,38,No Travel,No,NULL,Not Applicable
+EMP1100,27,5,7,78,No Travel,No,NULL,Not Applicable
+EMP1101,45,8,7,79,Rare,No,NULL,Not Applicable
+EMP1102,32,7,4,42,Rare,No,NULL,Not Applicable
+EMP1103,39,8,6,46,No Travel,Yes,2025-04-04,Job Dissatisfaction
+EMP1104,75,8,6,65,No Travel,No,NULL,Not Applicable
+EMP1105,29,3,8,64,Frequent,No,NULL,Not Applicable
+EMP1106,55,4,3,72,No Travel,No,NULL,Not Applicable
+EMP1107,43,5,8,94,No Travel,No,NULL,Not Applicable
+EMP1108,36,5,10,16,No Travel,No,NULL,Not Applicable
+EMP1109,32,2,6,38,No Travel,No,NULL,Not Applicable
+EMP1110,50,2,3,58,Rare,No,NULL,Not Applicable
+EMP1111,59,6,1,77,No Travel,No,NULL,Not Applicable
+EMP1112,43,4,2,41,Frequent,No,NULL,Not Applicable
+EMP1113,27,5,7,1,Rare,Yes,2025-10-01,Better Opportunity
+EMP1114,42,7,8,46,No Travel,No,NULL,Not Applicable
+EMP1115,42,4,8,54,Rare,No,NULL,Not Applicable
+EMP1116,48,6,5,58,Rare,No,NULL,Not Applicable
+EMP1117,43,6,5,47,Rare,No,NULL,Not Applicable
+EMP1118,21,8,4,31,Frequent,No,NULL,Not Applicable
+EMP1119,45,6,8,55,No Travel,No,NULL,Not Applicable
+EMP1120,44,10,7,0,Frequent,No,NULL,Not Applicable
+EMP1121,12,9,5,33,Frequent,Yes,2011-06-16,Health/Family Reasons
+EMP1122,30,7,6,37,No Travel,No,NULL,Not Applicable
+EMP1123,23,6,3,24,Frequent,No,NULL,Not Applicable
+EMP1124,53,9,8,43,No Travel,No,NULL,Not Applicable
+EMP1125,8,7,7,45,Rare,No,NULL,Not Applicable
+EMP1126,52,15,7,17,No Travel,No,NULL,Not Applicable
+EMP1127,44,6,3,53,Rare,Yes,2025-05-07,Compensation
+EMP1128,42,21,12,48,Rare,Yes,2024-04-22,Better Opportunity
+EMP1129,28,8,5,17,Rare,No,NULL,Not Applicable
+EMP1130,25,3,4,40,Frequent,No,NULL,Not Applicable
+EMP1131,41,10,8,2,Frequent,No,NULL,Not Applicable
+EMP1132,36,5,7,47,Rare,No,NULL,Not Applicable
+EMP1133,47,3,6,41,No Travel,No,NULL,Not Applicable
+EMP1134,45,10,7,14,No Travel,No,NULL,Not Applicable
+EMP1135,51,5,8,43,No Travel,No,NULL,Not Applicable
+EMP1136,63,13,5,48,Frequent,No,NULL,Not Applicable
+EMP1137,51,8,4,30,Frequent,No,NULL,Not Applicable
+EMP1138,31,5,7,43,Rare,No,NULL,Not Applicable
+EMP1139,35,5,7,59,No Travel,No,NULL,Not Applicable
+EMP1140,24,11,4,30,Frequent,No,NULL,Not Applicable
+EMP1141,33,3,8,46,Frequent,Yes,2024-10-04,Work-Life Balance
+EMP1142,42,6,3,55,No Travel,No,NULL,Not Applicable
+EMP1143,52,4,7,47,Rare,No,NULL,Not Applicable
+EMP1144,43,7,6,64,Rare,No,NULL,Not Applicable
+EMP1145,40,4,5,0,Frequent,No,NULL,Not Applicable
+EMP1146,54,3,3,29,Frequent,No,NULL,Not Applicable
+EMP1147,57,7,3,40,Rare,No,NULL,Not Applicable
+EMP1148,48,5,7,29,No Travel,No,NULL,Not Applicable
+EMP1149,42,6,3,66,No Travel,No,NULL,Not Applicable
+EMP1150,44,7,6,16,No Travel,No,NULL,Not Applicable
+EMP1151,58,1,9,67,Rare,Yes,2025-12-29,Relocation
+EMP1152,47,7,13,5,No Travel,No,NULL,Not Applicable
+EMP1153,37,8,4,66,No Travel,No,NULL,Not Applicable
+EMP1154,45,9,3,77,Rare,No,NULL,Not Applicable
+EMP1155,38,3,4,78,Rare,No,NULL,Not Applicable
+EMP1156,46,6,6,51,No Travel,No,NULL,Not Applicable
+EMP1157,18,6,8,77,Rare,No,NULL,Not Applicable
+EMP1158,53,3,7,10,No Travel,No,NULL,Not Applicable
+EMP1159,49,6,9,19,Frequent,No,NULL,Not Applicable
+EMP1160,56,3,6,5,Rare,Yes,2025-10-18,Manager Relationship
+EMP1161,33,3,8,66,No Travel,No,NULL,Not Applicable
+EMP1162,65,3,5,0,Rare,No,NULL,Not Applicable
+EMP1163,31,3,8,45,Frequent,No,NULL,Not Applicable
+EMP1164,29,3,8,45,Rare,Yes,2025-09-08,Relocation
+EMP1165,49,7,5,45,Rare,No,NULL,Not Applicable
+EMP1166,50,7,6,10,No Travel,No,NULL,Not Applicable
+EMP1167,64,5,3,31,Rare,No,NULL,Not Applicable
+EMP1168,57,2,6,81,No Travel,No,NULL,Not Applicable
+EMP1169,44,8,4,46,Frequent,No,NULL,Not Applicable
+EMP1170,39,5,6,47,No Travel,No,NULL,Not Applicable
+EMP1171,6,3,1,60,Frequent,No,NULL,Not Applicable
+EMP1172,34,5,5,17,No Travel,No,NULL,Not Applicable
+EMP1173,10,4,4,69,Rare,No,NULL,Not Applicable
+EMP1174,54,2,9,57,No Travel,Yes,2025-12-15,Job Dissatisfaction
+EMP1175,31,8,4,77,No Travel,No,NULL,Not Applicable
+EMP1176,52,5,4,0,No Travel,No,NULL,Not Applicable
+EMP1177,56,10,8,51,Frequent,Yes,2025-11-19,Job Dissatisfaction
+EMP1178,10,3,2,62,Rare,Yes,2021-09-28,Work-Life Balance
+EMP1179,30,9,2,38,Rare,No,NULL,Not Applicable
+EMP1180,29,9,10,39,No Travel,No,NULL,Not Applicable
+EMP1181,42,5,6,15,Frequent,No,NULL,Not Applicable
+EMP1182,53,10,9,61,No Travel,No,NULL,Not Applicable
+EMP1183,30,6,4,68,Frequent,No,NULL,Not Applicable
+EMP1184,41,9,4,35,Rare,No,NULL,Not Applicable
+EMP1185,26,11,11,58,Frequent,No,NULL,Not Applicable
+EMP1186,26,3,6,3,No Travel,No,NULL,Not Applicable
+EMP1187,53,7,3,21,Frequent,No,NULL,Not Applicable
+EMP1188,51,6,6,69,Rare,Yes,2025-12-24,Personal Reasons
+EMP1189,46,7,5,78,No Travel,No,NULL,Not Applicable
+EMP1190,30,4,10,32,No Travel,No,NULL,Not Applicable
+EMP1191,51,7,3,10,Frequent,No,NULL,Not Applicable
+EMP1192,27,7,13,36,Rare,No,NULL,Not Applicable
+EMP1193,45,7,6,13,No Travel,No,NULL,Not Applicable
+EMP1194,29,3,2,44,Frequent,No,NULL,Not Applicable
+EMP1195,55,3,11,14,Frequent,Yes,2025-01-16,Work-Life Balance
+EMP1196,52,6,7,53,Rare,No,NULL,Not Applicable
+EMP1197,54,6,14,40,No Travel,Yes,2025-12-18,Work-Life Balance
+EMP1198,28,11,0,5,No Travel,No,NULL,Not Applicable
+EMP1199,57,10,4,20,No Travel,Yes,2025-12-07,Personal Reasons
+EMP1200,55,3,9,0,Frequent,Yes,2025-12-11,Personal Reasons
+EMP1201,71,9,7,76,No Travel,Yes,2025-12-05,Work-Life Balance
+EMP1202,31,2,8,57,No Travel,No,NULL,Not Applicable
+EMP1203,57,7,7,44,Rare,No,NULL,Not Applicable
+EMP1204,46,13,7,0,Rare,No,NULL,Not Applicable
+EMP1205,37,8,3,44,No Travel,No,NULL,Not Applicable
+EMP1206,33,6,10,62,No Travel,No,NULL,Not Applicable
+EMP1207,57,5,7,36,Rare,Yes,2025-11-13,Work-Life Balance
+EMP1208,39,13,1,52,Rare,Yes,2025-05-15,Work-Life Balance
+EMP1209,42,8,4,61,No Travel,No,NULL,Not Applicable
+EMP1210,41,10,3,8,Frequent,No,NULL,Not Applicable
+EMP1211,37,6,9,0,No Travel,Yes,2025-02-20,Job Dissatisfaction
+EMP1212,45,10,1,69,Rare,No,NULL,Not Applicable
+EMP1213,36,6,4,49,Rare,No,NULL,Not Applicable
+EMP1214,51,12,7,31,No Travel,Yes,2025-10-24,Work-Life Balance
+EMP1215,40,4,8,53,No Travel,No,NULL,Not Applicable
+EMP1216,58,8,3,94,Rare,Yes,2025-12-28,Personal Reasons
+EMP1217,26,4,7,35,Frequent,No,NULL,Not Applicable
+EMP1218,45,13,6,75,No Travel,Yes,2025-11-18,Personal Reasons
+EMP1219,10,6,8,36,Frequent,No,NULL,Not Applicable
+EMP1220,45,12,10,58,Rare,No,NULL,Not Applicable
+EMP1221,49,7,3,65,Rare,No,NULL,Not Applicable
+EMP1222,63,11,6,64,No Travel,No,NULL,Not Applicable
+EMP1223,43,6,4,0,No Travel,No,NULL,Not Applicable
+EMP1224,45,4,10,39,Rare,No,NULL,Not Applicable
+EMP1225,66,12,6,53,No Travel,Yes,2025-12-27,Personal Reasons
+EMP1226,31,2,7,10,Frequent,No,NULL,Not Applicable
+EMP1227,40,5,7,18,Rare,No,NULL,Not Applicable
+EMP1228,53,2,8,20,Frequent,No,NULL,Not Applicable
+EMP1229,48,8,7,38,Rare,No,NULL,Not Applicable
+EMP1230,50,6,5,59,No Travel,No,NULL,Not Applicable
+EMP1231,8,3,5,38,Frequent,No,NULL,Not Applicable
+EMP1232,51,8,6,48,No Travel,No,NULL,Not Applicable
+EMP1233,34,8,8,30,Rare,No,NULL,Not Applicable
+EMP1234,37,8,2,2,Rare,Yes,2024-11-12,Better Opportunity
+EMP1235,47,5,4,69,No Travel,No,NULL,Not Applicable
+EMP1236,63,5,8,54,Rare,Yes,2025-02-21,Relocation
+EMP1237,48,1,8,68,Frequent,No,NULL,Not Applicable
+EMP1238,21,7,5,65,Frequent,Yes,2020-01-30,Relocation
+EMP1239,44,7,7,57,Frequent,No,NULL,Not Applicable
+EMP1240,43,5,3,66,No Travel,No,NULL,Not Applicable
+EMP1241,36,16,1,39,No Travel,No,NULL,Not Applicable
+EMP1242,43,4,8,41,Frequent,No,NULL,Not Applicable
+EMP1243,36,7,9,25,Frequent,No,NULL,Not Applicable
+EMP1244,57,9,3,67,Rare,No,NULL,Not Applicable
+EMP1245,43,5,7,48,No Travel,No,NULL,Not Applicable
+EMP1246,55,13,5,47,Rare,No,NULL,Not Applicable
+EMP1247,29,6,8,42,Rare,Yes,2022-09-25,Health/Family Reasons
+EMP1248,54,10,5,56,Rare,No,NULL,Not Applicable
+EMP1249,60,4,6,12,Frequent,No,NULL,Not Applicable
+EMP1250,39,6,6,30,No Travel,No,NULL,Not Applicable
+EMP1251,48,8,6,33,No Travel,No,NULL,Not Applicable
+EMP1252,53,5,8,84,No Travel,No,NULL,Not Applicable
+EMP1253,52,9,7,42,No Travel,No,NULL,Not Applicable
+EMP1254,52,5,9,8,Rare,No,NULL,Not Applicable
+EMP1255,20,4,6,56,No Travel,No,NULL,Not Applicable
+EMP1256,59,7,8,28,Rare,Yes,2025-10-09,Work-Life Balance
+EMP1257,57,3,7,28,No Travel,No,NULL,Not Applicable
+EMP1258,37,4,4,64,No Travel,No,NULL,Not Applicable
+EMP1259,13,4,10,83,Frequent,No,NULL,Not Applicable
+EMP1260,50,2,6,31,No Travel,No,NULL,Not Applicable
+EMP1261,9,10,4,69,Frequent,No,NULL,Not Applicable
+EMP1262,25,13,10,18,No Travel,Yes,2025-05-28,Career Growth
+EMP1263,63,8,7,33,Frequent,Yes,2025-10-28,Work-Life Balance
+EMP1264,35,5,5,27,No Travel,No,NULL,Not Applicable
+EMP1265,41,6,4,73,No Travel,No,NULL,Not Applicable
+EMP1266,48,5,5,48,No Travel,No,NULL,Not Applicable
+EMP1267,35,5,4,90,No Travel,No,NULL,Not Applicable
+EMP1268,35,13,5,43,No Travel,No,NULL,Not Applicable
+EMP1269,38,7,3,37,No Travel,No,NULL,Not Applicable
+EMP1270,29,5,4,76,Rare,No,NULL,Not Applicable
+EMP1271,8,6,4,14,Frequent,Yes,2025-05-11,Work-Life Balance
+EMP1272,41,8,2,49,Frequent,No,NULL,Not Applicable
+EMP1273,36,9,3,53,Frequent,No,NULL,Not Applicable
+EMP1274,26,3,2,39,Frequent,No,NULL,Not Applicable
+EMP1275,49,6,8,56,No Travel,No,NULL,Not Applicable
+EMP1276,64,9,2,58,Frequent,Yes,2025-11-09,Work-Life Balance
+EMP1277,36,5,11,42,No Travel,No,NULL,Not Applicable
+EMP1278,36,6,5,54,Frequent,No,NULL,Not Applicable
+EMP1279,59,4,9,27,Rare,Yes,2025-09-14,Personal Reasons
+EMP1280,33,5,0,10,No Travel,No,NULL,Not Applicable
+EMP1281,42,1,13,38,Frequent,No,NULL,Not Applicable
+EMP1282,41,10,7,18,Frequent,No,NULL,Not Applicable
+EMP1283,47,3,5,24,Frequent,No,NULL,Not Applicable
+EMP1284,52,4,3,13,No Travel,Yes,2025-12-26,Work-Life Balance
+EMP1285,25,6,3,6,Frequent,No,NULL,Not Applicable
+EMP1286,66,8,11,0,No Travel,Yes,2025-12-27,Manager Relationship
+EMP1287,25,11,6,21,Frequent,Yes,2020-01-22,Health/Family Reasons
+EMP1288,61,6,7,24,Frequent,No,NULL,Not Applicable
+EMP1289,9,10,7,28,No Travel,No,NULL,Not Applicable
+EMP1290,38,8,5,51,No Travel,No,NULL,Not Applicable
+EMP1291,55,5,4,13,Frequent,No,NULL,Not Applicable
+EMP1292,44,7,7,4,Rare,No,NULL,Not Applicable
+EMP1293,65,6,5,64,Frequent,No,NULL,Not Applicable
+EMP1294,69,4,7,26,Frequent,No,NULL,Not Applicable
+EMP1295,39,3,3,28,No Travel,No,NULL,Not Applicable
+EMP1296,41,9,3,23,Frequent,No,NULL,Not Applicable
+EMP1297,36,9,10,45,No Travel,Yes,2025-11-16,Work-Life Balance
+EMP1298,52,11,4,86,Frequent,No,NULL,Not Applicable
+EMP1299,43,2,7,12,No Travel,Yes,2023-02-27,Career Growth
+EMP1300,30,12,6,28,No Travel,No,NULL,Not Applicable
+EMP1301,46,9,10,68,Rare,Yes,2022-08-08,Job Dissatisfaction
+EMP1302,37,7,5,94,Rare,No,NULL,Not Applicable
+EMP1303,14,10,8,4,Frequent,No,NULL,Not Applicable
+EMP1304,50,7,8,14,No Travel,No,NULL,Not Applicable
+EMP1305,49,6,1,33,No Travel,No,NULL,Not Applicable
+EMP1306,55,8,4,19,Frequent,No,NULL,Not Applicable
+EMP1307,41,6,8,35,No Travel,Yes,2025-09-13,Compensation
+EMP1308,43,3,3,0,No Travel,No,NULL,Not Applicable
+EMP1309,21,5,8,69,Frequent,No,NULL,Not Applicable
+EMP1310,43,9,8,12,No Travel,No,NULL,Not Applicable
+EMP1311,38,5,6,28,Frequent,No,NULL,Not Applicable
+EMP1312,34,4,3,18,Rare,No,NULL,Not Applicable
+EMP1313,54,9,5,95,No Travel,No,NULL,Not Applicable
+EMP1314,35,4,10,40,No Travel,No,NULL,Not Applicable
+EMP1315,52,5,6,2,No Travel,No,NULL,Not Applicable
+EMP1316,45,5,7,39,No Travel,Yes,2023-07-27,Health/Family Reasons
+EMP1317,22,10,3,17,Frequent,No,NULL,Not Applicable
+EMP1318,32,5,1,67,No Travel,No,NULL,Not Applicable
+EMP1319,25,5,10,0,Rare,No,NULL,Not Applicable
+EMP1320,40,6,1,12,No Travel,No,NULL,Not Applicable
+EMP1321,35,11,3,78,No Travel,No,NULL,Not Applicable
+EMP1322,49,7,1,23,Rare,No,NULL,Not Applicable
+EMP1323,42,6,6,34,Rare,No,NULL,Not Applicable
+EMP1324,53,7,2,25,No Travel,No,NULL,Not Applicable
+EMP1325,59,4,5,66,Rare,No,NULL,Not Applicable
+EMP1326,46,4,7,48,No Travel,Yes,2025-06-05,Work-Life Balance
+EMP1327,59,5,6,44,Frequent,No,NULL,Not Applicable
+EMP1328,36,6,10,73,Frequent,No,NULL,Not Applicable
+EMP1329,25,6,7,92,No Travel,No,NULL,Not Applicable
+EMP1330,26,4,8,58,Frequent,No,NULL,Not Applicable
+EMP1331,60,9,4,53,Rare,No,NULL,Not Applicable
+EMP1332,27,8,8,80,Rare,No,NULL,Not Applicable
+EMP1333,58,6,7,60,No Travel,Yes,2025-12-15,Better Opportunity
+EMP1334,49,4,5,32,No Travel,No,NULL,Not Applicable
+EMP1335,24,6,3,28,Rare,No,NULL,Not Applicable
+EMP1336,54,11,4,7,No Travel,No,NULL,Not Applicable
+EMP1337,61,7,7,78,Rare,No,NULL,Not Applicable
+EMP1338,54,7,8,5,Rare,No,NULL,Not Applicable
+EMP1339,50,5,7,5,No Travel,No,NULL,Not Applicable
+EMP1340,34,12,9,59,Frequent,No,NULL,Not Applicable
+EMP1341,65,4,3,84,No Travel,No,NULL,Not Applicable
+EMP1342,56,8,7,22,Rare,No,NULL,Not Applicable
+EMP1343,48,6,7,55,No Travel,No,NULL,Not Applicable
+EMP1344,53,4,6,79,No Travel,No,NULL,Not Applicable
+EMP1345,27,4,6,49,No Travel,Yes,2024-10-22,Relocation
+EMP1346,29,7,6,55,Frequent,No,NULL,Not Applicable
+EMP1347,38,4,1,64,Rare,Yes,2023-12-04,Job Dissatisfaction
+EMP1348,31,8,5,37,Frequent,No,NULL,Not Applicable
+EMP1349,39,10,4,50,Rare,No,NULL,Not Applicable
+EMP1350,39,6,5,39,No Travel,No,NULL,Not Applicable
+EMP1351,63,6,8,30,No Travel,No,NULL,Not Applicable
+EMP1352,57,4,4,70,No Travel,No,NULL,Not Applicable
+EMP1353,37,8,4,67,Rare,No,NULL,Not Applicable
+EMP1354,68,12,0,37,Frequent,No,NULL,Not Applicable
+EMP1355,23,7,4,7,Frequent,No,NULL,Not Applicable
+EMP1356,37,12,7,46,Frequent,No,NULL,Not Applicable
+EMP1357,8,4,4,95,Frequent,No,NULL,Not Applicable
+EMP1358,53,5,5,89,Frequent,No,NULL,Not Applicable
+EMP1359,42,7,10,42,No Travel,Yes,2025-08-10,Job Dissatisfaction
+EMP1360,36,2,8,42,Rare,No,NULL,Not Applicable
+EMP1361,56,12,11,18,No Travel,Yes,2025-12-07,Relocation
+EMP1362,49,13,6,27,Frequent,No,NULL,Not Applicable
+EMP1363,27,7,7,66,Rare,No,NULL,Not Applicable
+EMP1364,9,13,4,50,Frequent,No,NULL,Not Applicable
+EMP1365,35,7,4,46,Frequent,No,NULL,Not Applicable
+EMP1366,59,2,5,59,No Travel,No,NULL,Not Applicable
+EMP1367,53,6,2,32,Rare,No,NULL,Not Applicable
+EMP1368,42,6,5,97,Rare,No,NULL,Not Applicable
+EMP1369,56,7,8,69,No Travel,No,NULL,Not Applicable
+EMP1370,32,2,8,68,Frequent,No,NULL,Not Applicable
+EMP1371,64,3,7,88,No Travel,No,NULL,Not Applicable
+EMP1372,64,13,8,26,Frequent,No,NULL,Not Applicable
+EMP1373,36,7,6,37,No Travel,No,NULL,Not Applicable
+EMP1374,40,5,1,64,Rare,Yes,2025-12-30,Better Opportunity
+EMP1375,48,8,9,35,Frequent,No,NULL,Not Applicable
+EMP1376,63,5,5,48,Rare,Yes,2025-10-01,Work-Life Balance
+EMP1377,41,4,6,13,Rare,No,NULL,Not Applicable
+EMP1378,44,10,4,26,No Travel,No,NULL,Not Applicable
+EMP1379,33,6,4,36,Rare,No,NULL,Not Applicable
+EMP1380,72,6,2,26,Frequent,Yes,2025-12-19,Work-Life Balance
+EMP1381,41,7,5,50,Frequent,No,NULL,Not Applicable
+EMP1382,56,6,5,70,No Travel,No,NULL,Not Applicable
+EMP1383,51,8,4,43,Rare,No,NULL,Not Applicable
+EMP1384,39,7,2,49,Rare,No,NULL,Not Applicable
+EMP1385,19,10,2,4,Frequent,No,NULL,Not Applicable
+EMP1386,23,3,3,73,Rare,No,NULL,Not Applicable
+EMP1387,53,7,6,8,No Travel,No,NULL,Not Applicable
+EMP1388,54,4,5,33,Rare,No,NULL,Not Applicable
+EMP1389,31,5,5,21,Rare,No,NULL,Not Applicable
+EMP1390,32,6,6,23,No Travel,No,NULL,Not Applicable
+EMP1391,41,6,8,0,Rare,No,NULL,Not Applicable
+EMP1392,33,8,9,16,Rare,No,NULL,Not Applicable
+EMP1393,41,7,8,54,No Travel,No,NULL,Not Applicable
+EMP1394,40,8,9,78,No Travel,No,NULL,Not Applicable
+EMP1395,33,8,5,22,Rare,No,NULL,Not Applicable
+EMP1396,66,6,8,51,No Travel,No,NULL,Not Applicable
+EMP1397,62,7,4,47,Rare,Yes,2025-12-13,Personal Reasons
+EMP1398,34,8,9,16,No Travel,No,NULL,Not Applicable
+EMP1399,58,6,5,101,Rare,No,NULL,Not Applicable
+EMP1400,30,7,8,40,Frequent,No,NULL,Not Applicable
+EMP1401,35,6,5,50,Rare,No,NULL,Not Applicable
+EMP1402,33,8,6,52,No Travel,No,NULL,Not Applicable
+EMP1403,58,3,7,42,Rare,No,NULL,Not Applicable
+EMP1404,56,7,3,35,Rare,No,NULL,Not Applicable
+EMP1405,54,10,3,75,No Travel,No,NULL,Not Applicable
+EMP1406,52,10,10,7,No Travel,No,NULL,Not Applicable
+EMP1407,29,9,8,49,Rare,No,NULL,Not Applicable
+EMP1408,46,3,3,69,Rare,No,NULL,Not Applicable
+EMP1409,29,5,6,0,Rare,Yes,2023-04-19,Work-Life Balance
+EMP1410,41,5,8,0,No Travel,No,NULL,Not Applicable
+EMP1411,51,8,8,40,No Travel,No,NULL,Not Applicable
+EMP1412,62,7,6,50,Rare,No,NULL,Not Applicable
+EMP1413,33,2,4,44,No Travel,No,NULL,Not Applicable
+EMP1414,51,3,5,36,No Travel,No,NULL,Not Applicable
+EMP1415,68,6,3,52,Rare,No,NULL,Not Applicable
+EMP1416,36,1,3,16,Rare,No,NULL,Not Applicable
+EMP1417,45,8,2,32,Frequent,Yes,2025-11-13,Better Opportunity
+EMP1418,58,7,7,61,Rare,No,NULL,Not Applicable
+EMP1419,50,8,3,0,No Travel,Yes,2025-05-14,Job Dissatisfaction
+EMP1420,50,8,8,38,Rare,No,NULL,Not Applicable
+EMP1421,42,8,5,32,No Travel,No,NULL,Not Applicable
+EMP1422,60,6,6,52,No Travel,Yes,2025-12-10,Health/Family Reasons
+EMP1423,50,7,3,13,Frequent,No,NULL,Not Applicable
+EMP1424,56,7,10,13,Frequent,Yes,2025-11-16,Work-Life Balance
+EMP1425,54,7,5,44,Rare,Yes,2024-04-04,Better Opportunity
+EMP1426,39,10,4,33,Frequent,No,NULL,Not Applicable
+EMP1427,68,5,5,52,No Travel,Yes,2025-12-26,Work-Life Balance
+EMP1428,47,9,8,50,No Travel,Yes,2025-12-28,Personal Reasons
+EMP1429,51,8,4,35,Rare,Yes,2025-11-16,Work-Life Balance
+EMP1430,51,9,3,0,No Travel,No,NULL,Not Applicable
+EMP1431,68,6,7,16,Rare,Yes,2025-11-03,Manager Relationship
+EMP1432,26,8,4,33,Rare,No,NULL,Not Applicable
+EMP1433,32,8,8,63,No Travel,No,NULL,Not Applicable
+EMP1434,42,6,5,70,No Travel,No,NULL,Not Applicable
+EMP1435,46,11,4,60,No Travel,No,NULL,Not Applicable
+EMP1436,45,2,5,33,No Travel,No,NULL,Not Applicable
+EMP1437,35,9,6,80,No Travel,No,NULL,Not Applicable
+EMP1438,51,5,9,70,Rare,No,NULL,Not Applicable
+EMP1439,59,3,9,5,Rare,No,NULL,Not Applicable
+EMP1440,64,10,9,15,Rare,No,NULL,Not Applicable
+EMP1441,61,11,9,69,No Travel,No,NULL,Not Applicable
+EMP1442,63,6,4,67,Rare,No,NULL,Not Applicable
+EMP1443,18,3,7,63,Frequent,No,NULL,Not Applicable
+EMP1444,20,6,5,64,No Travel,No,NULL,Not Applicable
+EMP1445,56,9,3,74,Frequent,No,NULL,Not Applicable
+EMP1446,48,8,7,37,No Travel,No,NULL,Not Applicable
+EMP1447,47,4,8,34,Rare,Yes,2025-12-23,Personal Reasons
+EMP1448,35,7,7,74,Rare,No,NULL,Not Applicable
+EMP1449,45,6,3,44,Rare,Yes,2024-10-14,Work-Life Balance
+EMP1450,43,7,4,58,Rare,No,NULL,Not Applicable
+EMP1451,32,6,11,56,No Travel,No,NULL,Not Applicable
+EMP1452,7,6,2,27,Rare,No,NULL,Not Applicable
+EMP1453,32,7,6,15,No Travel,No,NULL,Not Applicable
+EMP1454,41,11,4,8,Rare,No,NULL,Not Applicable
+EMP1455,39,6,8,32,Frequent,No,NULL,Not Applicable
+EMP1456,68,8,2,59,No Travel,No,NULL,Not Applicable
+EMP1457,53,11,10,45,No Travel,Yes,2025-12-23,Better Opportunity
+EMP1458,49,13,3,57,Rare,No,NULL,Not Applicable
+EMP1459,54,7,4,6,Rare,Yes,2025-12-30,Better Opportunity
+EMP1460,39,11,7,32,Frequent,No,NULL,Not Applicable
+EMP1461,47,12,5,58,Rare,No,NULL,Not Applicable
+EMP1462,50,6,3,66,No Travel,No,NULL,Not Applicable
+EMP1463,48,6,3,28,Rare,Yes,2025-11-09,Work-Life Balance
+EMP1464,7,10,9,55,No Travel,No,NULL,Not Applicable
+EMP1465,62,11,5,0,No Travel,Yes,2025-10-30,Career Growth
+EMP1466,55,5,5,20,Rare,Yes,2025-07-03,Manager Relationship
+EMP1467,51,7,2,27,Rare,Yes,2025-12-04,Work-Life Balance
+EMP1468,34,8,7,60,No Travel,No,NULL,Not Applicable
+EMP1469,11,8,8,23,Rare,No,NULL,Not Applicable
+EMP1470,40,8,5,58,Rare,No,NULL,Not Applicable
+EMP1471,21,9,2,27,Frequent,No,NULL,Not Applicable
+EMP1472,51,7,5,93,No Travel,No,NULL,Not Applicable
+EMP1473,40,7,8,69,Rare,Yes,2025-11-18,Better Opportunity
+EMP1474,53,10,5,55,Frequent,No,NULL,Not Applicable
+EMP1475,38,5,2,48,Rare,No,NULL,Not Applicable
+EMP1476,32,8,7,19,No Travel,No,NULL,Not Applicable
+EMP1477,47,4,3,10,Rare,No,NULL,Not Applicable
+EMP1478,57,8,8,50,Rare,No,NULL,Not Applicable
+EMP1479,28,3,10,69,Rare,No,NULL,Not Applicable
+EMP1480,6,3,3,56,Frequent,No,NULL,Not Applicable
+EMP1481,38,11,10,32,No Travel,No,NULL,Not Applicable
+EMP1482,40,9,6,85,No Travel,No,NULL,Not Applicable
+EMP1483,39,4,6,44,No Travel,No,NULL,Not Applicable
+EMP1484,56,7,7,55,Rare,No,NULL,Not Applicable
+EMP1485,27,4,2,0,Frequent,No,NULL,Not Applicable
+EMP1486,59,3,8,72,No Travel,No,NULL,Not Applicable
+EMP1487,29,6,3,75,Rare,No,NULL,Not Applicable
+EMP1488,70,10,6,25,Frequent,No,NULL,Not Applicable
+EMP1489,50,12,12,12,Rare,Yes,2025-09-12,Work-Life Balance
+EMP1490,45,3,6,64,Frequent,No,NULL,Not Applicable
+EMP1491,39,4,8,15,No Travel,No,NULL,Not Applicable
+EMP1492,27,8,7,32,Rare,No,NULL,Not Applicable
+EMP1493,8,3,5,39,Frequent,No,NULL,Not Applicable
+EMP1494,60,7,8,78,Rare,No,NULL,Not Applicable
+EMP1495,50,7,6,45,Rare,No,NULL,Not Applicable
+EMP1496,51,7,3,45,Rare,No,NULL,Not Applicable
+EMP1497,38,6,3,20,Frequent,No,NULL,Not Applicable
+EMP1498,50,5,5,54,Rare,No,NULL,Not Applicable
+EMP1499,23,5,5,59,Rare,No,NULL,Not Applicable
+EMP1500,38,8,9,28,Frequent,No,NULL,Not Applicable
+EMP1501,55,6,6,16,Rare,No,NULL,Not Applicable
+EMP1502,43,6,7,36,Rare,No,NULL,Not Applicable
+EMP1503,45,9,5,13,Frequent,No,NULL,Not Applicable
+EMP1504,36,12,5,55,Frequent,No,NULL,Not Applicable
+EMP1505,65,9,7,9,No Travel,Yes,2025-11-21,Work-Life Balance
+EMP1506,46,7,8,31,No Travel,No,NULL,Not Applicable
+EMP1507,47,9,5,46,No Travel,No,NULL,Not Applicable
+EMP1508,55,9,5,0,Rare,No,NULL,Not Applicable
+EMP1509,37,6,8,71,No Travel,Yes,2018-10-06,Better Opportunity
+EMP1510,57,3,11,29,No Travel,Yes,2025-04-04,Relocation
+EMP1511,40,4,12,58,No Travel,Yes,2025-06-17,Job Dissatisfaction
+EMP1512,31,4,3,57,Rare,No,NULL,Not Applicable
+EMP1513,16,6,5,81,Frequent,No,NULL,Not Applicable
+EMP1514,39,5,5,16,No Travel,No,NULL,Not Applicable
+EMP1515,54,4,6,16,No Travel,No,NULL,Not Applicable
+EMP1516,38,8,4,50,Rare,No,NULL,Not Applicable
+EMP1517,52,7,6,50,No Travel,No,NULL,Not Applicable
+EMP1518,54,6,6,26,Rare,Yes,2025-12-06,Personal Reasons
+EMP1519,32,1,7,80,No Travel,No,NULL,Not Applicable
+EMP1520,63,5,9,21,Rare,Yes,2025-11-21,Job Dissatisfaction
+EMP1521,57,12,5,28,No Travel,Yes,2025-12-11,Work-Life Balance
+EMP1522,50,4,2,53,Frequent,No,NULL,Not Applicable
+EMP1523,34,6,3,0,Frequent,Yes,2021-11-16,Personal Reasons
+EMP1524,23,6,6,0,No Travel,No,NULL,Not Applicable
+EMP1525,40,5,9,51,Frequent,No,NULL,Not Applicable
+EMP1526,40,2,6,41,Rare,No,NULL,Not Applicable
+EMP1527,33,6,2,44,Rare,No,NULL,Not Applicable
+EMP1528,32,10,4,52,Frequent,Yes,2023-03-22,Career Growth
+EMP1529,55,7,8,38,No Travel,Yes,2025-12-12,Personal Reasons
+EMP1530,47,9,5,50,Rare,No,NULL,Not Applicable
+EMP1531,39,4,6,15,No Travel,No,NULL,Not Applicable
+EMP1532,68,5,5,63,Rare,No,NULL,Not Applicable
+EMP1533,29,8,2,68,No Travel,No,NULL,Not Applicable
+EMP1534,47,6,5,15,No Travel,No,NULL,Not Applicable
+EMP1535,37,5,8,49,No Travel,No,NULL,Not Applicable
+EMP1536,45,3,7,67,No Travel,No,NULL,Not Applicable
+EMP1537,36,3,4,68,No Travel,No,NULL,Not Applicable
+EMP1538,19,3,3,0,Frequent,No,NULL,Not Applicable
+EMP1539,53,9,10,27,Rare,Yes,2025-12-25,Job Dissatisfaction
+EMP1540,48,8,5,51,Rare,No,NULL,Not Applicable
+EMP1541,55,9,3,56,No Travel,Yes,2025-08-08,Job Dissatisfaction
+EMP1542,52,2,6,75,Rare,Yes,2025-12-14,Job Dissatisfaction
+EMP1543,9,9,6,40,Frequent,No,NULL,Not Applicable
+EMP1544,43,3,7,84,No Travel,No,NULL,Not Applicable
+EMP1545,41,7,5,55,Frequent,No,NULL,Not Applicable
+EMP1546,61,4,8,30,Rare,No,NULL,Not Applicable
+EMP1547,10,7,4,57,Rare,No,NULL,Not Applicable
+EMP1548,55,3,6,0,No Travel,Yes,2025-12-29,Better Opportunity
+EMP1549,35,9,10,44,Rare,No,NULL,Not Applicable
+EMP1550,66,4,8,66,No Travel,Yes,2025-07-25,Manager Relationship
+EMP1551,54,7,6,71,Rare,No,NULL,Not Applicable
+EMP1552,36,7,7,27,Frequent,No,NULL,Not Applicable
+EMP1553,63,7,9,37,Rare,No,NULL,Not Applicable
+EMP1554,32,4,6,86,Frequent,No,NULL,Not Applicable
+EMP1555,56,7,4,50,Rare,Yes,2025-11-04,Work-Life Balance
+EMP1556,31,7,3,0,Rare,No,NULL,Not Applicable
+EMP1557,38,7,6,0,No Travel,No,NULL,Not Applicable
+EMP1558,33,9,8,11,Rare,No,NULL,Not Applicable
+EMP1559,49,6,6,73,No Travel,Yes,2025-06-23,Job Dissatisfaction
+EMP1560,39,10,6,0,No Travel,No,NULL,Not Applicable
+EMP1561,6,5,4,31,No Travel,No,NULL,Not Applicable
+EMP1562,59,8,7,45,Rare,No,NULL,Not Applicable
+EMP1563,60,6,8,29,No Travel,No,NULL,Not Applicable
+EMP1564,40,9,11,18,Rare,No,NULL,Not Applicable
+EMP1565,55,4,4,51,Rare,No,NULL,Not Applicable
+EMP1566,31,7,3,33,Frequent,No,NULL,Not Applicable
+EMP1567,42,4,17,57,Frequent,No,NULL,Not Applicable
+EMP1568,57,10,8,61,No Travel,No,NULL,Not Applicable
+EMP1569,34,6,6,51,Frequent,No,NULL,Not Applicable
+EMP1570,53,4,7,60,No Travel,No,NULL,Not Applicable
+EMP1571,65,4,11,62,Frequent,Yes,2025-09-01,Manager Relationship
+EMP1572,36,5,8,47,Frequent,No,NULL,Not Applicable
+EMP1573,56,5,2,79,Rare,No,NULL,Not Applicable
+EMP1574,49,4,6,39,Rare,Yes,2025-08-30,Job Dissatisfaction
+EMP1575,25,10,3,70,Rare,Yes,2025-06-15,Job Dissatisfaction
+EMP1576,56,6,5,72,No Travel,No,NULL,Not Applicable
+EMP1577,46,3,11,10,No Travel,No,NULL,Not Applicable
+EMP1578,55,6,7,28,Rare,Yes,2025-12-27,Career Growth
+EMP1579,42,9,3,78,No Travel,Yes,2025-06-11,Work-Life Balance
+EMP1580,54,5,8,24,No Travel,Yes,2025-10-26,Job Dissatisfaction
+EMP1581,30,3,6,45,Rare,No,NULL,Not Applicable
+EMP1582,31,9,7,1,Rare,Yes,2025-01-31,Job Dissatisfaction
+EMP1583,17,8,5,83,Frequent,No,NULL,Not Applicable
+EMP1584,10,8,3,46,Rare,No,NULL,Not Applicable
+EMP1585,31,13,8,23,Frequent,No,NULL,Not Applicable
+EMP1586,34,10,6,15,No Travel,No,NULL,Not Applicable
+EMP1587,41,7,11,45,Frequent,No,NULL,Not Applicable
+EMP1588,22,3,8,77,Frequent,No,NULL,Not Applicable
+EMP1589,44,8,4,20,No Travel,Yes,2023-02-05,Work-Life Balance
+EMP1590,35,6,4,60,Frequent,No,NULL,Not Applicable
+EMP1591,62,11,4,89,Frequent,No,NULL,Not Applicable
+EMP1592,43,6,4,96,Rare,No,NULL,Not Applicable
+EMP1593,28,9,6,0,No Travel,No,NULL,Not Applicable
+EMP1594,48,3,10,54,Rare,Yes,2025-06-01,Better Opportunity
+EMP1595,52,8,8,29,Rare,No,NULL,Not Applicable
+EMP1596,11,4,5,18,Frequent,No,NULL,Not Applicable
+EMP1597,56,8,3,56,Rare,No,NULL,Not Applicable
+EMP1598,56,14,4,79,Rare,Yes,2025-12-04,Work-Life Balance
+EMP1599,58,10,2,45,Rare,Yes,2025-12-20,Work-Life Balance
+EMP1600,47,8,6,60,No Travel,No,NULL,Not Applicable
+EMP1601,51,1,7,0,No Travel,No,NULL,Not Applicable
+EMP1602,31,5,10,51,Frequent,No,NULL,Not Applicable
+EMP1603,7,8,3,43,Rare,No,NULL,Not Applicable
+EMP1604,35,5,8,42,No Travel,No,NULL,Not Applicable
+EMP1605,34,6,1,73,No Travel,No,NULL,Not Applicable
+EMP1606,61,9,2,58,Rare,No,NULL,Not Applicable
+EMP1607,22,9,8,56,Frequent,Yes,2022-08-26,Work-Life Balance
+EMP1608,53,1,8,71,Rare,No,NULL,Not Applicable
+EMP1609,59,8,6,46,Rare,No,NULL,Not Applicable
+EMP1610,12,4,4,57,Frequent,No,NULL,Not Applicable
+EMP1611,27,3,3,32,Frequent,No,NULL,Not Applicable
+EMP1612,53,9,4,44,No Travel,No,NULL,Not Applicable
+EMP1613,29,7,5,42,Rare,No,NULL,Not Applicable
+EMP1614,41,5,3,40,Rare,No,NULL,Not Applicable
+EMP1615,50,10,9,54,Rare,No,NULL,Not Applicable
+EMP1616,64,9,10,57,No Travel,No,NULL,Not Applicable
+EMP1617,51,5,7,7,No Travel,No,NULL,Not Applicable
+EMP1618,35,11,4,98,No Travel,Yes,2024-01-03,Work-Life Balance
+EMP1619,53,8,10,46,Rare,No,NULL,Not Applicable
+EMP1620,39,5,13,88,Rare,No,NULL,Not Applicable
+EMP1621,57,6,6,33,No Travel,No,NULL,Not Applicable
+EMP1622,32,6,9,66,Rare,No,NULL,Not Applicable
+EMP1623,45,5,2,44,Rare,No,NULL,Not Applicable
+EMP1624,21,5,4,77,Rare,No,NULL,Not Applicable
+EMP1625,57,6,12,34,Frequent,No,NULL,Not Applicable
+EMP1626,56,5,6,12,No Travel,Yes,2025-09-15,Manager Relationship
+EMP1627,27,10,7,27,No Travel,No,NULL,Not Applicable
+EMP1628,63,4,2,30,Rare,No,NULL,Not Applicable
+EMP1629,48,3,5,47,Rare,Yes,2025-10-27,Better Opportunity
+EMP1630,54,5,5,5,No Travel,Yes,2025-12-16,Relocation
+EMP1631,63,9,4,64,Frequent,No,NULL,Not Applicable
+EMP1632,41,11,4,21,No Travel,No,NULL,Not Applicable
+EMP1633,56,7,4,50,Rare,Yes,2025-08-25,Work-Life Balance
+EMP1634,50,3,3,0,No Travel,No,NULL,Not Applicable
+EMP1635,30,3,6,38,Rare,No,NULL,Not Applicable
+EMP1636,51,9,8,15,Rare,No,NULL,Not Applicable
+EMP1637,42,6,8,41,No Travel,No,NULL,Not Applicable
+EMP1638,41,1,4,16,No Travel,No,NULL,Not Applicable
+EMP1639,55,7,6,48,Rare,No,NULL,Not Applicable
+EMP1640,55,17,6,8,Rare,No,NULL,Not Applicable
+EMP1641,68,11,6,16,Rare,Yes,2025-09-27,Work-Life Balance
+EMP1642,60,11,7,57,No Travel,Yes,2025-03-17,Work-Life Balance
+EMP1643,57,5,13,3,Frequent,No,NULL,Not Applicable
+EMP1644,60,3,4,93,Rare,Yes,2025-07-18,Better Opportunity
+EMP1645,68,10,13,60,Rare,Yes,2025-12-12,Better Opportunity
+EMP1646,12,6,6,31,Frequent,No,NULL,Not Applicable
+EMP1647,29,7,3,31,Rare,No,NULL,Not Applicable
+EMP1648,48,6,4,56,Frequent,No,NULL,Not Applicable
+EMP1649,65,7,6,11,No Travel,Yes,2025-11-18,Better Opportunity
+EMP1650,39,5,5,25,No Travel,No,NULL,Not Applicable
+EMP1651,24,8,4,82,Frequent,No,NULL,Not Applicable
+EMP1652,39,6,4,48,Frequent,No,NULL,Not Applicable
+EMP1653,59,4,10,74,No Travel,No,NULL,Not Applicable
+EMP1654,60,9,5,93,Rare,No,NULL,Not Applicable
+EMP1655,46,4,8,0,No Travel,No,NULL,Not Applicable
+EMP1656,16,11,7,49,Frequent,No,NULL,Not Applicable
+EMP1657,26,7,13,40,Rare,No,NULL,Not Applicable
+EMP1658,46,5,3,27,Rare,No,NULL,Not Applicable
+EMP1659,48,9,7,26,Rare,Yes,2024-06-04,Work-Life Balance
+EMP1660,66,12,2,79,No Travel,No,NULL,Not Applicable
+EMP1661,36,4,2,55,Rare,No,NULL,Not Applicable
+EMP1662,31,10,5,13,Frequent,No,NULL,Not Applicable
+EMP1663,63,8,6,8,No Travel,No,NULL,Not Applicable
+EMP1664,44,4,7,61,Rare,No,NULL,Not Applicable
+EMP1665,53,8,10,17,No Travel,Yes,2024-10-29,Manager Relationship
+EMP1666,44,6,3,51,Rare,No,NULL,Not Applicable
+EMP1667,29,8,5,24,Rare,Yes,2023-09-16,Compensation
+EMP1668,47,7,4,73,Frequent,No,NULL,Not Applicable
+EMP1669,24,12,8,75,Rare,No,NULL,Not Applicable
+EMP1670,53,12,5,0,No Travel,No,NULL,Not Applicable
+EMP1671,62,5,7,18,Frequent,Yes,2025-08-08,Job Dissatisfaction
+EMP1672,60,10,6,32,Rare,No,NULL,Not Applicable
+EMP1673,54,7,9,23,No Travel,Yes,2025-07-17,Work-Life Balance
+EMP1674,51,5,3,56,No Travel,No,NULL,Not Applicable
+EMP1675,32,7,3,0,No Travel,No,NULL,Not Applicable
+EMP1676,57,6,6,9,Rare,No,NULL,Not Applicable
+EMP1677,45,11,7,2,No Travel,No,NULL,Not Applicable
+EMP1678,62,5,7,36,Frequent,Yes,2025-12-13,Work-Life Balance
+EMP1679,50,5,8,14,No Travel,No,NULL,Not Applicable
+EMP1680,20,1,10,89,Rare,No,NULL,Not Applicable
+EMP1681,27,8,5,3,Rare,No,NULL,Not Applicable
+EMP1682,61,9,6,34,Rare,No,NULL,Not Applicable
+EMP1683,34,12,4,0,No Travel,No,NULL,Not Applicable
+EMP1684,31,7,7,18,No Travel,No,NULL,Not Applicable
+EMP1685,7,7,3,67,Frequent,No,NULL,Not Applicable
+EMP1686,43,8,2,65,No Travel,Yes,2025-09-27,Better Opportunity
+EMP1687,60,5,8,76,No Travel,No,NULL,Not Applicable
+EMP1688,50,9,6,49,No Travel,No,NULL,Not Applicable
+EMP1689,19,4,7,41,Frequent,No,NULL,Not Applicable
+EMP1690,29,3,8,37,Rare,No,NULL,Not Applicable
+EMP1691,38,6,6,72,No Travel,No,NULL,Not Applicable
+EMP1692,65,9,7,9,Frequent,Yes,2025-12-22,Work-Life Balance
+EMP1693,38,3,8,36,No Travel,Yes,2021-12-03,Work-Life Balance
+EMP1694,14,5,3,0,No Travel,No,NULL,Not Applicable
+EMP1695,37,5,5,31,Rare,No,NULL,Not Applicable
+EMP1696,33,10,10,64,Rare,No,NULL,Not Applicable
+EMP1697,37,10,10,78,No Travel,No,NULL,Not Applicable
+EMP1698,52,7,7,56,No Travel,No,NULL,Not Applicable
+EMP1699,61,5,4,38,No Travel,No,NULL,Not Applicable
+EMP1700,38,6,6,0,No Travel,Yes,2015-12-12,Job Dissatisfaction
+EMP1701,11,7,9,15,Frequent,No,NULL,Not Applicable
+EMP1702,36,5,4,0,Rare,No,NULL,Not Applicable
+EMP1703,47,5,5,41,No Travel,No,NULL,Not Applicable
+EMP1704,62,5,9,66,No Travel,No,NULL,Not Applicable
+EMP1705,42,5,7,37,Frequent,No,NULL,Not Applicable
+EMP1706,54,6,7,23,No Travel,No,NULL,Not Applicable
+EMP1707,52,9,8,65,No Travel,No,NULL,Not Applicable
+EMP1708,45,9,4,33,Rare,No,NULL,Not Applicable
+EMP1709,53,2,3,14,No Travel,No,NULL,Not Applicable
+EMP1710,38,10,5,39,No Travel,No,NULL,Not Applicable
+EMP1711,34,8,2,0,No Travel,No,NULL,Not Applicable
+EMP1712,65,7,7,38,Frequent,No,NULL,Not Applicable
+EMP1713,49,11,5,0,Frequent,No,NULL,Not Applicable
+EMP1714,23,2,10,19,Rare,No,NULL,Not Applicable
+EMP1715,46,12,8,31,Rare,Yes,2024-11-24,Job Dissatisfaction
+EMP1716,61,5,4,43,Rare,No,NULL,Not Applicable
+EMP1717,37,8,6,66,Rare,No,NULL,Not Applicable
+EMP1718,44,10,7,31,Rare,No,NULL,Not Applicable
+EMP1719,46,7,3,25,No Travel,No,NULL,Not Applicable
+EMP1720,57,14,3,69,Rare,No,NULL,Not Applicable
+EMP1721,39,5,6,36,No Travel,No,NULL,Not Applicable
+EMP1722,43,11,2,69,No Travel,Yes,2025-12-12,Personal Reasons
+EMP1723,68,8,5,0,Rare,No,NULL,Not Applicable
+EMP1724,46,6,9,44,No Travel,No,NULL,Not Applicable
+EMP1725,62,7,5,56,No Travel,Yes,2025-11-21,Better Opportunity
+EMP1726,64,5,3,56,No Travel,No,NULL,Not Applicable
+EMP1727,32,7,9,30,Rare,No,NULL,Not Applicable
+EMP1728,52,7,7,14,No Travel,No,NULL,Not Applicable
+EMP1729,34,7,8,80,Rare,No,NULL,Not Applicable
+EMP1730,56,4,15,12,Rare,No,NULL,Not Applicable
+EMP1731,46,2,9,34,No Travel,No,NULL,Not Applicable
+EMP1732,24,7,4,54,No Travel,No,NULL,Not Applicable
+EMP1733,56,8,9,50,Rare,No,NULL,Not Applicable
+EMP1734,66,8,6,57,Frequent,Yes,2025-10-27,Work-Life Balance
+EMP1735,27,7,3,13,No Travel,No,NULL,Not Applicable
+EMP1736,36,4,3,22,Frequent,No,NULL,Not Applicable
+EMP1737,38,6,4,4,Rare,No,NULL,Not Applicable
+EMP1738,52,3,4,44,No Travel,No,NULL,Not Applicable
+EMP1739,50,4,5,56,No Travel,No,NULL,Not Applicable
+EMP1740,45,6,9,47,No Travel,No,NULL,Not Applicable
+EMP1741,48,10,4,63,No Travel,No,NULL,Not Applicable
+EMP1742,43,8,11,58,No Travel,No,NULL,Not Applicable
+EMP1743,39,5,8,47,No Travel,No,NULL,Not Applicable
+EMP1744,58,8,5,20,No Travel,No,NULL,Not Applicable
+EMP1745,58,9,8,41,Rare,Yes,2025-10-13,Personal Reasons
+EMP1746,61,5,3,18,No Travel,Yes,2025-08-26,Work-Life Balance
+EMP1747,45,10,2,0,No Travel,No,NULL,Not Applicable
+EMP1748,47,8,9,96,Frequent,Yes,2021-10-24,Work-Life Balance
+EMP1749,27,7,6,43,No Travel,No,NULL,Not Applicable
+EMP1750,58,11,2,37,Frequent,No,NULL,Not Applicable
+EMP1751,52,6,8,48,Rare,No,NULL,Not Applicable
+EMP1752,42,13,5,68,No Travel,No,NULL,Not Applicable
+EMP1753,35,5,5,69,Rare,No,NULL,Not Applicable
+EMP1754,33,9,2,95,Rare,No,NULL,Not Applicable
+EMP1755,32,11,4,36,Rare,No,NULL,Not Applicable
+EMP1756,44,6,5,29,Frequent,No,NULL,Not Applicable
+EMP1757,49,4,9,55,Frequent,No,NULL,Not Applicable
+EMP1758,4,10,7,10,No Travel,No,NULL,Not Applicable
+EMP1759,61,5,1,0,No Travel,Yes,2025-12-22,Job Dissatisfaction
+EMP1760,28,5,8,25,Frequent,No,NULL,Not Applicable
+EMP1761,44,3,6,37,Rare,No,NULL,Not Applicable
+EMP1762,44,4,6,64,No Travel,Yes,2023-08-30,Work-Life Balance
+EMP1763,18,1,10,29,Frequent,No,NULL,Not Applicable
+EMP1764,51,5,9,78,No Travel,No,NULL,Not Applicable
+EMP1765,38,7,4,40,No Travel,No,NULL,Not Applicable
+EMP1766,51,5,3,56,Rare,No,NULL,Not Applicable
+EMP1767,46,5,6,36,No Travel,No,NULL,Not Applicable
+EMP1768,45,8,2,55,No Travel,No,NULL,Not Applicable
+EMP1769,57,6,10,40,No Travel,No,NULL,Not Applicable
+EMP1770,40,11,0,37,No Travel,No,NULL,Not Applicable
+EMP1771,45,7,6,38,Rare,No,NULL,Not Applicable
+EMP1772,58,2,4,37,No Travel,No,NULL,Not Applicable
+EMP1773,55,8,6,47,No Travel,No,NULL,Not Applicable
+EMP1774,42,13,8,22,No Travel,Yes,2025-07-03,Personal Reasons
+EMP1775,59,10,5,59,Rare,No,NULL,Not Applicable
+EMP1776,53,6,4,82,No Travel,Yes,2025-12-26,Compensation
+EMP1777,53,2,3,0,No Travel,No,NULL,Not Applicable
+EMP1778,58,7,8,21,Rare,Yes,2025-08-23,Personal Reasons
+EMP1779,54,6,4,21,Frequent,Yes,2025-10-03,Work-Life Balance
+EMP1780,32,8,5,30,Rare,No,NULL,Not Applicable
+EMP1781,63,12,10,72,No Travel,No,NULL,Not Applicable
+EMP1782,10,6,4,34,Frequent,No,NULL,Not Applicable
+EMP1783,32,4,4,85,Frequent,No,NULL,Not Applicable
+EMP1784,42,5,9,36,No Travel,Yes,2022-11-19,Better Opportunity
+EMP1785,10,7,3,98,Frequent,No,NULL,Not Applicable
+EMP1786,24,6,5,15,Frequent,No,NULL,Not Applicable
+EMP1787,63,6,3,2,Rare,No,NULL,Not Applicable
+EMP1788,38,5,4,16,Rare,No,NULL,Not Applicable
+EMP1789,65,8,5,18,Rare,No,NULL,Not Applicable
+EMP1790,34,9,6,81,Rare,No,NULL,Not Applicable
+EMP1791,44,10,4,16,Rare,No,NULL,Not Applicable
+EMP1792,62,4,6,62,Rare,No,NULL,Not Applicable
+EMP1793,66,8,7,64,Frequent,No,NULL,Not Applicable
+EMP1794,14,9,14,13,Frequent,Yes,2013-09-03,Retirement
+EMP1795,43,3,1,9,No Travel,No,NULL,Not Applicable
+EMP1796,49,9,3,10,Frequent,No,NULL,Not Applicable
+EMP1797,58,10,6,96,Rare,No,NULL,Not Applicable
+EMP1798,41,11,6,35,Frequent,Yes,2025-10-14,Career Growth
+EMP1799,23,6,4,36,Rare,No,NULL,Not Applicable
+EMP1800,37,6,3,71,No Travel,No,NULL,Not Applicable
+EMP1801,54,7,7,26,No Travel,No,NULL,Not Applicable
+EMP1802,59,11,8,40,No Travel,No,NULL,Not Applicable
+EMP1803,55,4,2,72,Rare,Yes,2025-06-04,Personal Reasons
+EMP1804,54,4,5,29,No Travel,No,NULL,Not Applicable
+EMP1805,29,4,6,14,No Travel,No,NULL,Not Applicable
+EMP1806,49,11,7,4,Rare,Yes,2020-12-19,Job Dissatisfaction
+EMP1807,47,7,3,77,No Travel,No,NULL,Not Applicable
+EMP1808,48,1,5,50,Frequent,No,NULL,Not Applicable
+EMP1809,49,6,5,14,Frequent,Yes,2025-12-26,Work-Life Balance
+EMP1810,40,6,2,80,Frequent,No,NULL,Not Applicable
+EMP1811,41,3,3,73,No Travel,No,NULL,Not Applicable
+EMP1812,42,8,1,69,Frequent,No,NULL,Not Applicable
+EMP1813,41,9,7,5,No Travel,No,NULL,Not Applicable
+EMP1814,31,5,8,47,Frequent,No,NULL,Not Applicable
+EMP1815,46,2,2,25,Rare,No,NULL,Not Applicable
+EMP1816,43,7,6,26,Rare,No,NULL,Not Applicable
+EMP1817,62,8,9,45,No Travel,Yes,2025-10-04,Work-Life Balance
+EMP1818,47,8,4,27,Frequent,No,NULL,Not Applicable
+EMP1819,41,8,5,52,No Travel,No,NULL,Not Applicable
+EMP1820,37,7,3,24,Rare,No,NULL,Not Applicable
+EMP1821,27,7,5,0,No Travel,No,NULL,Not Applicable
+EMP1822,49,8,5,49,Rare,No,NULL,Not Applicable
+EMP1823,32,8,4,64,Rare,No,NULL,Not Applicable
+EMP1824,36,4,2,65,No Travel,No,NULL,Not Applicable
+EMP1825,42,5,9,0,No Travel,No,NULL,Not Applicable
+EMP1826,38,8,9,34,No Travel,No,NULL,Not Applicable
+EMP1827,61,9,7,43,No Travel,Yes,2025-05-19,Work-Life Balance
+EMP1828,35,4,6,77,No Travel,No,NULL,Not Applicable
+EMP1829,30,0,4,12,No Travel,No,NULL,Not Applicable
+EMP1830,25,1,2,47,Frequent,No,NULL,Not Applicable
+EMP1831,54,9,7,62,Frequent,No,NULL,Not Applicable
+EMP1832,60,6,4,61,No Travel,Yes,2025-12-04,Work-Life Balance
+EMP1833,41,10,6,21,Frequent,No,NULL,Not Applicable
+EMP1834,35,5,4,53,No Travel,No,NULL,Not Applicable
+EMP1835,45,4,3,53,No Travel,No,NULL,Not Applicable
+EMP1836,26,5,7,69,Rare,No,NULL,Not Applicable
+EMP1837,37,6,2,35,Rare,No,NULL,Not Applicable
+EMP1838,59,8,7,20,Rare,No,NULL,Not Applicable
+EMP1839,53,2,7,51,No Travel,No,NULL,Not Applicable
+EMP1840,59,2,3,0,Rare,No,NULL,Not Applicable
+EMP1841,25,8,6,58,No Travel,No,NULL,Not Applicable
+EMP1842,40,5,5,51,No Travel,No,NULL,Not Applicable
+EMP1843,50,5,4,26,Rare,Yes,2025-12-11,Personal Reasons
+EMP1844,40,4,11,11,Rare,Yes,2025-12-16,Better Opportunity
+EMP1845,47,6,11,33,No Travel,No,NULL,Not Applicable
+EMP1846,51,11,5,36,No Travel,No,NULL,Not Applicable
+EMP1847,54,8,4,33,Frequent,Yes,2025-07-24,Better Opportunity
+EMP1848,36,9,2,36,No Travel,No,NULL,Not Applicable
+EMP1849,55,4,10,66,Rare,No,NULL,Not Applicable
+EMP1850,29,7,13,19,No Travel,No,NULL,Not Applicable
+EMP1851,51,9,2,87,No Travel,No,NULL,Not Applicable
+EMP1852,39,7,3,15,No Travel,Yes,2023-11-01,Health/Family Reasons
+EMP1853,34,3,5,85,No Travel,No,NULL,Not Applicable
+EMP1854,51,7,6,0,Rare,No,NULL,Not Applicable
+EMP1855,57,9,2,25,Rare,No,NULL,Not Applicable
+EMP1856,37,7,8,58,Frequent,Yes,2018-10-19,Work-Life Balance
+EMP1857,49,8,8,69,Rare,No,NULL,Not Applicable
+EMP1858,45,11,6,33,Rare,No,NULL,Not Applicable
+EMP1859,61,4,1,57,No Travel,Yes,2025-12-16,Job Dissatisfaction
+EMP1860,54,9,2,63,Frequent,No,NULL,Not Applicable
+EMP1861,38,8,3,51,No Travel,No,NULL,Not Applicable
+EMP1862,23,4,5,3,Frequent,No,NULL,Not Applicable
+EMP1863,64,3,8,14,No Travel,Yes,2025-11-26,Work-Life Balance
+EMP1864,41,9,6,66,Rare,No,NULL,Not Applicable
+EMP1865,31,5,3,46,Rare,No,NULL,Not Applicable
+EMP1866,55,11,5,23,No Travel,Yes,2025-11-28,Health/Family Reasons
+EMP1867,63,1,11,0,No Travel,No,NULL,Not Applicable
+EMP1868,44,9,6,58,No Travel,No,NULL,Not Applicable
+EMP1869,45,6,8,43,Rare,No,NULL,Not Applicable
+EMP1870,52,7,3,0,No Travel,No,NULL,Not Applicable
+EMP1871,39,7,3,12,Frequent,No,NULL,Not Applicable
+EMP1872,67,9,9,90,Rare,Yes,2025-10-07,Work-Life Balance
+EMP1873,43,8,9,28,No Travel,Yes,2016-10-04,Career Growth
+EMP1874,54,5,3,25,Rare,No,NULL,Not Applicable
+EMP1875,54,8,3,0,No Travel,No,NULL,Not Applicable
+EMP1876,42,8,7,35,No Travel,No,NULL,Not Applicable
+EMP1877,58,5,3,18,Frequent,Yes,2023-10-13,Work-Life Balance
+EMP1878,27,9,4,55,Rare,Yes,2024-01-14,Job Dissatisfaction
+EMP1879,46,4,3,40,Rare,No,NULL,Not Applicable
+EMP1880,52,11,9,104,No Travel,No,NULL,Not Applicable
+EMP1881,68,5,7,18,No Travel,No,NULL,Not Applicable
+EMP1882,40,10,7,19,Rare,No,NULL,Not Applicable
+EMP1883,41,5,8,36,Rare,No,NULL,Not Applicable
+EMP1884,48,5,4,16,No Travel,No,NULL,Not Applicable
+EMP1885,33,4,8,44,Frequent,Yes,2024-04-15,Compensation
+EMP1886,25,13,5,29,No Travel,Yes,2024-11-25,Work-Life Balance
+EMP1887,65,6,12,54,Rare,Yes,2025-12-23,Relocation
+EMP1888,33,5,5,53,No Travel,No,NULL,Not Applicable
+EMP1889,41,5,4,11,Rare,No,NULL,Not Applicable
+EMP1890,7,6,3,61,Rare,No,NULL,Not Applicable
+EMP1891,62,6,5,58,No Travel,No,NULL,Not Applicable
+EMP1892,57,6,2,0,Frequent,Yes,2025-06-11,Personal Reasons
+EMP1893,59,11,5,68,Rare,No,NULL,Not Applicable
+EMP1894,58,6,6,63,Frequent,No,NULL,Not Applicable
+EMP1895,35,9,11,28,Frequent,No,NULL,Not Applicable
+EMP1896,51,9,4,49,Rare,No,NULL,Not Applicable
+EMP1897,46,2,9,11,Rare,No,NULL,Not Applicable
+EMP1898,43,7,5,86,Rare,Yes,2023-08-16,Personal Reasons
+EMP1899,28,7,8,24,Frequent,No,NULL,Not Applicable
+EMP1900,32,3,7,55,Frequent,No,NULL,Not Applicable
+EMP1901,37,4,6,27,No Travel,No,NULL,Not Applicable
+EMP1902,57,7,6,77,No Travel,Yes,2025-12-15,Work-Life Balance
+EMP1903,37,11,5,61,No Travel,Yes,2025-11-30,Health/Family Reasons
+EMP1904,20,5,9,68,Frequent,No,NULL,Not Applicable
+EMP1905,36,10,12,48,Rare,No,NULL,Not Applicable
+EMP1906,36,5,6,59,No Travel,No,NULL,Not Applicable
+EMP1907,20,8,4,48,Frequent,No,NULL,Not Applicable
+EMP1908,55,7,7,77,No Travel,No,NULL,Not Applicable
+EMP1909,34,5,11,23,No Travel,Yes,2021-12-01,Relocation
+EMP1910,46,4,11,53,Rare,No,NULL,Not Applicable
+EMP1911,51,6,5,49,Rare,Yes,2025-02-12,Job Dissatisfaction
+EMP1912,45,2,5,60,Rare,No,NULL,Not Applicable
+EMP1913,39,8,5,0,No Travel,No,NULL,Not Applicable
+EMP1914,23,2,1,68,Rare,No,NULL,Not Applicable
+EMP1915,50,6,7,44,No Travel,Yes,2025-01-03,Job Dissatisfaction
+EMP1916,29,6,4,80,No Travel,No,NULL,Not Applicable
+EMP1917,32,4,9,0,Rare,Yes,2025-02-20,Career Growth
+EMP1918,29,3,5,43,No Travel,No,NULL,Not Applicable
+EMP1919,30,5,9,27,Rare,No,NULL,Not Applicable
+EMP1920,42,3,3,13,Rare,Yes,2023-05-03,Better Opportunity
+EMP1921,49,4,6,57,No Travel,No,NULL,Not Applicable
+EMP1922,53,7,6,0,Frequent,No,NULL,Not Applicable
+EMP1923,61,7,10,0,No Travel,No,NULL,Not Applicable
+EMP1924,24,8,2,11,No Travel,Yes,2018-12-18,Better Opportunity
+EMP1925,44,6,5,98,No Travel,No,NULL,Not Applicable
+EMP1926,50,2,8,58,No Travel,Yes,2024-11-07,Work-Life Balance
+EMP1927,56,7,10,38,Frequent,No,NULL,Not Applicable
+EMP1928,38,5,7,9,No Travel,No,NULL,Not Applicable
+EMP1929,45,6,8,14,Rare,Yes,2025-06-01,Better Opportunity
+EMP1930,51,6,4,44,Frequent,No,NULL,Not Applicable
+EMP1931,31,9,4,41,No Travel,No,NULL,Not Applicable
+EMP1932,43,7,3,22,Rare,No,NULL,Not Applicable
+EMP1933,37,8,8,42,Rare,No,NULL,Not Applicable
+EMP1934,53,7,7,31,No Travel,Yes,2025-06-17,Job Dissatisfaction
+EMP1935,41,9,3,45,Rare,No,NULL,Not Applicable
+EMP1936,42,3,5,68,Rare,Yes,2025-09-01,Work-Life Balance
+EMP1937,52,5,5,13,Frequent,No,NULL,Not Applicable
+EMP1938,32,10,11,51,Frequent,No,NULL,Not Applicable
+EMP1939,43,6,2,63,No Travel,No,NULL,Not Applicable
+EMP1940,65,3,2,48,No Travel,No,NULL,Not Applicable
+EMP1941,26,6,12,27,Frequent,No,NULL,Not Applicable
+EMP1942,55,5,7,60,Rare,No,NULL,Not Applicable
+EMP1943,45,6,2,49,Rare,No,NULL,Not Applicable
+EMP1944,11,11,6,40,No Travel,No,NULL,Not Applicable
+EMP1945,45,5,2,8,Frequent,No,NULL,Not Applicable
+EMP1946,40,8,6,26,Rare,No,NULL,Not Applicable
+EMP1947,41,5,6,74,Rare,No,NULL,Not Applicable
+EMP1948,32,7,4,4,Rare,No,NULL,Not Applicable
+EMP1949,40,1,5,83,No Travel,No,NULL,Not Applicable
+EMP1950,42,10,4,26,Rare,No,NULL,Not Applicable
+EMP1951,71,8,5,7,No Travel,No,NULL,Not Applicable
+EMP1952,38,6,4,50,Rare,No,NULL,Not Applicable
+EMP1953,56,7,6,57,No Travel,No,NULL,Not Applicable
+EMP1954,8,6,8,53,Rare,No,NULL,Not Applicable
+EMP1955,49,2,6,5,Frequent,Yes,2025-12-21,Job Dissatisfaction
+EMP1956,49,6,6,31,Rare,No,NULL,Not Applicable
+EMP1957,24,7,2,63,Frequent,No,NULL,Not Applicable
+EMP1958,65,7,7,40,No Travel,Yes,2025-03-20,Work-Life Balance
+EMP1959,47,10,5,22,No Travel,Yes,2023-07-12,Manager Relationship
+EMP1960,29,8,3,30,Rare,No,NULL,Not Applicable
+EMP1961,55,6,1,34,Frequent,No,NULL,Not Applicable
+EMP1962,39,10,6,47,No Travel,Yes,2025-09-18,Work-Life Balance
+EMP1963,41,5,6,103,No Travel,No,NULL,Not Applicable
+EMP1964,65,4,4,43,Frequent,No,NULL,Not Applicable
+EMP1965,51,5,7,15,No Travel,Yes,2025-12-31,Work-Life Balance
+EMP1966,44,13,2,68,No Travel,Yes,2025-11-21,Work-Life Balance
+EMP1967,48,7,6,21,Rare,No,NULL,Not Applicable
+EMP1968,61,5,7,19,No Travel,No,NULL,Not Applicable
+EMP1969,66,9,14,17,Frequent,No,NULL,Not Applicable
+EMP1970,39,6,6,64,No Travel,No,NULL,Not Applicable
+EMP1971,45,2,6,65,Frequent,Yes,2025-06-20,Health/Family Reasons
+EMP1972,46,6,8,49,No Travel,No,NULL,Not Applicable
+EMP1973,53,9,4,9,No Travel,No,NULL,Not Applicable
+EMP1974,15,7,4,48,Rare,No,NULL,Not Applicable
+EMP1975,50,7,9,65,No Travel,No,NULL,Not Applicable
+EMP1976,48,10,4,48,No Travel,No,NULL,Not Applicable
+EMP1977,58,13,3,44,Frequent,No,NULL,Not Applicable
+EMP1978,59,6,9,3,Rare,No,NULL,Not Applicable
+EMP1979,41,7,5,27,No Travel,No,NULL,Not Applicable
+EMP1980,14,5,6,58,No Travel,No,NULL,Not Applicable
+EMP1981,36,7,6,20,No Travel,No,NULL,Not Applicable
+EMP1982,68,6,5,47,Frequent,Yes,2025-12-07,Job Dissatisfaction
+EMP1983,54,10,5,0,Rare,No,NULL,Not Applicable
+EMP1984,40,12,7,76,No Travel,No,NULL,Not Applicable
+EMP1985,75,5,5,46,Rare,Yes,2025-05-19,Relocation
+EMP1986,49,8,4,0,No Travel,Yes,2024-08-21,Job Dissatisfaction
+EMP1987,45,7,3,29,Rare,No,NULL,Not Applicable
+EMP1988,43,5,8,55,No Travel,No,NULL,Not Applicable
+EMP1989,29,11,4,20,No Travel,No,NULL,Not Applicable
+EMP1990,52,7,3,0,No Travel,No,NULL,Not Applicable
+EMP1991,46,5,6,42,Rare,No,NULL,Not Applicable
+EMP1992,26,4,1,0,Frequent,No,NULL,Not Applicable
+EMP1993,31,1,6,20,No Travel,No,NULL,Not Applicable
+EMP1994,42,11,3,53,Rare,No,NULL,Not Applicable
+EMP1995,45,7,4,10,Frequent,No,NULL,Not Applicable
+EMP1996,52,7,9,18,No Travel,No,NULL,Not Applicable
+EMP1997,45,6,9,55,No Travel,No,NULL,Not Applicable
+EMP1998,46,5,3,9,No Travel,No,NULL,Not Applicable
+EMP1999,51,7,6,29,Rare,No,NULL,Not Applicable
+EMP2000,52,7,5,109,No Travel,Yes,2025-10-08,Career Growth
+EMP2001,46,9,6,79,No Travel,Yes,2025-12-23,Manager Relationship
+EMP2002,32,7,7,69,Rare,No,NULL,Not Applicable
+EMP2003,40,9,7,0,Rare,No,NULL,Not Applicable
+EMP2004,46,16,6,44,No Travel,No,NULL,Not Applicable
+EMP2005,53,8,6,61,No Travel,No,NULL,Not Applicable
+EMP2006,49,4,2,0,No Travel,No,NULL,Not Applicable
+EMP2007,33,7,4,84,No Travel,No,NULL,Not Applicable
+EMP2008,35,12,5,43,Rare,No,NULL,Not Applicable
+EMP2009,27,3,4,72,Rare,No,NULL,Not Applicable
+EMP2010,34,6,5,2,No Travel,No,NULL,Not Applicable
+EMP2011,59,7,11,45,Rare,No,NULL,Not Applicable
+EMP2012,51,8,9,75,Frequent,No,NULL,Not Applicable
+EMP2013,59,6,8,73,Rare,No,NULL,Not Applicable
+EMP2014,51,9,13,34,Frequent,Yes,2022-11-07,Manager Relationship
+EMP2015,60,12,7,8,Rare,Yes,2024-05-20,Work-Life Balance
+EMP2016,44,11,2,11,Rare,No,NULL,Not Applicable
+EMP2017,34,6,8,78,Rare,No,NULL,Not Applicable
+EMP2018,56,5,9,60,No Travel,Yes,2025-05-11,Work-Life Balance
+EMP2019,52,7,13,3,Rare,No,NULL,Not Applicable
+EMP2020,56,8,8,1,Frequent,No,NULL,Not Applicable
+EMP2021,29,6,6,36,Rare,Yes,2025-10-07,Work-Life Balance
+EMP2022,31,6,6,32,No Travel,No,NULL,Not Applicable
+EMP2023,26,4,5,47,Frequent,No,NULL,Not Applicable
+EMP2024,42,6,9,84,No Travel,No,NULL,Not Applicable
+EMP2025,50,8,7,62,Rare,Yes,2024-05-01,Manager Relationship
+EMP2026,41,7,9,42,Frequent,No,NULL,Not Applicable
+EMP2027,46,3,5,0,Frequent,No,NULL,Not Applicable
+EMP2028,47,8,9,48,Rare,No,NULL,Not Applicable
+EMP2029,48,6,7,45,Rare,No,NULL,Not Applicable
+EMP2030,48,6,3,36,Frequent,No,NULL,Not Applicable
+EMP2031,60,6,7,53,Rare,No,NULL,Not Applicable
+EMP2032,22,8,2,62,Frequent,No,NULL,Not Applicable
+EMP2033,58,8,9,30,Rare,No,NULL,Not Applicable
+EMP2034,55,3,6,17,Frequent,No,NULL,Not Applicable
+EMP2035,35,9,4,64,Rare,No,NULL,Not Applicable
+EMP2036,53,10,3,71,Rare,No,NULL,Not Applicable
+EMP2037,28,7,13,12,Rare,Yes,2023-11-24,Work-Life Balance
+EMP2038,65,8,8,42,Rare,Yes,2025-12-25,Work-Life Balance
+EMP2039,21,8,4,17,Rare,No,NULL,Not Applicable
+EMP2040,42,8,12,0,No Travel,No,NULL,Not Applicable
+EMP2041,46,7,8,6,Frequent,No,NULL,Not Applicable
+EMP2042,51,3,2,29,Rare,No,NULL,Not Applicable
+EMP2043,64,11,8,36,Rare,Yes,2025-04-05,Job Dissatisfaction
+EMP2044,41,10,2,10,No Travel,No,NULL,Not Applicable
+EMP2045,53,6,6,22,Rare,Yes,2025-10-16,Job Dissatisfaction
+EMP2046,5,4,8,85,Frequent,No,NULL,Not Applicable
+EMP2047,70,8,5,37,Rare,No,NULL,Not Applicable
+EMP2048,42,5,8,60,No Travel,No,NULL,Not Applicable
+EMP2049,56,4,4,62,Frequent,No,NULL,Not Applicable
+EMP2050,4,8,6,38,Rare,No,NULL,Not Applicable
+EMP2051,67,11,5,38,No Travel,No,NULL,Not Applicable
+EMP2052,42,7,6,39,Rare,No,NULL,Not Applicable
+EMP2053,40,7,7,11,Rare,No,NULL,Not Applicable
+EMP2054,67,3,8,29,Frequent,No,NULL,Not Applicable
+EMP2055,29,9,5,28,No Travel,No,NULL,Not Applicable
+EMP2056,46,10,4,69,Frequent,No,NULL,Not Applicable
+EMP2057,43,7,5,44,No Travel,No,NULL,Not Applicable
+EMP2058,57,7,7,73,Frequent,No,NULL,Not Applicable
+EMP2059,35,6,9,57,Frequent,No,NULL,Not Applicable
+EMP2060,51,7,9,50,Rare,No,NULL,Not Applicable
+EMP2061,67,11,7,10,No Travel,Yes,2025-05-19,Work-Life Balance
+EMP2062,51,7,4,68,No Travel,No,NULL,Not Applicable
+EMP2063,73,5,8,61,Frequent,No,NULL,Not Applicable
+EMP2064,62,8,7,70,Rare,Yes,2025-08-18,Better Opportunity
+EMP2065,24,12,1,51,No Travel,Yes,2023-10-31,Work-Life Balance
+EMP2066,42,9,2,4,Frequent,No,NULL,Not Applicable
+EMP2067,42,6,1,66,Rare,Yes,2025-07-16,Work-Life Balance
+EMP2068,27,5,5,39,No Travel,No,NULL,Not Applicable
+EMP2069,44,4,10,58,Rare,No,NULL,Not Applicable
+EMP2070,41,13,2,83,No Travel,Yes,2023-06-06,Personal Reasons
+EMP2071,53,5,4,16,Frequent,Yes,2025-11-17,Career Growth
+EMP2072,40,5,8,11,Frequent,No,NULL,Not Applicable
+EMP2073,50,6,4,35,Rare,Yes,2024-09-14,Job Dissatisfaction
+EMP2074,44,8,5,61,Rare,No,NULL,Not Applicable
+EMP2075,6,6,1,55,No Travel,No,NULL,Not Applicable
+EMP2076,50,5,8,81,Rare,No,NULL,Not Applicable
+EMP2077,44,3,5,49,Rare,Yes,2024-05-05,Work-Life Balance
+EMP2078,52,6,8,58,No Travel,No,NULL,Not Applicable
+EMP2079,45,5,9,20,Frequent,No,NULL,Not Applicable
+EMP2080,34,5,5,101,No Travel,No,NULL,Not Applicable
+EMP2081,63,5,6,15,Frequent,Yes,2025-12-04,Career Growth
+EMP2082,43,7,6,52,Rare,No,NULL,Not Applicable
+EMP2083,56,4,6,7,Rare,No,NULL,Not Applicable
+EMP2084,41,4,5,104,No Travel,No,NULL,Not Applicable
+EMP2085,25,10,5,24,Frequent,No,NULL,Not Applicable
+EMP2086,58,6,6,51,Frequent,No,NULL,Not Applicable
+EMP2087,26,6,3,25,Frequent,No,NULL,Not Applicable
+EMP2088,43,8,5,25,Frequent,No,NULL,Not Applicable
+EMP2089,25,6,5,0,Rare,No,NULL,Not Applicable
+EMP2090,53,6,10,10,Rare,No,NULL,Not Applicable
+EMP2091,51,8,3,27,Rare,Yes,2023-03-21,Work-Life Balance
+EMP2092,40,5,3,0,No Travel,No,NULL,Not Applicable
+EMP2093,47,5,9,51,No Travel,No,NULL,Not Applicable
+EMP2094,37,7,3,78,No Travel,No,NULL,Not Applicable
+EMP2095,17,8,8,1,Rare,Yes,2019-07-23,Retirement
+EMP2096,52,5,4,45,Rare,No,NULL,Not Applicable
+EMP2097,32,7,7,71,No Travel,No,NULL,Not Applicable
+EMP2098,32,9,7,44,No Travel,No,NULL,Not Applicable
+EMP2099,35,6,4,37,Frequent,No,NULL,Not Applicable
+EMP2100,21,10,4,49,Frequent,No,NULL,Not Applicable
+EMP2101,39,8,11,7,No Travel,No,NULL,Not Applicable
+EMP2102,44,3,4,88,Frequent,No,NULL,Not Applicable
+EMP2103,49,1,1,44,No Travel,No,NULL,Not Applicable
+EMP2104,52,6,7,36,No Travel,No,NULL,Not Applicable
+EMP2105,37,5,4,30,Frequent,No,NULL,Not Applicable
+EMP2106,41,7,7,5,Rare,No,NULL,Not Applicable
+EMP2107,75,8,7,41,Rare,No,NULL,Not Applicable
+EMP2108,54,8,3,66,Rare,No,NULL,Not Applicable
+EMP2109,43,6,2,39,Frequent,No,NULL,Not Applicable
+EMP2110,33,5,7,44,No Travel,No,NULL,Not Applicable
+EMP2111,57,5,6,74,No Travel,Yes,2025-12-29,Job Dissatisfaction
+EMP2112,29,4,5,81,Frequent,Yes,2024-07-31,Personal Reasons
+EMP2113,28,5,5,78,No Travel,No,NULL,Not Applicable
+EMP2114,27,4,4,24,Frequent,No,NULL,Not Applicable
+EMP2115,53,4,4,48,No Travel,No,NULL,Not Applicable
+EMP2116,18,7,7,21,No Travel,No,NULL,Not Applicable
+EMP2117,52,6,6,66,No Travel,Yes,2023-10-23,Work-Life Balance
+EMP2118,22,9,5,70,No Travel,No,NULL,Not Applicable
+EMP2119,56,2,5,58,Rare,No,NULL,Not Applicable
+EMP2120,35,10,6,74,No Travel,No,NULL,Not Applicable
+EMP2121,45,12,6,48,No Travel,No,NULL,Not Applicable
+EMP2122,52,7,1,57,No Travel,No,NULL,Not Applicable
+EMP2123,38,3,7,82,Rare,No,NULL,Not Applicable
+EMP2124,44,10,4,33,No Travel,Yes,2022-07-31,Work-Life Balance
+EMP2125,43,5,13,36,Rare,No,NULL,Not Applicable
+EMP2126,54,9,8,36,Rare,Yes,2024-10-04,Manager Relationship
+EMP2127,53,7,4,41,Frequent,Yes,2024-05-24,Job Dissatisfaction
+EMP2128,62,5,0,22,Rare,No,NULL,Not Applicable
+EMP2129,15,2,5,89,Rare,No,NULL,Not Applicable
+EMP2130,14,3,3,84,Frequent,No,NULL,Not Applicable
+EMP2131,45,4,6,86,Rare,Yes,2025-12-16,Work-Life Balance
+EMP2132,71,6,8,32,Frequent,Yes,2025-12-24,Job Dissatisfaction
+EMP2133,51,8,5,39,No Travel,No,NULL,Not Applicable
+EMP2134,43,6,9,10,No Travel,No,NULL,Not Applicable
+EMP2135,26,6,3,89,No Travel,No,NULL,Not Applicable
+EMP2136,46,5,3,24,Rare,No,NULL,Not Applicable
+EMP2137,53,3,7,10,Rare,No,NULL,Not Applicable
+EMP2138,72,3,7,31,No Travel,Yes,2025-11-25,Personal Reasons
+EMP2139,50,6,3,0,Rare,No,NULL,Not Applicable
+EMP2140,20,3,8,39,Rare,No,NULL,Not Applicable
+EMP2141,54,7,5,0,No Travel,No,NULL,Not Applicable
+EMP2142,55,4,2,52,Frequent,No,NULL,Not Applicable
+EMP2143,60,7,4,24,Rare,No,NULL,Not Applicable
+EMP2144,29,3,3,6,Rare,No,NULL,Not Applicable
+EMP2145,59,7,8,79,Frequent,No,NULL,Not Applicable
+EMP2146,32,7,2,0,Rare,No,NULL,Not Applicable
+EMP2147,30,9,1,105,Rare,No,NULL,Not Applicable
+EMP2148,49,3,4,6,Rare,Yes,2025-08-31,Career Growth
+EMP2149,22,2,8,29,Rare,No,NULL,Not Applicable
+EMP2150,56,5,4,47,No Travel,Yes,2024-08-14,Better Opportunity
+EMP2151,24,7,1,25,No Travel,No,NULL,Not Applicable
+EMP2152,38,5,6,92,Rare,Yes,2025-12-28,Better Opportunity
+EMP2153,40,6,7,27,No Travel,No,NULL,Not Applicable
+EMP2154,50,6,6,3,Rare,No,NULL,Not Applicable
+EMP2155,57,9,9,32,Rare,Yes,2025-10-20,Job Dissatisfaction
+EMP2156,52,8,4,27,Rare,No,NULL,Not Applicable
+EMP2157,59,4,6,67,No Travel,No,NULL,Not Applicable
+EMP2158,49,2,5,54,No Travel,Yes,2025-02-07,Better Opportunity
+EMP2159,58,9,6,35,Rare,No,NULL,Not Applicable
+EMP2160,38,6,2,51,No Travel,No,NULL,Not Applicable
+EMP2161,10,7,5,9,Frequent,No,NULL,Not Applicable
+EMP2162,19,5,2,64,Frequent,No,NULL,Not Applicable
+EMP2163,48,5,9,52,Frequent,No,NULL,Not Applicable
+EMP2164,41,8,6,60,Rare,No,NULL,Not Applicable
+EMP2165,43,9,9,0,No Travel,No,NULL,Not Applicable
+EMP2166,45,7,9,74,Rare,No,NULL,Not Applicable
+EMP2167,48,8,6,0,No Travel,No,NULL,Not Applicable
+EMP2168,43,7,7,40,Rare,No,NULL,Not Applicable
+EMP2169,49,10,3,36,Rare,No,NULL,Not Applicable
+EMP2170,55,9,6,72,Rare,No,NULL,Not Applicable
+EMP2171,34,7,3,36,Frequent,No,NULL,Not Applicable
+EMP2172,55,9,4,51,No Travel,Yes,2025-01-29,Job Dissatisfaction
+EMP2173,48,10,10,46,Frequent,No,NULL,Not Applicable
+EMP2174,61,4,9,54,Rare,No,NULL,Not Applicable
+EMP2175,61,8,5,55,Frequent,No,NULL,Not Applicable
+EMP2176,66,2,1,64,Rare,Yes,2025-12-02,Better Opportunity
+EMP2177,62,3,3,11,Frequent,No,NULL,Not Applicable
+EMP2178,42,11,2,37,Rare,No,NULL,Not Applicable
+EMP2179,39,4,4,32,Rare,No,NULL,Not Applicable
+EMP2180,51,8,4,41,No Travel,No,NULL,Not Applicable
+EMP2181,29,7,9,0,No Travel,Yes,2022-07-05,Job Dissatisfaction
+EMP2182,51,10,7,53,No Travel,Yes,2021-06-17,Work-Life Balance
+EMP2183,65,7,9,30,Frequent,No,NULL,Not Applicable
+EMP2184,35,5,3,51,Rare,No,NULL,Not Applicable
+EMP2185,52,9,4,57,No Travel,No,NULL,Not Applicable
+EMP2186,25,8,3,48,Rare,No,NULL,Not Applicable
+EMP2187,46,7,7,13,Rare,No,NULL,Not Applicable
+EMP2188,44,12,6,59,Frequent,Yes,2023-05-19,Relocation
+EMP2189,30,2,4,39,No Travel,Yes,2024-04-30,Better Opportunity
+EMP2190,50,11,7,3,No Travel,No,NULL,Not Applicable
+EMP2191,40,3,11,35,No Travel,No,NULL,Not Applicable
+EMP2192,37,6,4,32,No Travel,No,NULL,Not Applicable
+EMP2193,36,9,5,45,No Travel,No,NULL,Not Applicable
+EMP2194,44,13,4,40,Frequent,No,NULL,Not Applicable
+EMP2195,22,4,4,26,Frequent,No,NULL,Not Applicable
+EMP2196,7,7,2,28,Frequent,No,NULL,Not Applicable
+EMP2197,48,6,3,63,No Travel,No,NULL,Not Applicable
+EMP2198,38,5,6,63,No Travel,Yes,2025-08-27,Health/Family Reasons
+EMP2199,38,6,10,33,No Travel,Yes,2021-12-31,Relocation
+EMP2200,56,6,6,8,No Travel,No,NULL,Not Applicable
+EMP2201,60,12,9,60,No Travel,Yes,2025-11-23,Job Dissatisfaction
+EMP2202,59,5,7,23,No Travel,No,NULL,Not Applicable
+EMP2203,53,5,6,32,No Travel,No,NULL,Not Applicable
+EMP2204,36,6,2,32,No Travel,No,NULL,Not Applicable
+EMP2205,48,5,6,5,Frequent,Yes,2025-12-30,Better Opportunity
+EMP2206,58,4,4,3,Rare,No,NULL,Not Applicable
+EMP2207,63,8,5,8,No Travel,No,NULL,Not Applicable
+EMP2208,36,8,5,0,Frequent,No,NULL,Not Applicable
+EMP2209,51,4,6,55,Rare,No,NULL,Not Applicable
+EMP2210,50,11,9,47,Rare,Yes,2025-09-05,Personal Reasons
+EMP2211,44,8,6,2,Frequent,No,NULL,Not Applicable
+EMP2212,61,9,4,45,Frequent,No,NULL,Not Applicable
+EMP2213,6,4,5,18,Frequent,No,NULL,Not Applicable
+EMP2214,30,9,4,67,Rare,Yes,2023-07-15,Work-Life Balance
+EMP2215,52,7,3,0,No Travel,Yes,2025-12-06,Manager Relationship
+EMP2216,50,10,6,47,Rare,No,NULL,Not Applicable
+EMP2217,65,6,5,67,Frequent,No,NULL,Not Applicable
+EMP2218,63,12,2,10,No Travel,No,NULL,Not Applicable
+EMP2219,54,6,7,8,No Travel,No,NULL,Not Applicable
+EMP2220,62,4,8,26,Frequent,Yes,2025-10-06,Work-Life Balance
+EMP2221,62,10,6,36,Rare,No,NULL,Not Applicable
+EMP2222,29,11,5,0,Rare,No,NULL,Not Applicable
+EMP2223,64,9,8,21,Frequent,No,NULL,Not Applicable
+EMP2224,40,11,6,55,Rare,No,NULL,Not Applicable
+EMP2225,50,7,10,0,No Travel,No,NULL,Not Applicable
+EMP2226,48,8,10,65,Rare,No,NULL,Not Applicable
+EMP2227,66,5,4,35,No Travel,No,NULL,Not Applicable
+EMP2228,61,6,5,28,No Travel,No,NULL,Not Applicable
+EMP2229,62,11,3,57,No Travel,No,NULL,Not Applicable
+EMP2230,59,11,4,21,Rare,No,NULL,Not Applicable
+EMP2231,34,8,8,54,Rare,Yes,2025-01-30,Manager Relationship
+EMP2232,23,3,5,8,No Travel,No,NULL,Not Applicable
+EMP2233,39,7,7,41,Frequent,Yes,2025-04-26,Job Dissatisfaction
+EMP2234,48,4,3,27,Rare,No,NULL,Not Applicable
+EMP2235,29,12,4,13,Rare,No,NULL,Not Applicable
+EMP2236,36,3,4,0,No Travel,No,NULL,Not Applicable
+EMP2237,62,8,9,60,Rare,No,NULL,Not Applicable
+EMP2238,61,8,4,28,Frequent,Yes,2025-08-05,Work-Life Balance
+EMP2239,47,11,5,71,Rare,No,NULL,Not Applicable
+EMP2240,44,7,9,7,No Travel,No,NULL,Not Applicable
+EMP2241,57,9,9,17,Rare,No,NULL,Not Applicable
+EMP2242,50,12,1,16,No Travel,No,NULL,Not Applicable
+EMP2243,49,5,4,57,Frequent,No,NULL,Not Applicable
+EMP2244,43,2,5,69,Frequent,No,NULL,Not Applicable
+EMP2245,53,7,3,1,Frequent,No,NULL,Not Applicable
+EMP2246,37,6,6,80,No Travel,No,NULL,Not Applicable
+EMP2247,51,2,10,39,Rare,No,NULL,Not Applicable
+EMP2248,61,1,4,39,Frequent,No,NULL,Not Applicable
+EMP2249,53,7,10,44,No Travel,No,NULL,Not Applicable
+EMP2250,46,7,2,38,Rare,No,NULL,Not Applicable
+EMP2251,54,4,7,70,No Travel,No,NULL,Not Applicable
+EMP2252,61,6,4,13,No Travel,Yes,2025-12-29,Better Opportunity
+EMP2253,54,6,11,35,Frequent,Yes,2025-12-24,Job Dissatisfaction
+EMP2254,36,7,3,73,Rare,No,NULL,Not Applicable
+EMP2255,52,7,5,8,Rare,No,NULL,Not Applicable
+EMP2256,28,8,5,74,Frequent,No,NULL,Not Applicable
+EMP2257,51,9,5,48,Frequent,No,NULL,Not Applicable
+EMP2258,43,5,5,17,No Travel,No,NULL,Not Applicable
+EMP2259,46,2,6,45,No Travel,No,NULL,Not Applicable
+EMP2260,46,6,2,31,Rare,No,NULL,Not Applicable
+EMP2261,34,3,3,12,Rare,No,NULL,Not Applicable
+EMP2262,39,8,2,25,Rare,No,NULL,Not Applicable
+EMP2263,51,9,1,32,No Travel,No,NULL,Not Applicable
+EMP2264,24,5,3,55,Rare,No,NULL,Not Applicable
+EMP2265,53,10,1,6,Rare,No,NULL,Not Applicable
+EMP2266,65,12,6,71,Rare,Yes,2025-07-16,Job Dissatisfaction
+EMP2267,52,5,6,3,Rare,Yes,2025-12-08,Manager Relationship
+EMP2268,31,9,8,35,Frequent,No,NULL,Not Applicable
+EMP2269,30,5,4,5,Frequent,No,NULL,Not Applicable
+EMP2270,48,9,8,24,Frequent,No,NULL,Not Applicable
+EMP2271,11,9,7,25,No Travel,Yes,2020-04-26,Career Growth
+EMP2272,18,9,5,48,Frequent,No,NULL,Not Applicable
+EMP2273,25,2,2,40,No Travel,No,NULL,Not Applicable
+EMP2274,24,3,9,86,Frequent,No,NULL,Not Applicable
+EMP2275,43,5,8,29,Frequent,No,NULL,Not Applicable
+EMP2276,37,2,8,60,No Travel,No,NULL,Not Applicable
+EMP2277,42,8,4,89,No Travel,No,NULL,Not Applicable
+EMP2278,32,6,8,48,No Travel,No,NULL,Not Applicable
+EMP2279,60,9,6,7,No Travel,Yes,2025-11-21,Job Dissatisfaction
+EMP2280,31,2,5,41,Rare,No,NULL,Not Applicable
+EMP2281,11,7,4,35,Frequent,No,NULL,Not Applicable
+EMP2282,64,13,1,75,No Travel,No,NULL,Not Applicable
+EMP2283,8,7,3,39,Rare,No,NULL,Not Applicable
+EMP2284,41,5,5,23,No Travel,No,NULL,Not Applicable
+EMP2285,53,12,2,62,No Travel,No,NULL,Not Applicable
+EMP2286,55,4,6,52,No Travel,No,NULL,Not Applicable
+EMP2287,43,8,9,41,Rare,No,NULL,Not Applicable
+EMP2288,29,4,4,0,No Travel,No,NULL,Not Applicable
+EMP2289,42,13,6,33,Rare,No,NULL,Not Applicable
+EMP2290,39,1,6,37,Frequent,No,NULL,Not Applicable
+EMP2291,50,7,3,57,Rare,No,NULL,Not Applicable
+EMP2292,50,10,13,0,Rare,No,NULL,Not Applicable
+EMP2293,18,1,4,29,Rare,No,NULL,Not Applicable
+EMP2294,36,5,5,36,Rare,No,NULL,Not Applicable
+EMP2295,43,6,6,40,No Travel,No,NULL,Not Applicable
+EMP2296,45,4,6,85,Rare,No,NULL,Not Applicable
+EMP2297,3,8,4,8,Rare,No,NULL,Not Applicable
+EMP2298,66,11,3,72,No Travel,Yes,2025-02-05,Health/Family Reasons
+EMP2299,49,2,1,41,No Travel,Yes,2025-10-24,Job Dissatisfaction
+EMP2300,56,10,5,11,Rare,No,NULL,Not Applicable
+EMP2301,36,4,10,0,Rare,No,NULL,Not Applicable
+EMP2302,35,7,6,0,No Travel,No,NULL,Not Applicable
+EMP2303,35,6,1,25,Rare,Yes,2024-01-10,Health/Family Reasons
+EMP2304,61,6,7,86,No Travel,Yes,2025-12-14,Work-Life Balance
+EMP2305,54,9,5,40,Frequent,No,NULL,Not Applicable
+EMP2306,54,4,8,51,No Travel,No,NULL,Not Applicable
+EMP2307,6,4,3,30,Rare,No,NULL,Not Applicable
+EMP2308,66,10,4,0,Rare,No,NULL,Not Applicable
+EMP2309,54,5,5,32,No Travel,No,NULL,Not Applicable
+EMP2310,61,6,6,23,Rare,No,NULL,Not Applicable
+EMP2311,31,3,8,12,Frequent,No,NULL,Not Applicable
+EMP2312,60,8,11,60,No Travel,No,NULL,Not Applicable
+EMP2313,40,4,3,47,Rare,No,NULL,Not Applicable
+EMP2314,41,8,8,56,Rare,No,NULL,Not Applicable
+EMP2315,52,7,6,31,Frequent,No,NULL,Not Applicable
+EMP2316,39,3,3,74,Frequent,No,NULL,Not Applicable
+EMP2317,48,4,6,78,Rare,No,NULL,Not Applicable
+EMP2318,17,5,4,31,Rare,No,NULL,Not Applicable
+EMP2319,48,7,7,48,No Travel,No,NULL,Not Applicable
+EMP2320,60,6,6,58,Rare,No,NULL,Not Applicable
+EMP2321,51,6,4,73,No Travel,No,NULL,Not Applicable
+EMP2322,51,7,6,18,Frequent,No,NULL,Not Applicable
+EMP2323,21,9,6,51,Rare,No,NULL,Not Applicable
+EMP2324,59,7,2,59,No Travel,Yes,2025-10-26,Work-Life Balance
+EMP2325,49,10,8,56,Rare,No,NULL,Not Applicable
+EMP2326,73,10,4,41,No Travel,No,NULL,Not Applicable
+EMP2327,49,9,8,33,No Travel,No,NULL,Not Applicable
+EMP2328,22,7,4,71,No Travel,No,NULL,Not Applicable
+EMP2329,61,5,8,3,No Travel,No,NULL,Not Applicable
+EMP2330,55,3,6,46,Rare,No,NULL,Not Applicable
+EMP2331,36,10,3,0,No Travel,Yes,2019-12-25,Job Dissatisfaction
+EMP2332,40,9,5,37,Rare,No,NULL,Not Applicable
+EMP2333,49,6,2,61,Rare,No,NULL,Not Applicable
+EMP2334,54,4,7,74,No Travel,No,NULL,Not Applicable
+EMP2335,42,3,4,31,No Travel,No,NULL,Not Applicable
+EMP2336,42,10,9,7,Rare,No,NULL,Not Applicable
+EMP2337,25,7,6,0,Rare,Yes,2022-08-22,Manager Relationship
+EMP2338,32,6,8,65,Frequent,No,NULL,Not Applicable
+EMP2339,33,8,5,64,Frequent,No,NULL,Not Applicable
+EMP2340,54,12,3,76,No Travel,No,NULL,Not Applicable
+EMP2341,47,11,5,45,Rare,No,NULL,Not Applicable
+EMP2342,60,5,3,76,No Travel,No,NULL,Not Applicable
+EMP2343,25,1,6,31,Frequent,No,NULL,Not Applicable
+EMP2344,36,7,5,28,Frequent,No,NULL,Not Applicable
+EMP2345,56,6,1,0,Rare,No,NULL,Not Applicable
+EMP2346,57,7,11,23,No Travel,No,NULL,Not Applicable
+EMP2347,27,5,4,0,No Travel,Yes,2025-11-04,Relocation
+EMP2348,36,6,7,48,Frequent,Yes,2025-07-31,Job Dissatisfaction
+EMP2349,38,7,7,104,Rare,No,NULL,Not Applicable
+EMP2350,38,4,3,62,No Travel,Yes,2025-12-10,Job Dissatisfaction
+EMP2351,32,9,7,83,Frequent,No,NULL,Not Applicable
+EMP2352,33,4,7,23,Rare,Yes,2025-04-22,Personal Reasons
+EMP2353,33,7,7,47,No Travel,No,NULL,Not Applicable
+EMP2354,34,2,5,75,Frequent,No,NULL,Not Applicable
+EMP2355,24,4,7,12,No Travel,No,NULL,Not Applicable
+EMP2356,27,8,4,40,Frequent,No,NULL,Not Applicable
+EMP2357,41,4,11,73,No Travel,No,NULL,Not Applicable
+EMP2358,51,5,3,60,Rare,Yes,2021-04-05,Career Growth
+EMP2359,33,8,3,55,Rare,No,NULL,Not Applicable
+EMP2360,33,7,8,72,No Travel,No,NULL,Not Applicable
+EMP2361,36,7,5,41,Rare,No,NULL,Not Applicable
+EMP2362,53,7,6,81,No Travel,No,NULL,Not Applicable
+EMP2363,46,3,4,32,Frequent,No,NULL,Not Applicable
+EMP2364,27,6,8,45,Frequent,Yes,2020-11-13,Work-Life Balance
+EMP2365,33,6,4,46,Rare,No,NULL,Not Applicable
+EMP2366,6,6,3,35,Frequent,No,NULL,Not Applicable
+EMP2367,38,4,5,59,No Travel,Yes,2024-07-15,Better Opportunity
+EMP2368,26,3,6,22,Frequent,No,NULL,Not Applicable
+EMP2369,22,3,8,58,Frequent,No,NULL,Not Applicable
+EMP2370,58,4,6,49,Rare,No,NULL,Not Applicable
+EMP2371,51,10,3,35,Rare,Yes,2024-08-21,Health/Family Reasons
+EMP2372,10,9,4,41,Rare,No,NULL,Not Applicable
+EMP2373,55,6,7,42,Frequent,No,NULL,Not Applicable
+EMP2374,40,6,6,41,Rare,No,NULL,Not Applicable
+EMP2375,38,5,6,25,Rare,No,NULL,Not Applicable
+EMP2376,35,5,5,58,No Travel,No,NULL,Not Applicable
+EMP2377,69,10,8,14,Rare,No,NULL,Not Applicable
+EMP2378,35,5,6,27,No Travel,No,NULL,Not Applicable
+EMP2379,47,8,3,79,No Travel,No,NULL,Not Applicable
+EMP2380,40,11,10,36,No Travel,No,NULL,Not Applicable
+EMP2381,61,5,1,61,Rare,Yes,2025-08-02,Job Dissatisfaction
+EMP2382,25,5,9,69,Rare,No,NULL,Not Applicable
+EMP2383,40,7,4,23,Frequent,No,NULL,Not Applicable
+EMP2384,40,12,5,47,No Travel,No,NULL,Not Applicable
+EMP2385,65,6,16,41,No Travel,No,NULL,Not Applicable
+EMP2386,43,2,12,35,Rare,Yes,2021-07-10,Job Dissatisfaction
+EMP2387,52,4,9,58,Rare,No,NULL,Not Applicable
+EMP2388,53,4,4,59,No Travel,No,NULL,Not Applicable
+EMP2389,38,0,1,21,Rare,No,NULL,Not Applicable
+EMP2390,21,14,8,56,Rare,No,NULL,Not Applicable
+EMP2391,42,2,5,65,Rare,No,NULL,Not Applicable
+EMP2392,47,9,6,24,Rare,No,NULL,Not Applicable
+EMP2393,8,7,5,15,Rare,No,NULL,Not Applicable
+EMP2394,41,9,11,69,Rare,No,NULL,Not Applicable
+EMP2395,48,3,10,52,No Travel,No,NULL,Not Applicable
+EMP2396,31,6,2,7,No Travel,No,NULL,Not Applicable
+EMP2397,55,11,8,11,No Travel,No,NULL,Not Applicable
+EMP2398,45,3,6,42,Frequent,No,NULL,Not Applicable
+EMP2399,33,8,2,85,No Travel,No,NULL,Not Applicable
+EMP2400,56,3,5,69,No Travel,No,NULL,Not Applicable
+EMP2401,30,8,6,52,No Travel,No,NULL,Not Applicable
+EMP2402,49,10,6,52,No Travel,No,NULL,Not Applicable
+EMP2403,48,7,11,26,No Travel,Yes,2025-07-07,Job Dissatisfaction
+EMP2404,46,5,6,19,No Travel,No,NULL,Not Applicable
+EMP2405,40,8,5,14,No Travel,Yes,2025-12-29,Better Opportunity
+EMP2406,52,8,4,64,Rare,No,NULL,Not Applicable
+EMP2407,41,6,1,78,No Travel,No,NULL,Not Applicable
+EMP2408,52,6,9,69,Rare,No,NULL,Not Applicable
+EMP2409,58,6,13,41,No Travel,No,NULL,Not Applicable
+EMP2410,46,6,8,23,No Travel,No,NULL,Not Applicable
+EMP2411,58,2,5,44,Rare,No,NULL,Not Applicable
+EMP2412,38,7,4,24,Rare,Yes,2024-07-19,Career Growth
+EMP2413,52,10,9,54,Frequent,No,NULL,Not Applicable
+EMP2414,55,7,7,89,No Travel,No,NULL,Not Applicable
+EMP2415,24,0,11,61,Rare,No,NULL,Not Applicable
+EMP2416,43,3,6,90,Rare,No,NULL,Not Applicable
+EMP2417,65,6,5,69,Rare,No,NULL,Not Applicable
+EMP2418,5,4,4,31,Frequent,No,NULL,Not Applicable
+EMP2419,48,6,2,62,Frequent,Yes,2025-05-12,Health/Family Reasons
+EMP2420,39,7,4,13,No Travel,No,NULL,Not Applicable
+EMP2421,46,12,6,69,Rare,No,NULL,Not Applicable
+EMP2422,44,7,3,57,Frequent,No,NULL,Not Applicable
+EMP2423,35,2,1,16,No Travel,No,NULL,Not Applicable
+EMP2424,45,9,5,90,No Travel,No,NULL,Not Applicable
+EMP2425,23,7,8,25,Frequent,No,NULL,Not Applicable
+EMP2426,33,8,8,22,Rare,No,NULL,Not Applicable
+EMP2427,10,8,6,47,No Travel,No,NULL,Not Applicable
+EMP2428,34,7,2,17,Rare,No,NULL,Not Applicable
+EMP2429,36,4,3,53,Frequent,No,NULL,Not Applicable
+EMP2430,38,2,6,23,No Travel,No,NULL,Not Applicable
+EMP2431,54,5,4,43,No Travel,No,NULL,Not Applicable
+EMP2432,34,3,4,14,No Travel,No,NULL,Not Applicable
+EMP2433,33,7,4,10,Frequent,No,NULL,Not Applicable
+EMP2434,36,4,7,51,Frequent,No,NULL,Not Applicable
+EMP2435,35,5,4,26,No Travel,No,NULL,Not Applicable
+EMP2436,57,13,13,8,Rare,Yes,2025-12-30,Better Opportunity
+EMP2437,43,2,3,0,Rare,No,NULL,Not Applicable
+EMP2438,58,6,9,27,Rare,No,NULL,Not Applicable
+EMP2439,26,6,4,5,Frequent,No,NULL,Not Applicable
+EMP2440,51,10,7,30,Rare,No,NULL,Not Applicable
+EMP2441,61,3,9,76,Rare,Yes,2025-06-28,Work-Life Balance
+EMP2442,32,6,6,61,No Travel,No,NULL,Not Applicable
+EMP2443,33,3,5,24,No Travel,No,NULL,Not Applicable
+EMP2444,30,9,8,63,No Travel,No,NULL,Not Applicable
+EMP2445,13,7,5,71,No Travel,No,NULL,Not Applicable
+EMP2446,54,4,6,75,No Travel,No,NULL,Not Applicable
+EMP2447,44,8,3,77,Rare,No,NULL,Not Applicable
+EMP2448,41,7,5,51,Frequent,No,NULL,Not Applicable
+EMP2449,46,4,6,66,No Travel,No,NULL,Not Applicable
+EMP2450,46,9,7,57,Rare,No,NULL,Not Applicable
+EMP2451,45,7,5,0,Frequent,No,NULL,Not Applicable
+EMP2452,39,6,2,0,Rare,No,NULL,Not Applicable
+EMP2453,37,16,11,20,No Travel,Yes,2025-09-03,Work-Life Balance
+EMP2454,54,8,5,68,Rare,No,NULL,Not Applicable
+EMP2455,38,14,5,27,Rare,No,NULL,Not Applicable
+EMP2456,51,9,3,88,Rare,No,NULL,Not Applicable
+EMP2457,49,3,8,17,Rare,Yes,2025-11-30,Work-Life Balance
+EMP2458,39,7,3,56,No Travel,No,NULL,Not Applicable
+EMP2459,53,10,4,84,No Travel,No,NULL,Not Applicable
+EMP2460,48,10,4,43,No Travel,No,NULL,Not Applicable
+EMP2461,32,3,4,19,Rare,No,NULL,Not Applicable
+EMP2462,43,6,6,15,Frequent,Yes,2025-12-03,Personal Reasons
+EMP2463,44,7,4,39,Rare,No,NULL,Not Applicable
+EMP2464,28,2,5,44,No Travel,No,NULL,Not Applicable
+EMP2465,41,5,9,64,Rare,Yes,2025-12-22,Better Opportunity
+EMP2466,40,9,10,0,No Travel,No,NULL,Not Applicable
+EMP2467,29,8,5,8,Frequent,No,NULL,Not Applicable
+EMP2468,57,3,7,30,No Travel,No,NULL,Not Applicable
+EMP2469,46,8,12,53,Rare,No,NULL,Not Applicable
+EMP2470,45,11,4,36,Rare,No,NULL,Not Applicable
+EMP2471,34,4,8,37,Rare,No,NULL,Not Applicable
+EMP2472,47,10,6,0,Rare,No,NULL,Not Applicable
+EMP2473,20,9,2,0,No Travel,No,NULL,Not Applicable
+EMP2474,59,13,3,83,Frequent,No,NULL,Not Applicable
+EMP2475,36,3,5,13,Rare,No,NULL,Not Applicable
+EMP2476,42,4,4,55,No Travel,Yes,2025-12-17,Career Growth
+EMP2477,51,9,5,39,Rare,No,NULL,Not Applicable
+EMP2478,38,9,9,83,No Travel,No,NULL,Not Applicable
+EMP2479,40,7,4,28,Rare,No,NULL,Not Applicable
+EMP2480,10,6,4,28,Frequent,No,NULL,Not Applicable
+EMP2481,63,5,7,57,No Travel,No,NULL,Not Applicable
+EMP2482,58,9,5,61,Rare,Yes,2025-12-20,Work-Life Balance
+EMP2483,48,6,7,84,Rare,No,NULL,Not Applicable
+EMP2484,32,4,2,4,Rare,No,NULL,Not Applicable
+EMP2485,26,3,7,12,Frequent,Yes,2022-07-27,Better Opportunity
+EMP2486,25,4,5,27,No Travel,No,NULL,Not Applicable
+EMP2487,29,8,5,90,Frequent,No,NULL,Not Applicable
+EMP2488,59,7,0,28,No Travel,No,NULL,Not Applicable
+EMP2489,49,9,4,48,Rare,No,NULL,Not Applicable
+EMP2490,38,5,3,59,No Travel,No,NULL,Not Applicable
+EMP2491,42,3,9,34,Rare,Yes,2024-12-22,Job Dissatisfaction
+EMP2492,39,9,3,29,Frequent,No,NULL,Not Applicable
+EMP2493,61,4,0,102,No Travel,No,NULL,Not Applicable
+EMP2494,43,7,5,23,Rare,Yes,2025-08-30,Job Dissatisfaction
+EMP2495,22,4,4,31,Rare,No,NULL,Not Applicable
+EMP2496,48,9,6,36,No Travel,No,NULL,Not Applicable
+EMP2497,12,6,3,64,Rare,Yes,2020-11-11,Retirement
+EMP2498,59,5,11,121,No Travel,Yes,2025-10-20,Compensation
+EMP2499,55,6,4,20,Rare,No,NULL,Not Applicable
+EMP2500,61,3,9,28,No Travel,No,NULL,Not Applicable
+EMP2501,59,6,5,67,Rare,No,NULL,Not Applicable
+EMP2502,40,10,5,9,Frequent,No,NULL,Not Applicable
+EMP2503,49,1,4,0,No Travel,No,NULL,Not Applicable
+EMP2504,57,4,4,33,No Travel,No,NULL,Not Applicable
+EMP2505,22,5,6,61,Frequent,No,NULL,Not Applicable
+EMP2506,52,6,1,47,No Travel,No,NULL,Not Applicable
+EMP2507,53,7,11,8,Rare,No,NULL,Not Applicable
+EMP2508,38,4,5,19,Rare,No,NULL,Not Applicable
+EMP2509,32,6,4,79,No Travel,Yes,2025-10-04,Work-Life Balance
+EMP2510,60,4,6,57,Rare,No,NULL,Not Applicable
+EMP2511,50,7,3,28,Frequent,Yes,2025-12-06,Work-Life Balance
+EMP2512,39,7,6,28,Rare,No,NULL,Not Applicable
+EMP2513,44,7,6,40,Rare,No,NULL,Not Applicable
+EMP2514,49,9,7,90,Rare,No,NULL,Not Applicable
+EMP2515,57,9,5,64,No Travel,Yes,2025-12-03,Better Opportunity
+EMP2516,4,3,3,64,Frequent,No,NULL,Not Applicable
+EMP2517,56,4,7,40,No Travel,No,NULL,Not Applicable
+EMP2518,58,5,5,114,Rare,No,NULL,Not Applicable
+EMP2519,60,3,2,72,Rare,No,NULL,Not Applicable
+EMP2520,37,9,6,66,No Travel,No,NULL,Not Applicable
+EMP2521,40,7,9,62,Frequent,Yes,2024-11-24,Work-Life Balance
+EMP2522,54,3,2,71,No Travel,Yes,2025-11-16,Better Opportunity
+EMP2523,41,10,6,44,Rare,No,NULL,Not Applicable
+EMP2524,33,1,7,46,Rare,No,NULL,Not Applicable
+EMP2525,54,5,6,48,Rare,Yes,2025-08-08,Better Opportunity
+EMP2526,31,3,4,70,No Travel,No,NULL,Not Applicable
+EMP2527,50,10,7,56,Rare,No,NULL,Not Applicable
+EMP2528,56,6,6,5,No Travel,No,NULL,Not Applicable
+EMP2529,5,11,6,41,Frequent,No,NULL,Not Applicable
+EMP2530,43,13,5,13,No Travel,No,NULL,Not Applicable
+EMP2531,44,7,8,37,Rare,No,NULL,Not Applicable
+EMP2532,25,5,10,13,Rare,No,NULL,Not Applicable
+EMP2533,30,4,0,8,No Travel,No,NULL,Not Applicable
+EMP2534,46,7,3,77,No Travel,No,NULL,Not Applicable
+EMP2535,35,4,3,27,No Travel,No,NULL,Not Applicable
+EMP2536,34,3,9,40,No Travel,No,NULL,Not Applicable
+EMP2537,61,5,8,12,No Travel,No,NULL,Not Applicable
+EMP2538,40,2,5,35,Rare,No,NULL,Not Applicable
+EMP2539,41,2,4,58,Rare,Yes,2025-01-02,Job Dissatisfaction
+EMP2540,54,9,4,77,Frequent,No,NULL,Not Applicable
+EMP2541,14,5,5,61,Rare,No,NULL,Not Applicable
+EMP2542,41,9,10,8,Frequent,No,NULL,Not Applicable
+EMP2543,46,6,6,41,Rare,No,NULL,Not Applicable
+EMP2544,43,9,4,84,No Travel,No,NULL,Not Applicable
+EMP2545,37,6,2,62,Rare,No,NULL,Not Applicable
+EMP2546,54,4,4,25,Rare,No,NULL,Not Applicable
+EMP2547,11,1,2,22,Frequent,No,NULL,Not Applicable
+EMP2548,42,12,6,28,No Travel,No,NULL,Not Applicable
+EMP2549,39,3,6,59,Frequent,No,NULL,Not Applicable
+EMP2550,39,7,3,53,Rare,No,NULL,Not Applicable
+EMP2551,59,3,9,75,No Travel,No,NULL,Not Applicable
+EMP2552,52,11,5,63,Frequent,No,NULL,Not Applicable
+EMP2553,55,9,8,27,Frequent,Yes,2025-09-09,Manager Relationship
+EMP2554,60,6,8,15,No Travel,No,NULL,Not Applicable
+EMP2555,32,4,3,46,Rare,No,NULL,Not Applicable
+EMP2556,29,4,9,20,Frequent,Yes,2019-10-08,Manager Relationship
+EMP2557,45,5,3,41,Frequent,No,NULL,Not Applicable
+EMP2558,58,4,6,52,Frequent,No,NULL,Not Applicable
+EMP2559,27,5,6,46,Frequent,No,NULL,Not Applicable
+EMP2560,48,6,8,59,No Travel,No,NULL,Not Applicable
+EMP2561,21,9,8,15,No Travel,No,NULL,Not Applicable
+EMP2562,55,4,8,16,No Travel,No,NULL,Not Applicable
+EMP2563,65,5,5,25,Frequent,No,NULL,Not Applicable
+EMP2564,50,8,4,41,No Travel,No,NULL,Not Applicable
+EMP2565,27,4,7,7,Rare,No,NULL,Not Applicable
+EMP2566,64,10,3,11,Frequent,No,NULL,Not Applicable
+EMP2567,37,5,7,50,Rare,No,NULL,Not Applicable
+EMP2568,63,3,6,65,Rare,Yes,2025-11-18,Better Opportunity
+EMP2569,60,8,3,0,Rare,No,NULL,Not Applicable
+EMP2570,24,7,3,32,Rare,No,NULL,Not Applicable
+EMP2571,52,10,7,89,Frequent,Yes,2025-07-09,Job Dissatisfaction
+EMP2572,52,6,6,57,No Travel,No,NULL,Not Applicable
+EMP2573,43,8,0,12,Rare,No,NULL,Not Applicable
+EMP2574,18,4,3,8,Frequent,Yes,2009-10-14,Relocation
+EMP2575,52,10,4,41,Rare,Yes,2025-12-13,Personal Reasons
+EMP2576,64,10,10,60,Rare,Yes,2025-12-24,Manager Relationship
+EMP2577,14,6,6,10,Frequent,No,NULL,Not Applicable
+EMP2578,38,7,4,0,Rare,No,NULL,Not Applicable
+EMP2579,22,8,3,51,Rare,No,NULL,Not Applicable
+EMP2580,24,11,2,5,No Travel,No,NULL,Not Applicable
+EMP2581,42,7,7,66,No Travel,No,NULL,Not Applicable
+EMP2582,51,2,8,34,Rare,No,NULL,Not Applicable
+EMP2583,48,7,2,35,Rare,Yes,2025-06-16,Manager Relationship
+EMP2584,44,10,2,22,No Travel,No,NULL,Not Applicable
+EMP2585,35,2,5,29,Rare,Yes,2024-03-26,Health/Family Reasons
+EMP2586,12,8,5,63,Frequent,No,NULL,Not Applicable
+EMP2587,38,5,4,51,Rare,No,NULL,Not Applicable
+EMP2588,54,10,8,55,Frequent,No,NULL,Not Applicable
+EMP2589,57,5,6,24,Frequent,No,NULL,Not Applicable
+EMP2590,51,7,3,13,Rare,No,NULL,Not Applicable
+EMP2591,49,7,3,10,Rare,No,NULL,Not Applicable
+EMP2592,25,4,7,63,Frequent,No,NULL,Not Applicable
+EMP2593,42,5,9,0,No Travel,No,NULL,Not Applicable
+EMP2594,59,3,14,73,No Travel,Yes,2025-07-23,Personal Reasons
+EMP2595,39,11,7,21,Frequent,No,NULL,Not Applicable
+EMP2596,48,11,4,0,No Travel,No,NULL,Not Applicable
+EMP2597,32,9,2,55,Frequent,No,NULL,Not Applicable
+EMP2598,48,8,3,13,Frequent,No,NULL,Not Applicable
+EMP2599,51,12,12,10,Rare,No,NULL,Not Applicable
+EMP2600,36,6,7,9,Rare,No,NULL,Not Applicable
+EMP2601,49,11,4,0,Frequent,No,NULL,Not Applicable
+EMP2602,60,5,4,38,Rare,No,NULL,Not Applicable
+EMP2603,30,12,6,18,Rare,No,NULL,Not Applicable
+EMP2604,24,5,6,30,No Travel,Yes,2024-07-19,Work-Life Balance
+EMP2605,44,4,3,48,No Travel,No,NULL,Not Applicable
+EMP2606,41,8,5,56,No Travel,No,NULL,Not Applicable
+EMP2607,60,4,4,42,Rare,No,NULL,Not Applicable
+EMP2608,47,4,3,69,Rare,Yes,2024-08-22,Manager Relationship
+EMP2609,50,2,6,45,Rare,No,NULL,Not Applicable
+EMP2610,26,9,3,46,Frequent,Yes,2024-05-14,Work-Life Balance
+EMP2611,54,11,4,16,Rare,No,NULL,Not Applicable
+EMP2612,31,10,7,12,Rare,No,NULL,Not Applicable
+EMP2613,62,5,9,49,No Travel,No,NULL,Not Applicable
+EMP2614,40,8,4,42,No Travel,No,NULL,Not Applicable
+EMP2615,44,11,11,67,No Travel,No,NULL,Not Applicable
+EMP2616,56,7,6,67,Frequent,No,NULL,Not Applicable
+EMP2617,48,5,14,71,No Travel,Yes,2025-07-23,Health/Family Reasons
+EMP2618,23,5,7,30,No Travel,No,NULL,Not Applicable
+EMP2619,30,8,1,54,No Travel,Yes,2025-03-09,Work-Life Balance
+EMP2620,45,6,5,47,Rare,Yes,2025-05-14,Better Opportunity
+EMP2621,46,7,6,18,No Travel,No,NULL,Not Applicable
+EMP2622,63,7,2,27,No Travel,No,NULL,Not Applicable
+EMP2623,30,4,4,74,Rare,No,NULL,Not Applicable
+EMP2624,49,4,5,8,No Travel,No,NULL,Not Applicable
+EMP2625,55,9,8,92,Rare,No,NULL,Not Applicable
+EMP2626,35,8,5,36,Frequent,No,NULL,Not Applicable
+EMP2627,23,4,9,38,No Travel,No,NULL,Not Applicable
+EMP2628,33,9,7,10,Frequent,Yes,2025-04-04,Better Opportunity
+EMP2629,61,5,4,40,No Travel,Yes,2023-11-23,Health/Family Reasons
+EMP2630,45,3,3,35,No Travel,No,NULL,Not Applicable
+EMP2631,41,5,1,70,Rare,Yes,2025-07-21,Work-Life Balance
+EMP2632,55,6,9,96,No Travel,Yes,2025-07-05,Work-Life Balance
+EMP2633,51,8,7,37,No Travel,No,NULL,Not Applicable
+EMP2634,61,6,4,0,No Travel,No,NULL,Not Applicable
+EMP2635,60,5,10,80,Rare,No,NULL,Not Applicable
+EMP2636,32,9,5,51,Frequent,No,NULL,Not Applicable
+EMP2637,61,9,8,19,Rare,No,NULL,Not Applicable
+EMP2638,40,8,6,68,No Travel,No,NULL,Not Applicable
+EMP2639,67,8,4,3,Frequent,No,NULL,Not Applicable
+EMP2640,47,10,8,105,No Travel,Yes,2024-07-04,Manager Relationship
+EMP2641,39,4,9,11,Rare,No,NULL,Not Applicable
+EMP2642,43,2,1,16,Rare,No,NULL,Not Applicable
+EMP2643,33,3,5,70,Rare,No,NULL,Not Applicable
+EMP2644,54,7,6,4,Rare,No,NULL,Not Applicable
+EMP2645,40,6,7,63,Rare,No,NULL,Not Applicable
+EMP2646,61,6,4,27,No Travel,No,NULL,Not Applicable
+EMP2647,36,6,5,38,Rare,No,NULL,Not Applicable
+EMP2648,50,7,2,70,No Travel,No,NULL,Not Applicable
+EMP2649,46,4,10,10,No Travel,No,NULL,Not Applicable
+EMP2650,56,1,9,67,Rare,No,NULL,Not Applicable
+EMP2651,25,10,6,4,Rare,No,NULL,Not Applicable
+EMP2652,40,3,6,39,No Travel,No,NULL,Not Applicable
+EMP2653,53,5,6,35,Rare,No,NULL,Not Applicable
+EMP2654,34,4,7,31,Rare,No,NULL,Not Applicable
+EMP2655,56,6,6,10,Rare,No,NULL,Not Applicable
+EMP2656,50,4,8,8,Rare,No,NULL,Not Applicable
+EMP2657,20,6,8,23,Frequent,No,NULL,Not Applicable
+EMP2658,31,4,5,65,No Travel,No,NULL,Not Applicable
+EMP2659,63,10,7,33,No Travel,Yes,2025-10-18,Relocation
+EMP2660,39,14,7,56,No Travel,No,NULL,Not Applicable
+EMP2661,51,9,6,44,Rare,No,NULL,Not Applicable
+EMP2662,43,6,8,31,Frequent,Yes,2025-01-31,Job Dissatisfaction
+EMP2663,54,8,4,18,Frequent,No,NULL,Not Applicable
+EMP2664,47,6,4,56,Rare,Yes,2025-09-06,Work-Life Balance
+EMP2665,65,8,7,70,Rare,No,NULL,Not Applicable
+EMP2666,38,7,7,31,No Travel,No,NULL,Not Applicable
+EMP2667,49,4,4,29,Frequent,Yes,2025-09-21,Work-Life Balance
+EMP2668,21,7,8,49,Frequent,No,NULL,Not Applicable
+EMP2669,37,12,5,93,Rare,Yes,2024-11-15,Work-Life Balance
+EMP2670,36,7,5,16,Frequent,No,NULL,Not Applicable
+EMP2671,40,5,5,67,No Travel,No,NULL,Not Applicable
+EMP2672,20,10,5,50,Rare,No,NULL,Not Applicable
+EMP2673,37,7,8,17,Rare,No,NULL,Not Applicable
+EMP2674,44,8,10,79,Frequent,No,NULL,Not Applicable
+EMP2675,48,4,7,11,No Travel,No,NULL,Not Applicable
+EMP2676,30,2,5,25,Frequent,No,NULL,Not Applicable
+EMP2677,56,10,2,60,Rare,No,NULL,Not Applicable
+EMP2678,45,11,2,52,No Travel,No,NULL,Not Applicable
+EMP2679,25,9,4,7,Rare,No,NULL,Not Applicable
+EMP2680,45,4,6,17,No Travel,No,NULL,Not Applicable
+EMP2681,30,7,5,40,No Travel,No,NULL,Not Applicable
+EMP2682,51,9,14,14,No Travel,No,NULL,Not Applicable
+EMP2683,69,5,3,76,No Travel,No,NULL,Not Applicable
+EMP2684,45,7,6,36,Rare,No,NULL,Not Applicable
+EMP2685,46,7,9,2,Frequent,Yes,2024-01-24,Better Opportunity
+EMP2686,65,8,4,23,Rare,No,NULL,Not Applicable
+EMP2687,58,9,3,67,Rare,No,NULL,Not Applicable
+EMP2688,61,10,4,0,Rare,No,NULL,Not Applicable
+EMP2689,43,7,3,41,Rare,Yes,2023-11-16,Work-Life Balance
+EMP2690,27,4,7,55,Rare,No,NULL,Not Applicable
+EMP2691,42,8,3,10,No Travel,No,NULL,Not Applicable
+EMP2692,52,3,5,46,Rare,No,NULL,Not Applicable
+EMP2693,58,6,7,16,No Travel,No,NULL,Not Applicable
+EMP2694,29,9,4,47,Frequent,No,NULL,Not Applicable
+EMP2695,42,8,9,28,No Travel,No,NULL,Not Applicable
+EMP2696,49,8,8,74,Rare,No,NULL,Not Applicable
+EMP2697,56,9,6,61,Rare,No,NULL,Not Applicable
+EMP2698,22,3,4,70,Frequent,No,NULL,Not Applicable
+EMP2699,30,11,6,41,Frequent,No,NULL,Not Applicable
+EMP2700,43,4,3,7,Rare,No,NULL,Not Applicable
+EMP2701,31,8,7,10,Rare,No,NULL,Not Applicable
+EMP2702,56,5,8,45,No Travel,No,NULL,Not Applicable
+EMP2703,55,4,9,28,Frequent,No,NULL,Not Applicable
+EMP2704,33,5,5,46,No Travel,Yes,2022-10-09,Manager Relationship
+EMP2705,51,3,4,9,No Travel,No,NULL,Not Applicable
+EMP2706,44,3,2,41,Frequent,No,NULL,Not Applicable
+EMP2707,16,4,6,21,Rare,Yes,2025-04-28,Personal Reasons
+EMP2708,32,13,7,76,Rare,Yes,2020-02-04,Work-Life Balance
+EMP2709,51,6,1,70,Frequent,Yes,2025-05-16,Work-Life Balance
+EMP2710,45,9,7,43,No Travel,No,NULL,Not Applicable
+EMP2711,27,7,7,21,No Travel,No,NULL,Not Applicable
+EMP2712,50,6,1,38,No Travel,No,NULL,Not Applicable
+EMP2713,8,9,9,54,Rare,No,NULL,Not Applicable
+EMP2714,26,12,2,55,Rare,No,NULL,Not Applicable
+EMP2715,57,12,4,0,Frequent,No,NULL,Not Applicable
+EMP2716,58,7,4,54,No Travel,Yes,2025-10-18,Work-Life Balance
+EMP2717,33,2,5,73,No Travel,No,NULL,Not Applicable
+EMP2718,14,5,1,51,No Travel,No,NULL,Not Applicable
+EMP2719,49,5,2,62,Rare,No,NULL,Not Applicable
+EMP2720,60,9,7,61,No Travel,No,NULL,Not Applicable
+EMP2721,32,6,7,61,No Travel,No,NULL,Not Applicable
+EMP2722,58,3,8,16,No Travel,Yes,2025-09-16,Work-Life Balance
+EMP2723,45,9,7,22,Frequent,Yes,2025-12-29,Relocation
+EMP2724,23,6,1,30,Frequent,No,NULL,Not Applicable
+EMP2725,34,11,9,77,No Travel,No,NULL,Not Applicable
+EMP2726,17,7,1,17,Rare,No,NULL,Not Applicable
+EMP2727,31,3,3,35,No Travel,No,NULL,Not Applicable
+EMP2728,54,9,7,53,Rare,No,NULL,Not Applicable
+EMP2729,29,6,6,17,Frequent,No,NULL,Not Applicable
+EMP2730,41,7,5,0,No Travel,No,NULL,Not Applicable
+EMP2731,65,10,8,70,Rare,No,NULL,Not Applicable
+EMP2732,19,15,9,14,No Travel,No,NULL,Not Applicable
+EMP2733,30,4,7,85,No Travel,No,NULL,Not Applicable
+EMP2734,28,9,12,32,Frequent,No,NULL,Not Applicable
+EMP2735,43,9,6,26,No Travel,Yes,2025-11-15,Work-Life Balance
+EMP2736,10,6,1,31,Frequent,No,NULL,Not Applicable
+EMP2737,41,3,7,36,No Travel,No,NULL,Not Applicable
+EMP2738,35,6,3,21,No Travel,Yes,2023-08-09,Career Growth
+EMP2739,20,7,4,0,No Travel,No,NULL,Not Applicable
+EMP2740,43,11,6,30,No Travel,No,NULL,Not Applicable
+EMP2741,40,6,7,67,Rare,No,NULL,Not Applicable
+EMP2742,41,9,7,53,Rare,No,NULL,Not Applicable
+EMP2743,28,3,14,96,No Travel,No,NULL,Not Applicable
+EMP2744,28,4,7,11,Frequent,No,NULL,Not Applicable
+EMP2745,31,2,3,49,Rare,No,NULL,Not Applicable
+EMP2746,54,5,4,45,No Travel,No,NULL,Not Applicable
+EMP2747,63,6,4,13,No Travel,No,NULL,Not Applicable
+EMP2748,5,7,2,45,Rare,No,NULL,Not Applicable
+EMP2749,9,6,9,79,Rare,Yes,2018-09-19,Career Growth
+EMP2750,9,11,5,61,Rare,No,NULL,Not Applicable
+EMP2751,60,7,6,41,No Travel,Yes,2025-12-16,Manager Relationship
+EMP2752,54,6,8,6,No Travel,No,NULL,Not Applicable
+EMP2753,31,8,6,51,Rare,No,NULL,Not Applicable
+EMP2754,37,4,6,73,Rare,Yes,2024-10-05,Personal Reasons
+EMP2755,56,10,8,4,Rare,No,NULL,Not Applicable
+EMP2756,49,6,5,18,Rare,No,NULL,Not Applicable
+EMP2757,52,10,6,0,No Travel,No,NULL,Not Applicable
+EMP2758,40,8,7,48,No Travel,No,NULL,Not Applicable
+EMP2759,50,3,5,26,Rare,No,NULL,Not Applicable
+EMP2760,52,6,10,76,No Travel,No,NULL,Not Applicable
+EMP2761,52,5,9,14,Rare,No,NULL,Not Applicable
+EMP2762,18,12,5,26,Frequent,No,NULL,Not Applicable
+EMP2763,32,7,8,111,No Travel,No,NULL,Not Applicable
+EMP2764,33,7,5,44,Frequent,No,NULL,Not Applicable
+EMP2765,57,7,5,61,No Travel,No,NULL,Not Applicable
+EMP2766,51,7,7,41,Frequent,No,NULL,Not Applicable
+EMP2767,44,7,4,21,Frequent,No,NULL,Not Applicable
+EMP2768,42,5,8,32,No Travel,Yes,2024-03-08,Better Opportunity
+EMP2769,46,3,8,10,Frequent,Yes,2024-04-01,Better Opportunity
+EMP2770,37,6,6,6,Rare,No,NULL,Not Applicable
+EMP2771,31,8,5,32,No Travel,No,NULL,Not Applicable
+EMP2772,29,3,8,33,Rare,No,NULL,Not Applicable
+EMP2773,52,6,2,18,No Travel,No,NULL,Not Applicable
+EMP2774,42,9,8,68,Rare,Yes,2022-09-19,Better Opportunity
+EMP2775,54,7,9,6,Rare,No,NULL,Not Applicable
+EMP2776,59,6,6,77,Frequent,No,NULL,Not Applicable
+EMP2777,39,4,2,53,Rare,No,NULL,Not Applicable
+EMP2778,43,5,6,47,Rare,No,NULL,Not Applicable
+EMP2779,34,14,3,85,Rare,No,NULL,Not Applicable
+EMP2780,48,9,7,70,No Travel,No,NULL,Not Applicable
+EMP2781,19,7,5,22,Rare,No,NULL,Not Applicable
+EMP2782,6,10,5,46,Rare,Yes,2025-11-06,Better Opportunity
+EMP2783,48,6,5,15,Rare,No,NULL,Not Applicable
+EMP2784,31,7,4,50,Frequent,No,NULL,Not Applicable
+EMP2785,59,8,7,61,Rare,No,NULL,Not Applicable
+EMP2786,30,11,4,38,Rare,No,NULL,Not Applicable
+EMP2787,19,5,8,18,Rare,No,NULL,Not Applicable
+EMP2788,33,11,1,82,Rare,No,NULL,Not Applicable
+EMP2789,41,6,3,9,Frequent,No,NULL,Not Applicable
+EMP2790,46,13,6,4,Rare,No,NULL,Not Applicable
+EMP2791,38,7,3,37,No Travel,No,NULL,Not Applicable
+EMP2792,29,6,7,64,No Travel,No,NULL,Not Applicable
+EMP2793,56,10,7,12,Rare,No,NULL,Not Applicable
+EMP2794,62,4,5,34,Rare,No,NULL,Not Applicable
+EMP2795,36,6,4,23,Rare,No,NULL,Not Applicable
+EMP2796,59,12,0,54,Rare,No,NULL,Not Applicable
+EMP2797,52,11,6,48,No Travel,No,NULL,Not Applicable
+EMP2798,26,5,6,27,Frequent,No,NULL,Not Applicable
+EMP2799,41,9,3,24,No Travel,Yes,2025-02-15,Personal Reasons
+EMP2800,48,5,6,52,Frequent,No,NULL,Not Applicable
+EMP2801,42,10,4,63,No Travel,No,NULL,Not Applicable
+EMP2802,43,2,3,49,No Travel,No,NULL,Not Applicable
+EMP2803,35,9,5,51,Frequent,No,NULL,Not Applicable
+EMP2804,45,15,3,20,Rare,Yes,2025-12-15,Work-Life Balance
+EMP2805,44,2,12,51,Rare,No,NULL,Not Applicable
+EMP2806,36,4,2,71,No Travel,No,NULL,Not Applicable
+EMP2807,38,6,7,4,Frequent,No,NULL,Not Applicable
+EMP2808,33,7,9,41,Rare,Yes,2023-06-21,Better Opportunity
+EMP2809,59,7,7,68,No Travel,Yes,2025-11-21,Manager Relationship
+EMP2810,38,2,10,36,No Travel,Yes,2018-10-29,Work-Life Balance
+EMP2811,58,6,4,75,No Travel,No,NULL,Not Applicable
+EMP2812,46,7,1,0,No Travel,No,NULL,Not Applicable
+EMP2813,33,12,3,11,Rare,No,NULL,Not Applicable
+EMP2814,35,8,6,51,Rare,Yes,2024-05-07,Better Opportunity
+EMP2815,47,7,7,76,No Travel,No,NULL,Not Applicable
+EMP2816,37,4,1,80,No Travel,No,NULL,Not Applicable
+EMP2817,55,4,3,48,Frequent,Yes,2025-10-27,Relocation
+EMP2818,46,5,9,0,No Travel,No,NULL,Not Applicable
+EMP2819,43,9,1,30,Frequent,No,NULL,Not Applicable
+EMP2820,51,7,3,58,No Travel,No,NULL,Not Applicable
+EMP2821,33,4,7,36,Frequent,No,NULL,Not Applicable
+EMP2822,18,6,3,18,Frequent,No,NULL,Not Applicable
+EMP2823,32,6,4,55,No Travel,No,NULL,Not Applicable
+EMP2824,49,13,3,27,Frequent,No,NULL,Not Applicable
+EMP2825,41,10,8,44,No Travel,No,NULL,Not Applicable
+EMP2826,62,8,3,36,Rare,No,NULL,Not Applicable
+EMP2827,33,11,2,0,No Travel,No,NULL,Not Applicable
+EMP2828,55,13,3,87,No Travel,Yes,2025-09-21,Relocation
+EMP2829,47,4,7,9,Rare,No,NULL,Not Applicable
+EMP2830,38,4,4,21,No Travel,Yes,2024-11-20,Work-Life Balance
+EMP2831,43,11,10,33,Rare,Yes,2022-06-17,Better Opportunity
+EMP2832,49,5,13,50,Frequent,Yes,2025-08-29,Manager Relationship
+EMP2833,60,4,5,30,Rare,Yes,2025-11-06,Health/Family Reasons
+EMP2834,36,7,4,43,No Travel,No,NULL,Not Applicable
+EMP2835,48,4,8,0,No Travel,No,NULL,Not Applicable
+EMP2836,63,2,4,25,Rare,No,NULL,Not Applicable
+EMP2837,31,6,1,0,Frequent,No,NULL,Not Applicable
+EMP2838,42,6,7,114,No Travel,No,NULL,Not Applicable
+EMP2839,39,10,8,36,Rare,No,NULL,Not Applicable
+EMP2840,51,6,7,39,Rare,No,NULL,Not Applicable
+EMP2841,42,10,5,38,Rare,Yes,2025-12-05,Personal Reasons
+EMP2842,64,6,3,44,No Travel,No,NULL,Not Applicable
+EMP2843,59,8,8,16,Rare,No,NULL,Not Applicable
+EMP2844,42,3,5,53,No Travel,No,NULL,Not Applicable
+EMP2845,29,4,5,29,No Travel,Yes,2024-04-29,Manager Relationship
+EMP2846,20,3,5,44,Frequent,No,NULL,Not Applicable
+EMP2847,27,7,2,57,Rare,No,NULL,Not Applicable
+EMP2848,49,6,4,77,No Travel,No,NULL,Not Applicable
+EMP2849,64,3,6,35,No Travel,Yes,2025-11-24,Career Growth
+EMP2850,36,4,4,0,Frequent,No,NULL,Not Applicable
+EMP2851,6,9,3,46,Frequent,No,NULL,Not Applicable
+EMP2852,30,8,8,52,Frequent,No,NULL,Not Applicable
+EMP2853,68,8,13,57,Rare,No,NULL,Not Applicable
+EMP2854,53,13,7,26,Frequent,No,NULL,Not Applicable
+EMP2855,50,11,5,0,No Travel,No,NULL,Not Applicable
+EMP2856,40,4,3,4,No Travel,Yes,2020-01-28,Work-Life Balance
+EMP2857,44,4,6,25,Rare,No,NULL,Not Applicable
+EMP2858,46,4,1,36,Frequent,No,NULL,Not Applicable
+EMP2859,45,8,3,21,Frequent,No,NULL,Not Applicable
+EMP2860,46,7,4,17,Rare,Yes,2025-12-21,Relocation
+EMP2861,59,10,6,25,Frequent,Yes,2024-09-01,Work-Life Balance
+EMP2862,72,8,3,73,Rare,No,NULL,Not Applicable
+EMP2863,33,7,5,84,Rare,No,NULL,Not Applicable
+EMP2864,25,6,7,49,Frequent,No,NULL,Not Applicable
+EMP2865,34,3,5,1,Frequent,No,NULL,Not Applicable
+EMP2866,51,10,5,51,Rare,No,NULL,Not Applicable
+EMP2867,40,2,8,20,Rare,No,NULL,Not Applicable
+EMP2868,37,5,5,70,No Travel,No,NULL,Not Applicable
+EMP2869,47,4,8,33,Rare,Yes,2025-10-20,Better Opportunity
+EMP2870,56,5,10,58,Rare,No,NULL,Not Applicable
+EMP2871,42,6,6,44,Rare,No,NULL,Not Applicable
+EMP2872,58,3,4,43,Frequent,No,NULL,Not Applicable
+EMP2873,62,2,4,37,Rare,No,NULL,Not Applicable
+EMP2874,48,7,7,39,Rare,No,NULL,Not Applicable
+EMP2875,43,5,8,50,Rare,No,NULL,Not Applicable
+EMP2876,57,6,5,46,Rare,No,NULL,Not Applicable
+EMP2877,45,7,4,57,No Travel,No,NULL,Not Applicable
+EMP2878,56,10,11,39,Frequent,No,NULL,Not Applicable
+EMP2879,28,6,8,74,No Travel,No,NULL,Not Applicable
+EMP2880,47,9,2,72,Rare,Yes,2025-08-04,Work-Life Balance
+EMP2881,51,12,7,29,Rare,No,NULL,Not Applicable
+EMP2882,59,7,5,46,No Travel,No,NULL,Not Applicable
+EMP2883,42,4,6,65,No Travel,No,NULL,Not Applicable
+EMP2884,13,8,10,0,Frequent,No,NULL,Not Applicable
+EMP2885,47,10,5,71,Rare,No,NULL,Not Applicable
+EMP2886,57,14,5,68,No Travel,No,NULL,Not Applicable
+EMP2887,60,14,5,84,No Travel,No,NULL,Not Applicable
+EMP2888,58,3,9,25,Rare,Yes,2025-10-10,Job Dissatisfaction
+EMP2889,25,5,4,28,No Travel,No,NULL,Not Applicable
+EMP2890,54,4,6,42,Rare,No,NULL,Not Applicable
+EMP2891,15,6,4,90,Frequent,No,NULL,Not Applicable
+EMP2892,48,11,4,20,Rare,Yes,2025-09-22,Relocation
+EMP2893,51,6,6,15,Rare,Yes,2023-10-21,Personal Reasons
+EMP2894,26,8,3,0,Rare,No,NULL,Not Applicable
+EMP2895,62,13,12,75,No Travel,No,NULL,Not Applicable
+EMP2896,37,3,3,79,Rare,Yes,2023-02-06,Work-Life Balance
+EMP2897,59,5,4,23,Rare,No,NULL,Not Applicable
+EMP2898,26,3,2,64,Rare,No,NULL,Not Applicable
+EMP2899,46,4,3,70,No Travel,No,NULL,Not Applicable
+EMP2900,55,5,9,48,Frequent,No,NULL,Not Applicable
+EMP2901,35,4,6,13,Frequent,No,NULL,Not Applicable
+EMP2902,33,8,6,16,No Travel,No,NULL,Not Applicable
+EMP2903,59,9,9,47,Rare,No,NULL,Not Applicable
+EMP2904,32,7,7,9,No Travel,No,NULL,Not Applicable
+EMP2905,41,10,13,30,Rare,No,NULL,Not Applicable
+EMP2906,19,12,3,43,No Travel,No,NULL,Not Applicable
+EMP2907,50,4,8,42,Rare,No,NULL,Not Applicable
+EMP2908,40,4,6,66,No Travel,No,NULL,Not Applicable
+EMP2909,63,6,4,6,Rare,No,NULL,Not Applicable
+EMP2910,50,8,5,15,Rare,No,NULL,Not Applicable
+EMP2911,9,7,4,19,Frequent,No,NULL,Not Applicable
+EMP2912,49,2,5,50,No Travel,No,NULL,Not Applicable
+EMP2913,37,7,5,42,No Travel,Yes,2025-10-04,Better Opportunity
+EMP2914,60,6,4,64,No Travel,No,NULL,Not Applicable
+EMP2915,50,10,4,35,Frequent,No,NULL,Not Applicable
+EMP2916,46,10,5,88,Frequent,No,NULL,Not Applicable
+EMP2917,28,6,5,38,Rare,No,NULL,Not Applicable
+EMP2918,28,10,5,0,No Travel,No,NULL,Not Applicable
+EMP2919,29,4,9,62,Frequent,No,NULL,Not Applicable
+EMP2920,48,6,6,14,No Travel,No,NULL,Not Applicable
+EMP2921,34,4,9,22,Rare,No,NULL,Not Applicable
+EMP2922,48,6,4,50,Frequent,No,NULL,Not Applicable
+EMP2923,36,4,9,62,No Travel,No,NULL,Not Applicable
+EMP2924,57,6,7,8,Rare,Yes,2025-11-21,Job Dissatisfaction
+EMP2925,48,8,2,32,No Travel,No,NULL,Not Applicable
+EMP2926,65,8,5,50,Frequent,No,NULL,Not Applicable
+EMP2927,30,6,5,35,No Travel,No,NULL,Not Applicable
+EMP2928,31,5,2,34,No Travel,No,NULL,Not Applicable
+EMP2929,28,5,3,51,No Travel,No,NULL,Not Applicable
+EMP2930,68,5,8,0,Rare,Yes,2025-12-30,Manager Relationship
+EMP2931,9,8,6,54,Frequent,No,NULL,Not Applicable
+EMP2932,41,5,8,52,Rare,No,NULL,Not Applicable
+EMP2933,59,9,8,52,Frequent,Yes,2025-12-05,Job Dissatisfaction
+EMP2934,60,6,2,0,No Travel,No,NULL,Not Applicable
+EMP2935,61,7,8,14,Rare,No,NULL,Not Applicable
+EMP2936,47,5,4,57,No Travel,No,NULL,Not Applicable
+EMP2937,61,4,4,46,Frequent,Yes,2025-11-16,Work-Life Balance
+EMP2938,49,8,8,68,No Travel,No,NULL,Not Applicable
+EMP2939,45,3,8,41,Rare,No,NULL,Not Applicable
+EMP2940,31,9,10,71,Frequent,No,NULL,Not Applicable
+EMP2941,41,1,4,46,Rare,No,NULL,Not Applicable
+EMP2942,62,14,14,75,No Travel,No,NULL,Not Applicable
+EMP2943,45,5,8,25,No Travel,Yes,2025-09-19,Manager Relationship
+EMP2944,43,4,5,30,Rare,Yes,2021-06-26,Work-Life Balance
+EMP2945,58,11,7,58,Frequent,No,NULL,Not Applicable
+EMP2946,44,3,4,58,Frequent,No,NULL,Not Applicable
+EMP2947,47,5,7,28,Frequent,No,NULL,Not Applicable
+EMP2948,38,4,3,37,Rare,No,NULL,Not Applicable
+EMP2949,43,10,14,1,No Travel,No,NULL,Not Applicable
+EMP2950,38,4,6,0,No Travel,No,NULL,Not Applicable
+EMP2951,57,15,7,101,No Travel,Yes,2025-08-06,Job Dissatisfaction
+EMP2952,46,11,3,24,Rare,Yes,2025-12-28,Career Growth
+EMP2953,36,8,5,105,No Travel,No,NULL,Not Applicable
+EMP2954,66,9,4,63,No Travel,No,NULL,Not Applicable
+EMP2955,38,4,4,52,Rare,No,NULL,Not Applicable
+EMP2956,39,5,7,68,Rare,No,NULL,Not Applicable
+EMP2957,49,3,5,40,No Travel,No,NULL,Not Applicable
+EMP2958,78,2,6,85,Rare,No,NULL,Not Applicable
+EMP2959,31,7,4,49,No Travel,No,NULL,Not Applicable
+EMP2960,63,8,4,10,No Travel,No,NULL,Not Applicable
+EMP2961,60,7,8,23,No Travel,No,NULL,Not Applicable
+EMP2962,39,5,4,44,Rare,No,NULL,Not Applicable
+EMP2963,54,4,5,45,Frequent,No,NULL,Not Applicable
+EMP2964,63,5,6,8,No Travel,No,NULL,Not Applicable
+EMP2965,31,5,3,70,Rare,No,NULL,Not Applicable
+EMP2966,66,7,9,75,No Travel,No,NULL,Not Applicable
+EMP2967,36,9,8,45,Rare,No,NULL,Not Applicable
+EMP2968,51,6,10,20,Rare,No,NULL,Not Applicable
+EMP2969,31,14,6,87,No Travel,No,NULL,Not Applicable
+EMP2970,41,6,1,63,No Travel,No,NULL,Not Applicable
+EMP2971,45,8,7,59,Frequent,No,NULL,Not Applicable
+EMP2972,46,1,3,4,No Travel,No,NULL,Not Applicable
+EMP2973,42,4,4,103,No Travel,No,NULL,Not Applicable
+EMP2974,9,6,3,0,Frequent,Yes,2018-04-25,Personal Reasons
+EMP2975,7,5,7,81,Rare,No,NULL,Not Applicable
+EMP2976,38,11,3,0,Frequent,No,NULL,Not Applicable
+EMP2977,30,4,5,23,Rare,No,NULL,Not Applicable
+EMP2978,47,5,1,0,No Travel,No,NULL,Not Applicable
+EMP2979,57,7,5,0,Rare,No,NULL,Not Applicable
+EMP2980,31,3,10,48,Rare,No,NULL,Not Applicable
+EMP2981,47,4,8,19,Rare,No,NULL,Not Applicable
+EMP2982,34,4,5,57,Rare,No,NULL,Not Applicable
+EMP2983,33,5,8,51,Rare,Yes,2022-11-02,Work-Life Balance
+EMP2984,54,11,5,25,Rare,No,NULL,Not Applicable
+EMP2985,46,9,6,43,Rare,No,NULL,Not Applicable
+EMP2986,57,12,7,59,No Travel,No,NULL,Not Applicable
+EMP2987,61,3,3,100,No Travel,No,NULL,Not Applicable
+EMP2988,53,11,8,60,Rare,Yes,2025-10-20,Relocation
+EMP2989,10,5,4,34,Frequent,No,NULL,Not Applicable
+EMP2990,46,6,5,60,No Travel,No,NULL,Not Applicable
+EMP2991,49,6,12,57,Rare,No,NULL,Not Applicable
+EMP2992,24,2,4,22,Rare,No,NULL,Not Applicable
+EMP2993,5,7,3,46,Frequent,No,NULL,Not Applicable
+EMP2994,27,14,10,80,Rare,No,NULL,Not Applicable
+EMP2995,51,1,5,70,Rare,Yes,2024-12-26,Work-Life Balance
+EMP2996,36,5,3,47,Frequent,No,NULL,Not Applicable
+EMP2997,59,7,6,0,No Travel,Yes,2025-07-25,Relocation
+EMP2998,39,3,6,75,No Travel,Yes,2025-05-03,Personal Reasons
+EMP2999,20,9,4,31,Rare,Yes,2015-03-02,Work-Life Balance
+EMP3000,34,6,4,30,No Travel,No,NULL,Not Applicable
